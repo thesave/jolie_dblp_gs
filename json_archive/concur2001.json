@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur2001\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"106.91"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"39",
+"@dc":"39",
+"@oc":"39",
+"@id":"13631306",
+"text":":facetid:toc:db/conf/concur/concur2001.bht"
+}
+},
+"hits":{
+"@total":"39",
+"@computed":"39",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3647369",
+"info":{"authors":{"author":["Parosh Aziz Abdulla","Bengt Jonsson"]},"title":"Channel Representations in Protocol Verification.","venue":"CONCUR","pages":"1-15","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/AbdullaJ01","doi":"10.1007/3-540-44685-0_1","ee":"https://doi.org/10.1007/3-540-44685-0_1","url":"https://dblp.org/rec/conf/concur/AbdullaJ01"},
+"url":"URL#3647369"
+},
+{
+"@score":"1",
+"@id":"3647370",
+"info":{"authors":{"author":"Alessandro Aldini"},"title":"Probabilistic Information Flow in a Process Algebra.","venue":"CONCUR","pages":"152-168","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/Aldini01","doi":"10.1007/3-540-44685-0_11","ee":"https://doi.org/10.1007/3-540-44685-0_11","url":"https://dblp.org/rec/conf/concur/Aldini01"},
+"url":"URL#3647370"
+},
+{
+"@score":"1",
+"@id":"3647371",
+"info":{"authors":{"author":["Luca de Alfaro","Thomas A. Henzinger","Ranjit Jhala"]},"title":"Compositional Methods for Probabilistic Systems.","venue":"CONCUR","pages":"351-365","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/AlfaroHJ01","doi":"10.1007/3-540-44685-0_24","ee":"https://doi.org/10.1007/3-540-44685-0_24","url":"https://dblp.org/rec/conf/concur/AlfaroHJ01"},
+"url":"URL#3647371"
+},
+{
+"@score":"1",
+"@id":"3647372",
+"info":{"authors":{"author":["Luca de Alfaro","Thomas A. Henzinger","Rupak Majumdar"]},"title":"Symbolic Algorithms for Infinite-State Games.","venue":"CONCUR","pages":"536-550","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/AlfaroHM01","doi":"10.1007/3-540-44685-0_36","ee":"https://doi.org/10.1007/3-540-44685-0_36","url":"https://dblp.org/rec/conf/concur/AlfaroHM01"},
+"url":"URL#3647372"
+},
+{
+"@score":"1",
+"@id":"3647373",
+"info":{"authors":{"author":["Luca de Alfaro","Thomas A. Henzinger","Freddy Y. C. Mang"]},"title":"The Control of Synchronous Systems, Part II.","venue":"CONCUR","pages":"566-582","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/AlfaroHM01a","doi":"10.1007/3-540-44685-0_38","ee":"https://doi.org/10.1007/3-540-44685-0_38","url":"https://dblp.org/rec/conf/concur/AlfaroHM01a"},
+"url":"URL#3647373"
+},
+{
+"@score":"1",
+"@id":"3647374",
+"info":{"authors":{"author":["Paul C. Attie","Nancy A. Lynch"]},"title":"Dynamic Input/Output Automata - A Formal Model for Dynamic Systems.","venue":"CONCUR","pages":"137-151","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/AttieL01","doi":"10.1007/3-540-44685-0_10","ee":"https://doi.org/10.1007/3-540-44685-0_10","url":"https://dblp.org/rec/conf/concur/AttieL01"},
+"url":"URL#3647374"
+},
+{
+"@score":"1",
+"@id":"3647375",
+"info":{"authors":{"author":["Paolo Baldan","Andrea Corradini","Hartmut Ehrig","Reiko Heckel"]},"title":"Compositional Modeling of Reactive Systems Using Open Nets.","venue":"CONCUR","pages":"502-518","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/BaldanCEH01","doi":"10.1007/3-540-44685-0_34","ee":"https://doi.org/10.1007/3-540-44685-0_34","url":"https://dblp.org/rec/conf/concur/BaldanCEH01"},
+"url":"URL#3647375"
+},
+{
+"@score":"1",
+"@id":"3647376",
+"info":{"authors":{"author":["Paolo Baldan","Andrea Corradini","Barbara König 0001"]},"title":"A Static Analysis Technique for Graph Transformation Systems.","venue":"CONCUR","pages":"381-395","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/BaldanCK01","doi":"10.1007/3-540-44685-0_26","ee":"https://doi.org/10.1007/3-540-44685-0_26","url":"https://dblp.org/rec/conf/concur/BaldanCK01"},
+"url":"URL#3647376"
+},
+{
+"@score":"1",
+"@id":"3647377",
+"info":{"authors":{"author":["Patricia Bouyer","Antoine Petit 0001","Denis Thérien"]},"title":"An Algebraic Characterization of Data and Timed Languages.","venue":"CONCUR","pages":"248-261","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/BouyerPT01","doi":"10.1007/3-540-44685-0_17","ee":"https://doi.org/10.1007/3-540-44685-0_17","url":"https://dblp.org/rec/conf/concur/BouyerPT01"},
+"url":"URL#3647377"
+},
+{
+"@score":"1",
+"@id":"3647378",
+"info":{"authors":{"author":["Franck van Breugel","James Worrell 0001"]},"title":"An Algorithm for Quantitative Verification of Probabilistic Transition Systems.","venue":"CONCUR","pages":"336-350","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/BreugelW01","doi":"10.1007/3-540-44685-0_23","ee":"https://doi.org/10.1007/3-540-44685-0_23","url":"https://dblp.org/rec/conf/concur/BreugelW01"},
+"url":"URL#3647378"
+},
+{
+"@score":"1",
+"@id":"3647379",
+"info":{"authors":{"author":["Michele Bugliesi","Giuseppe Castagna","Silvia Crafa"]},"title":"Reasoning about Security in Mobile Ambients.","venue":"CONCUR","pages":"102-120","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/BugliesiCC01","doi":"10.1007/3-540-44685-0_8","ee":"https://doi.org/10.1007/3-540-44685-0_8","url":"https://dblp.org/rec/conf/concur/BugliesiCC01"},
+"url":"URL#3647379"
+},
+{
+"@score":"1",
+"@id":"3647380",
+"info":{"authors":{"author":["Giuseppe Castagna","Giorgio Ghelli","Francesco Zappa Nardelli"]},"title":"Typing Mobility in the Seal Calculus.","venue":"CONCUR","pages":"82-101","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/CastagnaGN01","doi":"10.1007/3-540-44685-0_7","ee":"https://doi.org/10.1007/3-540-44685-0_7","url":"https://dblp.org/rec/conf/concur/CastagnaGN01"},
+"url":"URL#3647380"
+},
+{
+"@score":"1",
+"@id":"3647381",
+"info":{"authors":{"author":["Marsha Chechik","Benet Devereux","Steve M. Easterbrook","Albert Y. C. Lai","Victor Petrovykh"]},"title":"Efficient Multiple-Valued Model-Checking Using Lattice Representations.","venue":"CONCUR","pages":"441-455","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/ChechikDELP01","doi":"10.1007/3-540-44685-0_30","ee":"https://doi.org/10.1007/3-540-44685-0_30","url":"https://dblp.org/rec/conf/concur/ChechikDELP01"},
+"url":"URL#3647381"
+},
+{
+"@score":"1",
+"@id":"3647382",
+"info":{"authors":{"author":["Yifeng Chen","Jeff W. Sanders"]},"title":"Logic of Global Synchrony.","venue":"CONCUR","pages":"487-501","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/ChenS01","doi":"10.1007/3-540-44685-0_33","ee":"https://doi.org/10.1007/3-540-44685-0_33","url":"https://dblp.org/rec/conf/concur/ChenS01"},
+"url":"URL#3647382"
+},
+{
+"@score":"1",
+"@id":"3647383",
+"info":{"authors":{"author":["Marie Duflot","Laurent Fribourg","Ulf Nilsson"]},"title":"Unavoidable Configurations of Parameterized Rings of Processes.","venue":"CONCUR","pages":"472-486","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/DuflotFN01","doi":"10.1007/3-540-44685-0_32","ee":"https://doi.org/10.1007/3-540-44685-0_32","url":"https://dblp.org/rec/conf/concur/DuflotFN01"},
+"url":"URL#3647383"
+},
+{
+"@score":"1",
+"@id":"3647384",
+"info":{"authors":{"author":["Jaco Geldenhuys","Antti Valmari"]},"title":"Techniques for Smaller Intermediary BDDs.","venue":"CONCUR","pages":"233-247","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/GeldenhuysV01","doi":"10.1007/3-540-44685-0_16","ee":"https://doi.org/10.1007/3-540-44685-0_16","url":"https://dblp.org/rec/conf/concur/GeldenhuysV01"},
+"url":"URL#3647384"
+},
+{
+"@score":"1",
+"@id":"3647385",
+"info":{"authors":{"author":["Marcelo Glusman","Shmuel Katz"]},"title":"Extending Memory Consistency of Finite Prefixes to Infinite Computations.","venue":"CONCUR","pages":"411-425","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/GlusmanK01","doi":"10.1007/3-540-44685-0_28","ee":"https://doi.org/10.1007/3-540-44685-0_28","url":"https://dblp.org/rec/conf/concur/GlusmanK01"},
+"url":"URL#3647385"
+},
+{
+"@score":"1",
+"@id":"3647386",
+"info":{"authors":{"author":["Patrice Godefroid","Michael Huth","Radha Jagadeesan"]},"title":"Abstraction-Based Model Checking Using Modal Transition Systems.","venue":"CONCUR","pages":"426-440","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/GodefroidHJ01","doi":"10.1007/3-540-44685-0_29","ee":"https://doi.org/10.1007/3-540-44685-0_29","url":"https://dblp.org/rec/conf/concur/GodefroidHJ01"},
+"url":"URL#3647386"
+},
+{
+"@score":"1",
+"@id":"3647387",
+"info":{"authors":{"author":["John Hatcliff","Matthew B. Dwyer"]},"title":"Using the Bandera Tool Set to Model-Check Properties of Concurrent Java Software.","venue":"CONCUR","pages":"39-58","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/HatcliffD01","doi":"10.1007/3-540-44685-0_5","ee":"https://doi.org/10.1007/3-540-44685-0_5","url":"https://dblp.org/rec/conf/concur/HatcliffD01"},
+"url":"URL#3647387"
+},
+{
+"@score":"1",
+"@id":"3647388",
+"info":{"authors":{"author":"Keijo Heljanko"},"title":"Bounded Reachability Checking with Process Semantics.","venue":"CONCUR","pages":"218-232","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/Heljanko01","doi":"10.1007/3-540-44685-0_15","ee":"https://doi.org/10.1007/3-540-44685-0_15","url":"https://dblp.org/rec/conf/concur/Heljanko01"},
+"url":"URL#3647388"
+},
+{
+"@score":"1",
+"@id":"3647389",
+"info":{"authors":{"author":["Holger Hermanns","Joost-Pieter Katoen"]},"title":"Performance Evaluation - = (Process Algebra + Model Checking) × Markov Chains.","venue":"CONCUR","pages":"59-81","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/HermannsK01","doi":"10.1007/3-540-44685-0_6","ee":"https://doi.org/10.1007/3-540-44685-0_6","url":"https://dblp.org/rec/conf/concur/HermannsK01"},
+"url":"URL#3647389"
+},
+{
+"@score":"1",
+"@id":"3647390",
+"info":{"authors":{"author":["Dan Hirsch","Ugo Montanari"]},"title":"Synchronized Hyperedge Replacement with Name Mobility.","venue":"CONCUR","pages":"121-136","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/HirschM01","doi":"10.1007/3-540-44685-0_9","ee":"https://doi.org/10.1007/3-540-44685-0_9","url":"https://dblp.org/rec/conf/concur/HirschM01"},
+"url":"URL#3647390"
+},
+{
+"@score":"1",
+"@id":"3647391",
+"info":{"authors":{"author":["Victor Khomenko","Maciej Koutny"]},"title":"Towards an Efficient Algorithm for Unfolding Petri Nets.","venue":"CONCUR","pages":"366-380","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/KhomenkoK01","doi":"10.1007/3-540-44685-0_25","ee":"https://doi.org/10.1007/3-540-44685-0_25","url":"https://dblp.org/rec/conf/concur/KhomenkoK01"},
+"url":"URL#3647391"
+},
+{
+"@score":"1",
+"@id":"3647392",
+"info":{"authors":{"author":["Steve Kremer","Jean-François Raskin"]},"title":"A Game-Based Verification of Non-repudiation and Fair Exchange Protocols.","venue":"CONCUR","pages":"551-565","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/KremerR01","doi":"10.1007/3-540-44685-0_37","ee":"https://doi.org/10.1007/3-540-44685-0_37","url":"https://dblp.org/rec/conf/concur/KremerR01"},
+"url":"URL#3647392"
+},
+{
+"@score":"1",
+"@id":"3647393",
+"info":{"authors":{"author":["Orna Kupferman","Nir Piterman","Moshe Y. Vardi"]},"title":"Extended Temporal Logic Revisited.","venue":"CONCUR","pages":"519-535","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/KupfermanPV01","doi":"10.1007/3-540-44685-0_35","ee":"https://doi.org/10.1007/3-540-44685-0_35","url":"https://dblp.org/rec/conf/concur/KupfermanPV01"},
+"url":"URL#3647393"
+},
+{
+"@score":"1",
+"@id":"3647394",
+"info":{"authors":{"author":["Marta Z. Kwiatkowska","Gethin Norman","Jeremy Sproston"]},"title":"Symbolic Computation of Maximal Probabilistic Reachability.","venue":"CONCUR","pages":"169-183","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/KwiatkowskaNS01","doi":"10.1007/3-540-44685-0_12","ee":"https://doi.org/10.1007/3-540-44685-0_12","url":"https://dblp.org/rec/conf/concur/KwiatkowskaNS01"},
+"url":"URL#3647394"
+},
+{
+"@score":"1",
+"@id":"3647395",
+"info":{"authors":{"author":["Natalia López","Manuel Núñez 0001"]},"title":"A Testing Theory for Generally Distributed Stochastic Processes.","venue":"CONCUR","pages":"321-335","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/LopezN01","doi":"10.1007/3-540-44685-0_22","ee":"https://doi.org/10.1007/3-540-44685-0_22","url":"https://dblp.org/rec/conf/concur/LopezN01"},
+"url":"URL#3647395"
+},
+{
+"@score":"1",
+"@id":"3647396",
+"info":{"authors":{"author":["Gerald Lüttgen","Walter Vogler"]},"title":"A Faster-than Relation for Asynchronous Processes.","venue":"CONCUR","pages":"262-276","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/LuttgenV01","doi":"10.1007/3-540-44685-0_18","ee":"https://doi.org/10.1007/3-540-44685-0_18","url":"https://dblp.org/rec/conf/concur/LuttgenV01"},
+"url":"URL#3647396"
+},
+{
+"@score":"1",
+"@id":"3647397",
+"info":{"authors":{"author":"Robin Milner"},"title":"Bigraphical Reactive Systems.","venue":"CONCUR","pages":"16-35","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/Milner01","doi":"10.1007/3-540-44685-0_2","ee":"https://doi.org/10.1007/3-540-44685-0_2","url":"https://dblp.org/rec/conf/concur/Milner01"},
+"url":"URL#3647397"
+},
+{
+"@score":"1",
+"@id":"3647398",
+"info":{"authors":{"author":["Peter Niebert","Michaela Huhn","Sarah Zennou","Denis Lugiez"]},"title":"Local First Search - A New Paradigm for Partial Order Reductions.","venue":"CONCUR","pages":"396-410","year":"2001","type":"Conference and Workshop Papers","key":"conf/concur/NiebertHZL01","doi":"10.1007/3-540-44685-0_27","ee":"https://doi.org/10.1007/3-540-44685-0_27","url":"https://dblp.org/rec/conf/concur/NiebertHZL01"},
+"url":"URL#3647398"
+}
+]
+}
+}
+}

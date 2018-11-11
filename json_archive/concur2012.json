@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur2012\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"112.97"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"40",
+"@dc":"40",
+"@oc":"40",
+"@id":"13631317",
+"text":":facetid:toc:db/conf/concur/concur2012.bht"
+}
+},
+"hits":{
+"@total":"40",
+"@computed":"40",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1786325",
+"info":{"authors":{"author":["Fides Aarts","Faranak Heidarian","Frits W. Vaandrager"]},"title":"A Theory of History Dependent Abstractions for Learning Interface Automata.","venue":"CONCUR","pages":"240-255","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/AartsHV12","doi":"10.1007/978-3-642-32940-1_18","ee":"https://doi.org/10.1007/978-3-642-32940-1_18","url":"https://dblp.org/rec/conf/concur/AartsHV12"},
+"url":"URL#1786325"
+},
+{
+"@score":"1",
+"@id":"1786326",
+"info":{"authors":{"author":["Guy Avni","Orna Kupferman"]},"title":"Making Weighted Containment Feasible - A Heuristic Based on Simulation and Abstraction.","venue":"CONCUR","pages":"84-99","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/AvniK12","doi":"10.1007/978-3-642-32940-1_8","ee":"https://doi.org/10.1007/978-3-642-32940-1_8","url":"https://dblp.org/rec/conf/concur/AvniK12"},
+"url":"URL#1786326"
+},
+{
+"@score":"1",
+"@id":"1786327",
+"info":{"authors":{"author":["Jos C. M. Baeten","Bas Luttik","Paul van Tilburg"]},"title":"Turing Meets Milner.","venue":"CONCUR","pages":"1-20","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/BaetenLT12","doi":"10.1007/978-3-642-32940-1_1","ee":"https://doi.org/10.1007/978-3-642-32940-1_1","url":"https://dblp.org/rec/conf/concur/BaetenLT12"},
+"url":"URL#1786327"
+},
+{
+"@score":"1",
+"@id":"1786328",
+"info":{"authors":{"author":["Sandie Balaguer","Thomas Chatain"]},"title":"Avoiding Shared Clocks in Networks of Timed Automata.","venue":"CONCUR","pages":"100-114","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/BalaguerC12","doi":"10.1007/978-3-642-32940-1_9","ee":"https://doi.org/10.1007/978-3-642-32940-1_9","url":"https://dblp.org/rec/conf/concur/BalaguerC12"},
+"url":"URL#1786328"
+},
+{
+"@score":"1",
+"@id":"1786329",
+"info":{"authors":{"author":["Béatrice Bérard","Serge Haddad","Mathieu Sassolas","Nathalie Sznajder"]},"title":"Concurrent Games on VASS with Inhibition.","venue":"CONCUR","pages":"39-52","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/BerardHSS12","doi":"10.1007/978-3-642-32940-1_5","ee":"https://doi.org/10.1007/978-3-642-32940-1_5","url":"https://dblp.org/rec/conf/concur/BerardHSS12"},
+"url":"URL#1786329"
+},
+{
+"@score":"1",
+"@id":"1786330",
+"info":{"authors":{"author":["Frank S. de Boer","Mohammad Mahdi Jaghoori","Cosimo Laneve","Gianluigi Zavattaro"]},"title":"Decidability Problems for Actor Systems.","venue":"CONCUR","pages":"562-577","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/BoerJLZ12","doi":"10.1007/978-3-642-32940-1_39","ee":"https://doi.org/10.1007/978-3-642-32940-1_39","url":"https://dblp.org/rec/conf/concur/BoerJLZ12"},
+"url":"URL#1786330"
+},
+{
+"@score":"1",
+"@id":"1786331",
+"info":{"authors":{"author":["Luca Bortolussi","Jane Hillston"]},"title":"Fluid Model Checking.","venue":"CONCUR","pages":"333-347","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/BortolussiH12","doi":"10.1007/978-3-642-32940-1_24","ee":"https://doi.org/10.1007/978-3-642-32940-1_24","url":"https://dblp.org/rec/conf/concur/BortolussiH12"},
+"url":"URL#1786331"
+},
+{
+"@score":"1",
+"@id":"1786332",
+"info":{"authors":{"author":["Romain Brenguier","Stefan Göller","Ocan Sankur"]},"title":"A Comparison of Succinctly Represented Finite-State Systems.","venue":"CONCUR","pages":"147-161","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/BrenguierGS12","doi":"10.1007/978-3-642-32940-1_12","ee":"https://doi.org/10.1007/978-3-642-32940-1_12","url":"https://dblp.org/rec/conf/concur/BrenguierGS12"},
+"url":"URL#1786332"
+},
+{
+"@score":"1",
+"@id":"1786333",
+"info":{"authors":{"author":["Krishnendu Chatterjee","Mickael Randour","Jean-François Raskin"]},"title":"Strategy Synthesis for Multi-Dimensional Quantitative Objectives.","venue":"CONCUR","pages":"115-131","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/ChatterjeeRR12","doi":"10.1007/978-3-642-32940-1_10","ee":"https://doi.org/10.1007/978-3-642-32940-1_10","url":"https://dblp.org/rec/conf/concur/ChatterjeeRR12"},
+"url":"URL#1786333"
+},
+{
+"@score":"1",
+"@id":"1786334",
+"info":{"authors":{"author":["Taolue Chen","Vojtech Forejt","Marta Z. Kwiatkowska","Aistis Simaitis","Ashutosh Trivedi","Michael Ummels"]},"title":"Playing Stochastic Games Precisely.","venue":"CONCUR","pages":"348-363","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/ChenFKSTU12","doi":"10.1007/978-3-642-32940-1_25","ee":"https://doi.org/10.1007/978-3-642-32940-1_25","url":"https://dblp.org/rec/conf/concur/ChenFKSTU12"},
+"url":"URL#1786334"
+},
+{
+"@score":"1",
+"@id":"1786335",
+"info":{"authors":{"author":["Tzu-Chun Chen","Kohei Honda"]},"title":"Specifying Stateful Asynchronous Properties for Distributed Programs.","venue":"CONCUR","pages":"209-224","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/ChenH12","doi":"10.1007/978-3-642-32940-1_16","ee":"https://doi.org/10.1007/978-3-642-32940-1_16","url":"https://dblp.org/rec/conf/concur/ChenH12"},
+"url":"URL#1786335"
+},
+{
+"@score":"1",
+"@id":"1786336",
+"info":{"authors":{"author":["Aiswarya Cyriac","Paul Gastin","K. Narayan Kumar"]},"title":"MSO Decidability of Multi-Pushdown Systems via Split-Width.","venue":"CONCUR","pages":"547-561","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/CyriacGK12","doi":"10.1007/978-3-642-32940-1_38","ee":"https://doi.org/10.1007/978-3-642-32940-1_38","url":"https://dblp.org/rec/conf/concur/CyriacGK12"},
+"url":"URL#1786336"
+},
+{
+"@score":"1",
+"@id":"1786337",
+"info":{"authors":{"author":["Wojciech Czerwinski","Piotr Hofman","Slawomir Lasota"]},"title":"Reachability Problem for Weak Multi-Pushdown Automata.","venue":"CONCUR","pages":"53-68","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/CzerwinskiHL12","doi":"10.1007/978-3-642-32940-1_6","ee":"https://doi.org/10.1007/978-3-642-32940-1_6","url":"https://dblp.org/rec/conf/concur/CzerwinskiHL12"},
+"url":"URL#1786337"
+},
+{
+"@score":"1",
+"@id":"1786338",
+"info":{"authors":{"author":["Romain Demangeon","Kohei Honda"]},"title":"Nested Protocols in Session Types.","venue":"CONCUR","pages":"272-286","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/DemangeonH12","doi":"10.1007/978-3-642-32940-1_20","ee":"https://doi.org/10.1007/978-3-642-32940-1_20","url":"https://dblp.org/rec/conf/concur/DemangeonH12"},
+"url":"URL#1786338"
+},
+{
+"@score":"1",
+"@id":"1786339",
+"info":{"authors":{"author":["Emmanuel Filiot","Raffaella Gentilini","Jean-François Raskin"]},"title":"Quantitative Languages Defined by Functional Automata.","venue":"CONCUR","pages":"132-146","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/FiliotGR12","doi":"10.1007/978-3-642-32940-1_11","ee":"https://doi.org/10.1007/978-3-642-32940-1_11","url":"https://dblp.org/rec/conf/concur/FiliotGR12"},
+"url":"URL#1786339"
+},
+{
+"@score":"1",
+"@id":"1786340",
+"info":{"authors":{"author":["Luca Fossati","Kohei Honda","Nobuko Yoshida"]},"title":"Intensional and Extensional Characterisation of Global Progress in the π-Calculus.","venue":"CONCUR","pages":"287-301","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/FossatiHY12","doi":"10.1007/978-3-642-32940-1_21","ee":"https://doi.org/10.1007/978-3-642-32940-1_21","url":"https://dblp.org/rec/conf/concur/FossatiHY12"},
+"url":"URL#1786340"
+},
+{
+"@score":"1",
+"@id":"1786341",
+"info":{"authors":{"author":["Matthias Függer","Josef Widder"]},"title":"Efficient Checking of Link-Reversal-Based Concurrent Systems.","venue":"CONCUR","pages":"486-499","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/FuggerW12","doi":"10.1007/978-3-642-32940-1_34","ee":"https://doi.org/10.1007/978-3-642-32940-1_34","url":"https://dblp.org/rec/conf/concur/FuggerW12"},
+"url":"URL#1786341"
+},
+{
+"@score":"1",
+"@id":"1786342",
+"info":{"authors":{"author":["Daniel Gebler","Wan Fokkink"]},"title":"Compositionality of Probabilistic Hennessy-Milner Logic through Structural Operational Semantics.","venue":"CONCUR","pages":"395-409","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/GeblerF12","doi":"10.1007/978-3-642-32940-1_28","ee":"https://doi.org/10.1007/978-3-642-32940-1_28","url":"https://dblp.org/rec/conf/concur/GeblerF12"},
+"url":"URL#1786342"
+},
+{
+"@score":"1",
+"@id":"1786343",
+"info":{"authors":{"author":["Alexey Gotsman","Hongseok Yang"]},"title":"Linearizability with Ownership Transfer.","venue":"CONCUR","pages":"256-271","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/GotsmanY12","doi":"10.1007/978-3-642-32940-1_19","ee":"https://doi.org/10.1007/978-3-642-32940-1_19","url":"https://dblp.org/rec/conf/concur/GotsmanY12"},
+"url":"URL#1786343"
+},
+{
+"@score":"1",
+"@id":"1786344",
+"info":{"authors":{"author":["Daniel Hirschkoff","Jean-Marie Madiot","Davide Sangiorgi"]},"title":"Duality and i/o-Types in the π-Calculus.","venue":"CONCUR","pages":"302-316","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/HirschkoffMS12","doi":"10.1007/978-3-642-32940-1_22","ee":"https://doi.org/10.1007/978-3-642-32940-1_22","url":"https://dblp.org/rec/conf/concur/HirschkoffMS12"},
+"url":"URL#1786344"
+},
+{
+"@score":"1",
+"@id":"1786345",
+"info":{"authors":{"author":["Ryszard Janicki","Xiang Yin","Nadezhda Zubkova"]},"title":"Modeling Interval Order Structures with Partially Commutative Monoids.","venue":"CONCUR","pages":"425-439","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/JanickiYZ12","doi":"10.1007/978-3-642-32940-1_30","ee":"https://doi.org/10.1007/978-3-642-32940-1_30","url":"https://dblp.org/rec/conf/concur/JanickiYZ12"},
+"url":"URL#1786345"
+},
+{
+"@score":"1",
+"@id":"1786346",
+"info":{"authors":{"author":["Alexander Kaiser 0001","Daniel Kroening","Thomas Wahl"]},"title":"Efficient Coverability Analysis by Proof Minimization.","venue":"CONCUR","pages":"500-515","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/KaiserKW12","doi":"10.1007/978-3-642-32940-1_35","ee":"https://doi.org/10.1007/978-3-642-32940-1_35","url":"https://dblp.org/rec/conf/concur/KaiserKW12"},
+"url":"URL#1786346"
+},
+{
+"@score":"1",
+"@id":"1786347",
+"info":{"authors":{"author":["Henning Kerstan","Barbara König 0001"]},"title":"Coalgebraic Trace Semantics for Probabilistic Transition Systems Based on Measure Theory.","venue":"CONCUR","pages":"410-424","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/KerstanK12","doi":"10.1007/978-3-642-32940-1_29","ee":"https://doi.org/10.1007/978-3-642-32940-1_29","url":"https://dblp.org/rec/conf/concur/KerstanK12"},
+"url":"URL#1786347"
+},
+{
+"@score":"1",
+"@id":"1786348",
+"info":{"authors":{"author":["Sophia Knight","Catuscia Palamidessi","Prakash Panangaden","Frank D. Valencia"]},"title":"Spatial and Epistemic Modalities in Constraint-Based Process Calculi.","venue":"CONCUR","pages":"317-332","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/KnightPPV12","doi":"10.1007/978-3-642-32940-1_23","ee":"https://doi.org/10.1007/978-3-642-32940-1_23","url":"https://dblp.org/rec/conf/concur/KnightPPV12"},
+"url":"URL#1786348"
+},
+{
+"@score":"1",
+"@id":"1786349",
+"info":{"authors":{"author":["Julien Lange","Emilio Tuosto"]},"title":"Synthesising Choreographies from Local Session Types.","venue":"CONCUR","pages":"225-239","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/LangeT12","doi":"10.1007/978-3-642-32940-1_17","ee":"https://doi.org/10.1007/978-3-642-32940-1_17","url":"https://dblp.org/rec/conf/concur/LangeT12"},
+"url":"URL#1786349"
+},
+{
+"@score":"1",
+"@id":"1786350",
+"info":{"authors":{"author":["Mohsen Lesani","Victor Luchangco","Mark Moir"]},"title":"A Framework for Formally Verifying Software Transactional Memory Algorithms.","venue":"CONCUR","pages":"516-530","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/LesaniLM12","doi":"10.1007/978-3-642-32940-1_36","ee":"https://doi.org/10.1007/978-3-642-32940-1_36","url":"https://dblp.org/rec/conf/concur/LesaniLM12"},
+"url":"URL#1786350"
+},
+{
+"@score":"1",
+"@id":"1786351",
+"info":{"authors":{"author":["Arnaud Da Costa Lopes","François Laroussinie","Nicolas Markey"]},"title":"Quantified CTL - Expressiveness and Model Checking - (Extended Abstract).","venue":"CONCUR","pages":"177-192","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/LopesLM12","doi":"10.1007/978-3-642-32940-1_14","ee":"https://doi.org/10.1007/978-3-642-32940-1_14","url":"https://dblp.org/rec/conf/concur/LopesLM12"},
+"url":"URL#1786351"
+},
+{
+"@score":"1",
+"@id":"1786352",
+"info":{"authors":{"author":"Roy Mennicke"},"title":"Propositional Dynamic Logic with Converse and Repeat for Message-Passing Systems.","venue":"CONCUR","pages":"531-546","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/Mennicke12","doi":"10.1007/978-3-642-32940-1_37","ee":"https://doi.org/10.1007/978-3-642-32940-1_37","url":"https://dblp.org/rec/conf/concur/Mennicke12"},
+"url":"URL#1786352"
+},
+{
+"@score":"1",
+"@id":"1786353",
+"info":{"authors":{"author":["Roland Meyer","Victor Khomenko","Reiner Hüchting"]},"title":"A Polynomial Translation of π-Calculus (FCP) to Safe Petri Nets.","venue":"CONCUR","pages":"440-455","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/MeyerKH12","doi":"10.1007/978-3-642-32940-1_31","ee":"https://doi.org/10.1007/978-3-642-32940-1_31","url":"https://dblp.org/rec/conf/concur/MeyerKH12"},
+"url":"URL#1786353"
+},
+{
+"@score":"1",
+"@id":"1786354",
+"info":{"authors":{"author":"Lukasz Mikulski"},"title":"Algebraic Structure of Combined Traces.","venue":"CONCUR","pages":"456-470","year":"2012","type":"Conference and Workshop Papers","key":"conf/concur/Mikulski12","doi":"10.1007/978-3-642-32940-1_32","ee":"https://doi.org/10.1007/978-3-642-32940-1_32","url":"https://dblp.org/rec/conf/concur/Mikulski12"},
+"url":"URL#1786354"
+}
+]
+}
+}
+}

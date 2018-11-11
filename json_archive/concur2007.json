@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur2007\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"109.50"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"34",
+"@dc":"34",
+"@oc":"34",
+"@id":"13631312",
+"text":":facetid:toc:db/conf/concur/concur2007.bht"
+}
+},
+"hits":{
+"@total":"34",
+"@computed":"34",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2872612",
+"info":{"authors":{"author":["Luca Aceto","Anna Ingólfsdóttir"]},"title":"The Saga of the Axiomatization of Parallel Composition.","venue":"CONCUR","pages":"2-16","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/AcetoI07","doi":"10.1007/978-3-540-74407-8_2","ee":"https://doi.org/10.1007/978-3-540-74407-8_2","url":"https://dblp.org/rec/conf/concur/AcetoI07"},
+"url":"URL#2872612"
+},
+{
+"@score":"1",
+"@id":"2872613",
+"info":{"authors":{"author":["S. Akshay","Madhavan Mukund","K. Narayan Kumar"]},"title":"Checking Coverage for Infinite Collections of Timed Scenarios.","venue":"CONCUR","pages":"181-196","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/AkshayMK07","doi":"10.1007/978-3-540-74407-8_13","ee":"https://doi.org/10.1007/978-3-540-74407-8_13","url":"https://dblp.org/rec/conf/concur/AkshayMK07"},
+"url":"URL#2872613"
+},
+{
+"@score":"1",
+"@id":"2872614",
+"info":{"authors":{"author":["Luca de Alfaro","Pritam Roy"]},"title":"Solving Games Via Three-Valued Abstraction Refinement.","venue":"CONCUR","pages":"74-89","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/AlfaroR07","doi":"10.1007/978-3-540-74407-8_6","ee":"https://doi.org/10.1007/978-3-540-74407-8_6","url":"https://dblp.org/rec/conf/concur/AlfaroR07"},
+"url":"URL#2872614"
+},
+{
+"@score":"1",
+"@id":"2872615",
+"info":{"authors":{"author":["Benjamin Aminof","Aniello Murano","Moshe Y. Vardi"]},"title":"Pushdown Module Checking with Imperfect Information.","venue":"CONCUR","pages":"460-475","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/AminofMV07","doi":"10.1007/978-3-540-74407-8_31","ee":"https://doi.org/10.1007/978-3-540-74407-8_31","url":"https://dblp.org/rec/conf/concur/AminofMV07"},
+"url":"URL#2872615"
+},
+{
+"@score":"1",
+"@id":"2872616",
+"info":{"authors":{"author":["Shoham Ben-David","Dana Fisman","Sitvanit Ruah"]},"title":"Temporal Antecedent Failure - Refining Vacuity.","venue":"CONCUR","pages":"492-506","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/Ben-DavidFR07","doi":"10.1007/978-3-540-74407-8_33","ee":"https://doi.org/10.1007/978-3-540-74407-8_33","url":"https://dblp.org/rec/conf/concur/Ben-DavidFR07"},
+"url":"URL#2872616"
+},
+{
+"@score":"1",
+"@id":"2872617",
+"info":{"authors":{"author":["Filippo Bonchi","Ugo Montanari"]},"title":"Coalgebraic Models for Reactive Systems.","venue":"CONCUR","pages":"364-379","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/BonchiM07","doi":"10.1007/978-3-540-74407-8_25","ee":"https://doi.org/10.1007/978-3-540-74407-8_25","url":"https://dblp.org/rec/conf/concur/BonchiM07"},
+"url":"URL#2872617"
+},
+{
+"@score":"1",
+"@id":"2872618",
+"info":{"authors":{"author":"Gérard Boudol"},"title":"Fair Cooperative Multithreading.","venue":"CONCUR","pages":"272-286","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/Boudol07","doi":"10.1007/978-3-540-74407-8_19","ee":"https://doi.org/10.1007/978-3-540-74407-8_19","url":"https://dblp.org/rec/conf/concur/Boudol07"},
+"url":"URL#2872618"
+},
+{
+"@score":"1",
+"@id":"2872619",
+"info":{"authors":{"author":"Laura Bozzelli"},"title":"Alternating Automata and a Temporal Fixpoint Calculus for Visibly Pushdown Languages.","venue":"CONCUR","pages":"476-491","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/Bozzelli07","doi":"10.1007/978-3-540-74407-8_32","ee":"https://doi.org/10.1007/978-3-540-74407-8_32","url":"https://dblp.org/rec/conf/concur/Bozzelli07"},
+"url":"URL#2872619"
+},
+{
+"@score":"1",
+"@id":"2872620",
+"info":{"authors":{"author":["Tomás Brázdil","Vojtech Forejt"]},"title":"Strategy Synthesis for Markov Decision Processes and Branching-Time Logics.","venue":"CONCUR","pages":"428-444","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/BrazdilF07","doi":"10.1007/978-3-540-74407-8_29","ee":"https://doi.org/10.1007/978-3-540-74407-8_29","url":"https://dblp.org/rec/conf/concur/BrazdilF07"},
+"url":"URL#2872620"
+},
+{
+"@score":"1",
+"@id":"2872621",
+"info":{"authors":{"author":["Thomas Brihaye","François Laroussinie","Nicolas Markey","Ghassan Oreiby"]},"title":"Timed Concurrent Game Structures.","venue":"CONCUR","pages":"445-459","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/BrihayeLMO07","doi":"10.1007/978-3-540-74407-8_30","ee":"https://doi.org/10.1007/978-3-540-74407-8_30","url":"https://dblp.org/rec/conf/concur/BrihayeLMO07"},
+"url":"URL#2872621"
+},
+{
+"@score":"1",
+"@id":"2872622",
+"info":{"authors":{"author":["Rohit Chadha","Mahesh Viswanathan 0001"]},"title":"Decidability Results for Well-Structured Transition Systems with Auxiliary Storage.","venue":"CONCUR","pages":"136-150","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/ChadhaV07","doi":"10.1007/978-3-540-74407-8_10","ee":"https://doi.org/10.1007/978-3-540-74407-8_10","url":"https://dblp.org/rec/conf/concur/ChadhaV07"},
+"url":"URL#2872622"
+},
+{
+"@score":"1",
+"@id":"2872623",
+"info":{"authors":{"author":["Krishnendu Chatterjee","Thomas A. Henzinger","Nir Piterman"]},"title":"Strategy Logic.","venue":"CONCUR","pages":"59-73","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/ChatterjeeHP07","doi":"10.1007/978-3-540-74407-8_5","ee":"https://doi.org/10.1007/978-3-540-74407-8_5","url":"https://dblp.org/rec/conf/concur/ChatterjeeHP07"},
+"url":"URL#2872623"
+},
+{
+"@score":"1",
+"@id":"2872624",
+"info":{"authors":{"author":["Konstantinos Chatzikokolakis 0001","Catuscia Palamidessi"]},"title":"Making Random Choices Invisible to the Scheduler.","venue":"CONCUR","pages":"42-58","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/ChatzikokolakisP07","doi":"10.1007/978-3-540-74407-8_4","ee":"https://doi.org/10.1007/978-3-540-74407-8_4","url":"https://dblp.org/rec/conf/concur/ChatzikokolakisP07"},
+"url":"URL#2872624"
+},
+{
+"@score":"1",
+"@id":"2872625",
+"info":{"authors":{"author":["Taolue Chen","Bas Ploeger","Jaco van de Pol","Tim A. C. Willemse"]},"title":"Equivalence Checking for Infinite Systems Using Parameterized Boolean Equation Systems.","venue":"CONCUR","pages":"120-135","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/ChenPPW07","doi":"10.1007/978-3-540-74407-8_9","ee":"https://doi.org/10.1007/978-3-540-74407-8_9","url":"https://dblp.org/rec/conf/concur/ChenPPW07"},
+"url":"URL#2872625"
+},
+{
+"@score":"1",
+"@id":"2872626",
+"info":{"authors":{"author":["Silvia Crafa","Daniele Varacca","Nobuko Yoshida"]},"title":"Compositional Event Structure Semantics for the Internal pi -Calculus.","venue":"CONCUR","pages":"317-332","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/CrafaVY07","doi":"10.1007/978-3-540-74407-8_22","ee":"https://doi.org/10.1007/978-3-540-74407-8_22","url":"https://dblp.org/rec/conf/concur/CrafaVY07"},
+"url":"URL#2872626"
+},
+{
+"@score":"1",
+"@id":"2872627",
+"info":{"authors":{"author":["Vincent Danos","Jérôme Feret","Walter Fontana","Russell Harmer","Jean Krivine"]},"title":"Rule-Based Modelling of Cellular Signalling.","venue":"CONCUR","pages":"17-41","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/DanosFFHK07","doi":"10.1007/978-3-540-74407-8_3","ee":"https://doi.org/10.1007/978-3-540-74407-8_3","url":"https://dblp.org/rec/conf/concur/DanosFFHK07"},
+"url":"URL#2872627"
+},
+{
+"@score":"1",
+"@id":"2872628",
+"info":{"authors":{"author":["Thomas Ehrhard","Olivier Laurent"]},"title":"Interpreting a Finitary Pi-calculus in Differential Interaction Nets.","venue":"CONCUR","pages":"333-348","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/EhrhardL07","doi":"10.1007/978-3-540-74407-8_23","ee":"https://doi.org/10.1007/978-3-540-74407-8_23","url":"https://dblp.org/rec/conf/concur/EhrhardL07"},
+"url":"URL#2872628"
+},
+{
+"@score":"1",
+"@id":"2872629",
+"info":{"authors":{"author":["Thomas Gazagnaire","Blaise Genest","Loïc Hélouët","P. S. Thiagarajan","Shaofa Yang"]},"title":"Causal Message Sequence Charts.","venue":"CONCUR","pages":"166-180","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/GazagnaireGHTY07","doi":"10.1007/978-3-540-74407-8_12","ee":"https://doi.org/10.1007/978-3-540-74407-8_12","url":"https://dblp.org/rec/conf/concur/GazagnaireGHTY07"},
+"url":"URL#2872629"
+},
+{
+"@score":"1",
+"@id":"2872630",
+"info":{"authors":{"author":["Davide Grohmann","Marino Miculan"]},"title":"Reactive Systems over Directed Bigraphs.","venue":"CONCUR","pages":"380-394","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/GrohmannM07","doi":"10.1007/978-3-540-74407-8_26","ee":"https://doi.org/10.1007/978-3-540-74407-8_26","url":"https://dblp.org/rec/conf/concur/GrohmannM07"},
+"url":"URL#2872630"
+},
+{
+"@score":"1",
+"@id":"2872631",
+"info":{"authors":{"author":"Samuel Hym"},"title":"Mobility Control Via Passports.","venue":"CONCUR","pages":"349-363","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/Hym07","doi":"10.1007/978-3-540-74407-8_24","ee":"https://doi.org/10.1007/978-3-540-74407-8_24","url":"https://dblp.org/rec/conf/concur/Hym07"},
+"url":"URL#2872631"
+},
+{
+"@score":"1",
+"@id":"2872632",
+"info":{"authors":{"author":["Peter Lammich","Markus Müller-Olm"]},"title":"Precise Fixpoint-Based Analysis of Programs with Thread-Creation and Procedures.","venue":"CONCUR","pages":"287-302","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/LammichM07","doi":"10.1007/978-3-540-74407-8_20","ee":"https://doi.org/10.1007/978-3-540-74407-8_20","url":"https://dblp.org/rec/conf/concur/LammichM07"},
+"url":"URL#2872632"
+},
+{
+"@score":"1",
+"@id":"2872633",
+"info":{"authors":{"author":["Cosimo Laneve","Luca Padovani"]},"title":"The Must Preorder Revisited.","venue":"CONCUR","pages":"212-225","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/LaneveP07","doi":"10.1007/978-3-540-74407-8_15","ee":"https://doi.org/10.1007/978-3-540-74407-8_15","url":"https://dblp.org/rec/conf/concur/LaneveP07"},
+"url":"URL#2872633"
+},
+{
+"@score":"1",
+"@id":"2872634",
+"info":{"authors":{"author":"Martin Lange"},"title":"Linear Time Logics Around PSL - Complexity, Expressiveness, and a Little Bit of Succinctness.","venue":"CONCUR","pages":"90-104","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/Lange07","doi":"10.1007/978-3-540-74407-8_7","ee":"https://doi.org/10.1007/978-3-540-74407-8_7","url":"https://dblp.org/rec/conf/concur/Lange07"},
+"url":"URL#2872634"
+},
+{
+"@score":"1",
+"@id":"2872635",
+"info":{"authors":{"author":["Kim Guldstrand Larsen","Ulrik Nyman","Andrzej Wasowski"]},"title":"On Modal Refinement and Consistency.","venue":"CONCUR","pages":"105-119","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/LarsenNW07","doi":"10.1007/978-3-540-74407-8_8","ee":"https://doi.org/10.1007/978-3-540-74407-8_8","url":"https://dblp.org/rec/conf/concur/LarsenNW07"},
+"url":"URL#2872635"
+},
+{
+"@score":"1",
+"@id":"2872636",
+"info":{"authors":{"author":["Paul-André Melliès","Samuel Mimram"]},"title":"Asynchronous Games - Innocence Without Alternation.","venue":"CONCUR","pages":"395-411","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/MelliesM07","doi":"10.1007/978-3-540-74407-8_27","ee":"https://doi.org/10.1007/978-3-540-74407-8_27","url":"https://dblp.org/rec/conf/concur/MelliesM07"},
+"url":"URL#2872636"
+},
+{
+"@score":"1",
+"@id":"2872637",
+"info":{"authors":{"author":["Michael Mendler","Gerald Lüttgen"]},"title":"Is Observational Congruence Axiomatisable in Equational Horn Logic?","venue":"CONCUR","pages":"197-211","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/MendlerL07","doi":"10.1007/978-3-540-74407-8_14","ee":"https://doi.org/10.1007/978-3-540-74407-8_14","url":"https://dblp.org/rec/conf/concur/MendlerL07"},
+"url":"URL#2872637"
+},
+{
+"@score":"1",
+"@id":"2872638",
+"info":{"authors":{"author":["Sebastian Nanz","Flemming Nielson","Hanne Riis Nielson"]},"title":"Topology-Dependent Abstractions of Broadcast Networks.","venue":"CONCUR","pages":"226-240","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/NanzNN07","doi":"10.1007/978-3-540-74407-8_16","ee":"https://doi.org/10.1007/978-3-540-74407-8_16","url":"https://dblp.org/rec/conf/concur/NanzNN07"},
+"url":"URL#2872638"
+},
+{
+"@score":"1",
+"@id":"2872639",
+"info":{"authors":{"author":["Martin R. Neuhäußer","Joost-Pieter Katoen"]},"title":"Bisimulation and Logical Preservation for Continuous-Time Markov Decision Processes.","venue":"CONCUR","pages":"412-427","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/NeuhausserK07","doi":"10.1007/978-3-540-74407-8_28","ee":"https://doi.org/10.1007/978-3-540-74407-8_28","url":"https://dblp.org/rec/conf/concur/NeuhausserK07"},
+"url":"URL#2872639"
+},
+{
+"@score":"1",
+"@id":"2872640",
+"info":{"authors":{"author":"Luigi Santocanale"},"title":"A Nice Labelling for Tree-Like Event Structures of Degree 3.","venue":"CONCUR","pages":"151-165","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/Santocanale07","doi":"10.1007/978-3-540-74407-8_11","ee":"https://doi.org/10.1007/978-3-540-74407-8_11","url":"https://dblp.org/rec/conf/concur/Santocanale07"},
+"url":"URL#2872640"
+},
+{
+"@score":"1",
+"@id":"2872641",
+"info":{"authors":{"author":"Fred B. Schneider"},"title":"Mapping the Security Landscape - A Role for Language Techniques.","venue":"CONCUR","pages":"1","year":"2007","type":"Conference and Workshop Papers","key":"conf/concur/Schneider07","doi":"10.1007/978-3-540-74407-8_1","ee":"https://doi.org/10.1007/978-3-540-74407-8_1","url":"https://dblp.org/rec/conf/concur/Schneider07"},
+"url":"URL#2872641"
+}
+]
+}
+}
+}

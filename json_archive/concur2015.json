@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur2015\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"100.91"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"40",
+"@dc":"40",
+"@oc":"40",
+"@id":"13631320",
+"text":":facetid:toc:db/conf/concur/concur2015.bht"
+}
+},
+"hits":{
+"@total":"40",
+"@computed":"40",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"976537",
+"info":{"authors":{"author":"Alexandra Silva 0001"},"title":"Applications of Automata and Concurrency Theory in Networks (Invited Paper).","venue":"CONCUR","pages":"42-43","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/000115","doi":"10.4230/LIPICS.CONCUR.2015.42","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.42","url":"https://dblp.org/rec/conf/concur/000115"},
+"url":"URL#976537"
+},
+{
+"@score":"1",
+"@id":"976538",
+"info":{"authors":{"author":["C. Aiswarya","Benedikt Bollig","Paul Gastin"]},"title":"An Automata-Theoretic Approach to the Verification of Distributed Algorithms.","venue":"CONCUR","pages":"340-353","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/AiswaryaBG15","doi":"10.4230/LIPICS.CONCUR.2015.340","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.340","url":"https://dblp.org/rec/conf/concur/AiswaryaBG15"},
+"url":"URL#976538"
+},
+{
+"@score":"1",
+"@id":"976539",
+"info":{"authors":{"author":["Shaull Almagor","Guy Avni","Orna Kupferman"]},"title":"Repairing Multi-Player Games.","venue":"CONCUR","pages":"325-339","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/AlmagorAK15","doi":"10.4230/LIPICS.CONCUR.2015.325","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.325","url":"https://dblp.org/rec/conf/concur/AlmagorAK15"},
+"url":"URL#976539"
+},
+{
+"@score":"1",
+"@id":"976540",
+"info":{"authors":{"author":["David Baelde","Stéphanie Delaune","Lucca Hirschi"]},"title":"Partial Order Reduction for Security Protocols.","venue":"CONCUR","pages":"497-510","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/BaeldeDH15","doi":"10.4230/LIPICS.CONCUR.2015.497","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.497","url":"https://dblp.org/rec/conf/concur/BaeldeDH15"},
+"url":"URL#976540"
+},
+{
+"@score":"1",
+"@id":"976541",
+"info":{"authors":{"author":["Nathalie Bertrand 0001","Paulin Fournier","Arnaud Sangnier"]},"title":"Distributed Local Strategies in Broadcast Networks.","venue":"CONCUR","pages":"44-57","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/BertrandFS15","doi":"10.4230/LIPICS.CONCUR.2015.44","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.44","url":"https://dblp.org/rec/conf/concur/BertrandFS15"},
+"url":"URL#976541"
+},
+{
+"@score":"1",
+"@id":"976542",
+"info":{"authors":{"author":["Eike Best","Raymond R. Devillers"]},"title":"Synthesis of Bounded Choice-Free Petri Nets.","venue":"CONCUR","pages":"128-141","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/BestD15","doi":"10.4230/LIPICS.CONCUR.2015.128","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.128","url":"https://dblp.org/rec/conf/concur/BestD15"},
+"url":"URL#976542"
+},
+{
+"@score":"1",
+"@id":"976543",
+"info":{"authors":{"author":["Laura Bocchi","Julien Lange","Nobuko Yoshida"]},"title":"Meeting Deadlines Together.","venue":"CONCUR","pages":"283-296","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/BocchiLY15","doi":"10.4230/LIPICS.CONCUR.2015.283","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.283","url":"https://dblp.org/rec/conf/concur/BocchiLY15"},
+"url":"URL#976543"
+},
+{
+"@score":"1",
+"@id":"976544",
+"info":{"authors":{"author":["Filippo Bonchi","Daniela Petrisan","Damien Pous","Jurriaan Rot"]},"title":"Lax Bialgebras and Up-To Techniques for Weak Bisimulations.","venue":"CONCUR","pages":"240-253","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/BonchiPPR15","doi":"10.4230/LIPICS.CONCUR.2015.240","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.240","url":"https://dblp.org/rec/conf/concur/BonchiPPR15"},
+"url":"URL#976544"
+},
+{
+"@score":"1",
+"@id":"976545",
+"info":{"authors":{"author":["Patricia Bouyer","Samy Jaziri","Nicolas Markey"]},"title":"On the Value Problem in Weighted Timed Games.","venue":"CONCUR","pages":"311-324","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/BouyerJM15","doi":"10.4230/LIPICS.CONCUR.2015.311","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.311","url":"https://dblp.org/rec/conf/concur/BouyerJM15"},
+"url":"URL#976545"
+},
+{
+"@score":"1",
+"@id":"976546",
+"info":{"authors":{"author":["Romain Brenguier","Jean-François Raskin","Ocan Sankur"]},"title":"Assume-Admissible Synthesis.","venue":"CONCUR","pages":"100-113","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/BrenguierRS15","doi":"10.4230/LIPICS.CONCUR.2015.100","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.100","url":"https://dblp.org/rec/conf/concur/BrenguierRS15"},
+"url":"URL#976546"
+},
+{
+"@score":"1",
+"@id":"976547",
+"info":{"authors":{"author":["Thomas Brihaye","Gilles Geeraerts","Axel Haddad","Benjamin Monmege"]},"title":"To Reach or not to Reach? Efficient Algorithms for Total-Payoff Games.","venue":"CONCUR","pages":"297-310","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/BrihayeGHM15","doi":"10.4230/LIPICS.CONCUR.2015.297","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.297","url":"https://dblp.org/rec/conf/concur/BrihayeGHM15"},
+"url":"URL#976547"
+},
+{
+"@score":"1",
+"@id":"976548",
+"info":{"authors":{"author":["Marco Carbone","Fabrizio Montesi","Carsten Schürmann","Nobuko Yoshida"]},"title":"Multiparty Session Types as Coherence Proofs.","venue":"CONCUR","pages":"412-426","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/CarboneMSY15","doi":"10.4230/LIPICS.CONCUR.2015.412","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.412","url":"https://dblp.org/rec/conf/concur/CarboneMSY15"},
+"url":"URL#976548"
+},
+{
+"@score":"1",
+"@id":"976549",
+"info":{"authors":{"author":["Luca Cardelli","Mirco Tribastone","Max Tschaikowski","Andrea Vandin"]},"title":"Forward and Backward Bisimulations for Chemical Reaction Networks.","venue":"CONCUR","pages":"226-239","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/CardelliTTV15","doi":"10.4230/LIPICS.CONCUR.2015.226","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.226","url":"https://dblp.org/rec/conf/concur/CardelliTTV15"},
+"url":"URL#976549"
+},
+{
+"@score":"1",
+"@id":"976550",
+"info":{"authors":{"author":["Andrea Cerone","Giovanni Bernardi 0001","Alexey Gotsman"]},"title":"A Framework for Transactional Consistency Models with Atomic Visibility.","venue":"CONCUR","pages":"58-71","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/Cerone0G15","doi":"10.4230/LIPICS.CONCUR.2015.58","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.58","url":"https://dblp.org/rec/conf/concur/Cerone0G15"},
+"url":"URL#976550"
+},
+{
+"@score":"1",
+"@id":"976551",
+"info":{"authors":{"author":["Taolue Chen","Fu Song","Zhilin Wu"]},"title":"On the Satisfiability of Indexed Linear Temporal Logics.","venue":"CONCUR","pages":"254-267","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/ChenSW15","doi":"10.4230/LIPICS.CONCUR.2015.254","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.254","url":"https://dblp.org/rec/conf/concur/ChenSW15"},
+"url":"URL#976551"
+},
+{
+"@score":"1",
+"@id":"976552",
+"info":{"authors":{"author":["Roberto Di Cosmo","Michael Lienhardt","Jacopo Mauro","Stefano Zacchiroli","Gianluigi Zavattaro","Jakub Zwolakowski"]},"title":"Automatic Application Deployment in the Cloud - from Practice to Theory and Back (Invited Paper).","venue":"CONCUR","pages":"1-16","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/CosmoLMZZZ15","doi":"10.4230/LIPICS.CONCUR.2015.1","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.1","url":"https://dblp.org/rec/conf/concur/CosmoLMZZZ15"},
+"url":"URL#976552"
+},
+{
+"@score":"1",
+"@id":"976553",
+"info":{"authors":{"author":["Yuxin Deng","Yuan Feng","Ugo Dal Lago"]},"title":"On Coinduction and Quantum Lambda Calculi.","venue":"CONCUR","pages":"427-440","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/DengFL15","doi":"10.4230/LIPICS.CONCUR.2015.427","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.427","url":"https://dblp.org/rec/conf/concur/DengFL15"},
+"url":"URL#976553"
+},
+{
+"@score":"1",
+"@id":"976554",
+"info":{"authors":{"author":["Javier Esparza","Pierre Ganty","Jérôme Leroux","Rupak Majumdar"]},"title":"Verification of Population Protocols.","venue":"CONCUR","pages":"470-482","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/EsparzaGLM15","doi":"10.4230/LIPICS.CONCUR.2015.470","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.470","url":"https://dblp.org/rec/conf/concur/EsparzaGLM15"},
+"url":"URL#976554"
+},
+{
+"@score":"1",
+"@id":"976555",
+"info":{"authors":{"author":["Yuan Feng","Mingsheng Ying"]},"title":"Toward Automatic Verification of Quantum Cryptographic Protocols.","venue":"CONCUR","pages":"441-455","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/FengY15","doi":"10.4230/LIPICS.CONCUR.2015.441","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.441","url":"https://dblp.org/rec/conf/concur/FengY15"},
+"url":"URL#976555"
+},
+{
+"@score":"1",
+"@id":"976556",
+"info":{"authors":{"author":["Dana Fisman","Yoad Lustig"]},"title":"A Modular Approach for Büchi Determinization.","venue":"CONCUR","pages":"368-382","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/FismanL15","doi":"10.4230/LIPICS.CONCUR.2015.368","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.368","url":"https://dblp.org/rec/conf/concur/FismanL15"},
+"url":"URL#976556"
+},
+{
+"@score":"1",
+"@id":"976557",
+"info":{"authors":{"author":["Vojtech Forejt","Jan Krcál"]},"title":"On Frequency LTL in Probabilistic Systems.","venue":"CONCUR","pages":"184-197","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/ForejtK15","doi":"10.4230/LIPICS.CONCUR.2015.184","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.184","url":"https://dblp.org/rec/conf/concur/ForejtK15"},
+"url":"URL#976557"
+},
+{
+"@score":"1",
+"@id":"976558",
+"info":{"authors":{"author":["Ivan Gavran","Filip Niksic","Aditya Kanade","Rupak Majumdar","Viktor Vafeiadis"]},"title":"Rely/Guarantee Reasoning for Asynchronous Programs.","venue":"CONCUR","pages":"483-496","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/GavranNKMV15","doi":"10.4230/LIPICS.CONCUR.2015.483","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.483","url":"https://dblp.org/rec/conf/concur/GavranNKMV15"},
+"url":"URL#976558"
+},
+{
+"@score":"1",
+"@id":"976559",
+"info":{"authors":{"author":["Daniel Gebler","Simone Tini"]},"title":"SOS Specifications of Probabilistic Systems by Uniformly Continuous Operators.","venue":"CONCUR","pages":"155-168","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/GeblerT15","doi":"10.4230/LIPICS.CONCUR.2015.155","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.155","url":"https://dblp.org/rec/conf/concur/GeblerT15"},
+"url":"URL#976559"
+},
+{
+"@score":"1",
+"@id":"976560",
+"info":{"authors":{"author":["Julian Gutierrez 0001","Paul Harrenstein","Michael Wooldridge"]},"title":"Expresiveness and Complexity Results for Strategic Reasoning.","venue":"CONCUR","pages":"268-282","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/GutierrezHW15","doi":"10.4230/LIPICS.CONCUR.2015.268","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.268","url":"https://dblp.org/rec/conf/concur/GutierrezHW15"},
+"url":"URL#976560"
+},
+{
+"@score":"1",
+"@id":"976561",
+"info":{"authors":{"author":["Ernst Moritz Hahn","Guangyuan Li","Sven Schewe","Andrea Turrini","Lijun Zhang 0001"]},"title":"Lazy Probabilistic Model Checking without Determinisation.","venue":"CONCUR","pages":"354-367","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/HahnLST015","doi":"10.4230/LIPICS.CONCUR.2015.354","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.354","url":"https://dblp.org/rec/conf/concur/HahnLST015"},
+"url":"URL#976561"
+},
+{
+"@score":"1",
+"@id":"976562",
+"info":{"authors":{"author":["David Harel","Guy Katz","Robby Lampert","Assaf Marron","Gera Weiss"]},"title":"On the Succinctness of Idioms for Concurrent Programming.","venue":"CONCUR","pages":"85-99","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/HarelKLMW15","doi":"10.4230/LIPICS.CONCUR.2015.85","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.85","url":"https://dblp.org/rec/conf/concur/HarelKLMW15"},
+"url":"URL#976562"
+},
+{
+"@score":"1",
+"@id":"976563",
+"info":{"authors":{"author":"Matthew Hennessy"},"title":"Behavioural Equivalences for Co-operating Transactions (Invited Paper).","venue":"CONCUR","pages":"41-41","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/Hennessy15","doi":"10.4230/LIPICS.CONCUR.2015.41","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.41","url":"https://dblp.org/rec/conf/concur/Hennessy15"},
+"url":"URL#976563"
+},
+{
+"@score":"1",
+"@id":"976564",
+"info":{"authors":{"author":["Paul Hunter","Guillermo A. Pérez","Jean-François Raskin"]},"title":"Reactive Synthesis Without Regret.","venue":"CONCUR","pages":"114-127","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/HunterPR15","doi":"10.4230/LIPICS.CONCUR.2015.114","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.114","url":"https://dblp.org/rec/conf/concur/HunterPR15"},
+"url":"URL#976564"
+},
+{
+"@score":"1",
+"@id":"976565",
+"info":{"authors":{"author":["Narges Khakpour","Mohammad Reza Mousavi"]},"title":"Notions of Conformance Testing for Cyber-Physical Systems - Overview and Roadmap (Invited Paper).","venue":"CONCUR","pages":"18-40","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/KhakpourM15","doi":"10.4230/LIPICS.CONCUR.2015.18","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.18","url":"https://dblp.org/rec/conf/concur/KhakpourM15"},
+"url":"URL#976565"
+},
+{
+"@score":"1",
+"@id":"976566",
+"info":{"authors":{"author":["Dimitrios Kouzapas","Jorge A. Pérez","Nobuko Yoshida"]},"title":"Characteristic Bisimulation for Higher-Order Session Processes.","venue":"CONCUR","pages":"398-411","year":"2015","type":"Conference and Workshop Papers","key":"conf/concur/KouzapasPY15","doi":"10.4230/LIPICS.CONCUR.2015.398","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2015.398","url":"https://dblp.org/rec/conf/concur/KouzapasPY15"},
+"url":"URL#976566"
+}
+]
+}
+}
+}

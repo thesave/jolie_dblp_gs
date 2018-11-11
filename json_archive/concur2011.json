@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur2011\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"104.92"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"37",
+"@dc":"37",
+"@oc":"37",
+"@id":"13631316",
+"text":":facetid:toc:db/conf/concur/concur2011.bht"
+}
+},
+"hits":{
+"@total":"37",
+"@computed":"37",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2029453",
+"info":{"authors":{"author":["Wil M. P. van der Aalst","Arya Adriansyah","Boudewijn F. van Dongen"]},"title":"Causal Nets - A Modeling Language Tailored towards Process Discovery.","venue":"CONCUR","pages":"28-42","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/AalstAD11","doi":"10.1007/978-3-642-23217-6_3","ee":"https://doi.org/10.1007/978-3-642-23217-6_3","url":"https://dblp.org/rec/conf/concur/AalstAD11"},
+"url":"URL#2029453"
+},
+{
+"@score":"1",
+"@id":"2029454",
+"info":{"authors":{"author":"Parosh Aziz Abdulla"},"title":"Carrying Probabilities to the Infinite World.","venue":"CONCUR","pages":"1-16","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/Abdulla11","doi":"10.1007/978-3-642-23217-6_1","ee":"https://doi.org/10.1007/978-3-642-23217-6_1","url":"https://dblp.org/rec/conf/concur/Abdulla11"},
+"url":"URL#2029454"
+},
+{
+"@score":"1",
+"@id":"2029455",
+"info":{"authors":{"author":["Parosh Aziz Abdulla","Yu-Fang Chen","Lorenzo Clemente","Lukás Holík","Chih-Duo Hong","Richard Mayr","Tomás Vojnar"]},"title":"Advanced Ramsey-Based Büchi Automata Inclusion Testing.","venue":"CONCUR","pages":"187-202","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/AbdullaCCHHMV11","doi":"10.1007/978-3-642-23217-6_13","ee":"https://doi.org/10.1007/978-3-642-23217-6_13","url":"https://dblp.org/rec/conf/concur/AbdullaCCHHMV11"},
+"url":"URL#2029455"
+},
+{
+"@score":"1",
+"@id":"2029456",
+"info":{"authors":{"author":["Christel Baier","Joachim Klein 0001","Sascha Klüppelholz"]},"title":"A Compositional Framework for Controller Synthesis.","venue":"CONCUR","pages":"512-527","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/BaierKK11","doi":"10.1007/978-3-642-23217-6_34","ee":"https://doi.org/10.1007/978-3-642-23217-6_34","url":"https://dblp.org/rec/conf/concur/BaierKK11"},
+"url":"URL#2029456"
+},
+{
+"@score":"1",
+"@id":"2029457",
+"info":{"authors":{"author":["Michael Benedikt","Rastislav Lenhardt","James Worrell 0001"]},"title":"Two Variable vs. Linear Temporal Logic in Model Checking and Games.","venue":"CONCUR","pages":"497-511","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/BenediktLW11","doi":"10.1007/978-3-642-23217-6_33","ee":"https://doi.org/10.1007/978-3-642-23217-6_33","url":"https://dblp.org/rec/conf/concur/BenediktLW11"},
+"url":"URL#2029457"
+},
+{
+"@score":"1",
+"@id":"2029458",
+"info":{"authors":{"author":"Benedikt Bollig"},"title":"An Automaton over Data Words That Captures EMSO Logic.","venue":"CONCUR","pages":"171-186","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/Bollig11","doi":"10.1007/978-3-642-23217-6_12","ee":"https://doi.org/10.1007/978-3-642-23217-6_12","url":"https://dblp.org/rec/conf/concur/Bollig11"},
+"url":"URL#2029458"
+},
+{
+"@score":"1",
+"@id":"2029459",
+"info":{"authors":{"author":["Patricia Bouyer","Kim G. Larsen","Nicolas Markey","Ocan Sankur","Claus R. Thrane"]},"title":"Timed Automata Can Always Be Made Implementable.","venue":"CONCUR","pages":"76-91","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/BouyerLMST11","doi":"10.1007/978-3-642-23217-6_6","ee":"https://doi.org/10.1007/978-3-642-23217-6_6","url":"https://dblp.org/rec/conf/concur/BouyerLMST11"},
+"url":"URL#2029459"
+},
+{
+"@score":"1",
+"@id":"2029460",
+"info":{"authors":{"author":["Tomás Brázdil","Jan Krcál","Jan Kretínský","Vojtech Rehák"]},"title":"Fixed-Delay Events in Generalized Semi-Markov Processes Revisited.","venue":"CONCUR","pages":"140-155","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/BrazdilKKR11","doi":"10.1007/978-3-642-23217-6_10","ee":"https://doi.org/10.1007/978-3-642-23217-6_10","url":"https://dblp.org/rec/conf/concur/BrazdilKKR11"},
+"url":"URL#2029460"
+},
+{
+"@score":"1",
+"@id":"2029461",
+"info":{"authors":{"author":["Roberto Bruni","Hernán C. Melgratti","Ugo Montanari"]},"title":"A Connector Algebra for P/T Nets Interactions.","venue":"CONCUR","pages":"312-326","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/BruniMM11","doi":"10.1007/978-3-642-23217-6_21","ee":"https://doi.org/10.1007/978-3-642-23217-6_21","url":"https://dblp.org/rec/conf/concur/BruniMM11"},
+"url":"URL#2029461"
+},
+{
+"@score":"1",
+"@id":"2029462",
+"info":{"authors":{"author":["Byron Cook","Christoph Haase","Joël Ouaknine","Matthew J. Parkinson","James Worrell 0001"]},"title":"Tractable Reasoning in a Fragment of Separation Logic.","venue":"CONCUR","pages":"235-249","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/CookHOPW11","doi":"10.1007/978-3-642-23217-6_16","ee":"https://doi.org/10.1007/978-3-642-23217-6_16","url":"https://dblp.org/rec/conf/concur/CookHOPW11"},
+"url":"URL#2029462"
+},
+{
+"@score":"1",
+"@id":"2029463",
+"info":{"authors":{"author":["Silvia Crafa","Francesco Ranzato"]},"title":"A Spectrum of Behavioral Relations over LTSs on Probability Distributions.","venue":"CONCUR","pages":"124-139","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/CrafaR11","doi":"10.1007/978-3-642-23217-6_9","ee":"https://doi.org/10.1007/978-3-642-23217-6_9","url":"https://dblp.org/rec/conf/concur/CrafaR11"},
+"url":"URL#2029463"
+},
+{
+"@score":"1",
+"@id":"2029464",
+"info":{"authors":{"author":["Wojciech Czerwinski","Piotr Hofman","Slawomir Lasota"]},"title":"Decidability of Branching Bisimulation on Normed Commutative Context-Free Processes.","venue":"CONCUR","pages":"528-542","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/CzerwinskiHL11","doi":"10.1007/978-3-642-23217-6_35","ee":"https://doi.org/10.1007/978-3-642-23217-6_35","url":"https://dblp.org/rec/conf/concur/CzerwinskiHL11"},
+"url":"URL#2029464"
+},
+{
+"@score":"1",
+"@id":"2029465",
+"info":{"authors":{"author":["Romain Demangeon","Kohei Honda"]},"title":"Full Abstraction in a Subtyped pi-Calculus with Linear Types.","venue":"CONCUR","pages":"280-296","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/DemangeonH11","doi":"10.1007/978-3-642-23217-6_19","ee":"https://doi.org/10.1007/978-3-642-23217-6_19","url":"https://dblp.org/rec/conf/concur/DemangeonH11"},
+"url":"URL#2029465"
+},
+{
+"@score":"1",
+"@id":"2029466",
+"info":{"authors":{"author":["Jasmin Fisher","Thomas A. Henzinger","Dejan Nickovic","Nir Piterman","Anmol V. Singh","Moshe Y. Vardi"]},"title":"Dynamic Reactive Modules.","venue":"CONCUR","pages":"404-418","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/FisherHNPSV11","doi":"10.1007/978-3-642-23217-6_27","ee":"https://doi.org/10.1007/978-3-642-23217-6_27","url":"https://dblp.org/rec/conf/concur/FisherHNPSV11"},
+"url":"URL#2029466"
+},
+{
+"@score":"1",
+"@id":"2029467",
+"info":{"authors":{"author":["Eli Gafni","Rachid Guerraoui"]},"title":"Generalized Universality.","venue":"CONCUR","pages":"17-27","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/GafniG11","doi":"10.1007/978-3-642-23217-6_2","ee":"https://doi.org/10.1007/978-3-642-23217-6_2","url":"https://dblp.org/rec/conf/concur/GafniG11"},
+"url":"URL#2029467"
+},
+{
+"@score":"1",
+"@id":"2029468",
+"info":{"authors":{"author":["Rob J. van Glabbeek","Ursula Goltz","Jens-Wolfhard Schicke"]},"title":"On Causal Semantics of Petri Nets.","venue":"CONCUR","pages":"43-59","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/GlabbeekGS11","doi":"10.1007/978-3-642-23217-6_4","ee":"https://doi.org/10.1007/978-3-642-23217-6_4","url":"https://dblp.org/rec/conf/concur/GlabbeekGS11"},
+"url":"URL#2029468"
+},
+{
+"@score":"1",
+"@id":"2029469",
+"info":{"authors":{"author":["Stefan Göller","Anthony Widjaja Lin"]},"title":"Refining the Process Rewrite Systems Hierarchy via Ground Tree Rewrite Systems.","venue":"CONCUR","pages":"543-558","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/GollerL11","doi":"10.1007/978-3-642-23217-6_36","ee":"https://doi.org/10.1007/978-3-642-23217-6_36","url":"https://dblp.org/rec/conf/concur/GollerL11"},
+"url":"URL#2029469"
+},
+{
+"@score":"1",
+"@id":"2029470",
+"info":{"authors":{"author":"Jonathan Hayman"},"title":"Granularity and Concurrent Separation Logic.","venue":"CONCUR","pages":"219-234","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/Hayman11","doi":"10.1007/978-3-642-23217-6_15","ee":"https://doi.org/10.1007/978-3-642-23217-6_15","url":"https://dblp.org/rec/conf/concur/Hayman11"},
+"url":"URL#2029470"
+},
+{
+"@score":"1",
+"@id":"2029471",
+"info":{"authors":{"author":"Chaodong He"},"title":"The Decidability of the Reachability Problem for CCS!","venue":"CONCUR","pages":"373-388","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/He11","doi":"10.1007/978-3-642-23217-6_25","ee":"https://doi.org/10.1007/978-3-642-23217-6_25","url":"https://dblp.org/rec/conf/concur/He11"},
+"url":"URL#2029471"
+},
+{
+"@score":"1",
+"@id":"2029472",
+"info":{"authors":{"author":["Frédéric Herbreteau","B. Srivathsan"]},"title":"Coarse Abstractions Make Zeno Behaviours Difficult to Detect.","venue":"CONCUR","pages":"92-107","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/HerbreteauS11","doi":"10.1007/978-3-642-23217-6_7","ee":"https://doi.org/10.1007/978-3-642-23217-6_7","url":"https://dblp.org/rec/conf/concur/HerbreteauS11"},
+"url":"URL#2029472"
+},
+{
+"@score":"1",
+"@id":"2029473",
+"info":{"authors":{"author":["C. A. R. Hoare","Akbar Hussain","Bernhard Möller","Peter W. O&apos;Hearn","Rasmus Lerchedahl Petersen","Georg Struth"]},"title":"On Locality and the Exchange Law for Concurrent Processes.","venue":"CONCUR","pages":"250-264","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/HoareHMOPS11","doi":"10.1007/978-3-642-23217-6_17","ee":"https://doi.org/10.1007/978-3-642-23217-6_17","url":"https://dblp.org/rec/conf/concur/HoareHMOPS11"},
+"url":"URL#2029473"
+},
+{
+"@score":"1",
+"@id":"2029474",
+"info":{"authors":{"author":"Hans Hüttel"},"title":"Typed ψ-calculi.","venue":"CONCUR","pages":"265-279","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/Huttel11","doi":"10.1007/978-3-642-23217-6_18","ee":"https://doi.org/10.1007/978-3-642-23217-6_18","url":"https://dblp.org/rec/conf/concur/Huttel11"},
+"url":"URL#2029474"
+},
+{
+"@score":"1",
+"@id":"2029475",
+"info":{"authors":{"author":"Vineet Kahlon"},"title":"Reasoning about Threads with Bounded Lock Chains.","venue":"CONCUR","pages":"450-465","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/Kahlon11","doi":"10.1007/978-3-642-23217-6_30","ee":"https://doi.org/10.1007/978-3-642-23217-6_30","url":"https://dblp.org/rec/conf/concur/Kahlon11"},
+"url":"URL#2029475"
+},
+{
+"@score":"1",
+"@id":"2029476",
+"info":{"authors":{"author":["Lars Kuhtz","Bernd Finkbeiner"]},"title":"Weak Kripke Structures and LTL.","venue":"CONCUR","pages":"419-433","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/KuhtzF11","doi":"10.1007/978-3-642-23217-6_28","ee":"https://doi.org/10.1007/978-3-642-23217-6_28","url":"https://dblp.org/rec/conf/concur/KuhtzF11"},
+"url":"URL#2029476"
+},
+{
+"@score":"1",
+"@id":"2029477",
+"info":{"authors":{"author":["Ivan Lanese","Claudio Antares Mezzina","Alan Schmitt","Jean-Bernard Stefani"]},"title":"Controlling Reversibility in Higher-Order Pi.","venue":"CONCUR","pages":"297-311","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/LaneseMSS11","doi":"10.1007/978-3-642-23217-6_20","ee":"https://doi.org/10.1007/978-3-642-23217-6_20","url":"https://dblp.org/rec/conf/concur/LaneseMSS11"},
+"url":"URL#2029477"
+},
+{
+"@score":"1",
+"@id":"2029478",
+"info":{"authors":{"author":["Ruggero Lanotte","Massimo Merro"]},"title":"Semantic Analysis of Gossip Protocols for Wireless Sensor Networks.","venue":"CONCUR","pages":"156-170","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/LanotteM11","doi":"10.1007/978-3-642-23217-6_11","ee":"https://doi.org/10.1007/978-3-642-23217-6_11","url":"https://dblp.org/rec/conf/concur/LanotteM11"},
+"url":"URL#2029478"
+},
+{
+"@score":"1",
+"@id":"2029479",
+"info":{"authors":{"author":"Jérôme Leroux"},"title":"Vector Addition System Reversible Reachability Problem.","venue":"CONCUR","pages":"327-341","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/Leroux11","doi":"10.1007/978-3-642-23217-6_22","ee":"https://doi.org/10.1007/978-3-642-23217-6_22","url":"https://dblp.org/rec/conf/concur/Leroux11"},
+"url":"URL#2029479"
+},
+{
+"@score":"1",
+"@id":"2029480",
+"info":{"authors":{"author":["Joël Ouaknine","Hristina Palikareva","A. W. Roscoe","James Worrell 0001"]},"title":"Static Livelock Analysis in CSP.","venue":"CONCUR","pages":"389-403","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/OuakninePRW11","doi":"10.1007/978-3-642-23217-6_26","ee":"https://doi.org/10.1007/978-3-642-23217-6_26","url":"https://dblp.org/rec/conf/concur/OuakninePRW11"},
+"url":"URL#2029480"
+},
+{
+"@score":"1",
+"@id":"2029481",
+"info":{"authors":{"author":["Paritosh K. Pandya","Simoni S. Shah"]},"title":"On Expressive Powers of Timed Logics - Comparing Boundedness, Non-punctuality, and Deterministic Freezing.","venue":"CONCUR","pages":"60-75","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/PandyaS11","doi":"10.1007/978-3-642-23217-6_5","ee":"https://doi.org/10.1007/978-3-642-23217-6_5","url":"https://dblp.org/rec/conf/concur/PandyaS11"},
+"url":"URL#2029481"
+},
+{
+"@score":"1",
+"@id":"2029482",
+"info":{"authors":{"author":["M. Praveen","Kamal Lodaya"]},"title":"Parameterized Complexity Results for 1-safe Petri Nets.","venue":"CONCUR","pages":"358-372","year":"2011","type":"Conference and Workshop Papers","key":"conf/concur/PraveenL11","doi":"10.1007/978-3-642-23217-6_24","ee":"https://doi.org/10.1007/978-3-642-23217-6_24","url":"https://dblp.org/rec/conf/concur/PraveenL11"},
+"url":"URL#2029482"
+}
+]
+}
+}
+}

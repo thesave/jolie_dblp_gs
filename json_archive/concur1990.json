@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur1990\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"102.63"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"37",
+"@dc":"37",
+"@oc":"37",
+"@id":"13631295",
+"text":":facetid:toc:db/conf/concur/concur1990.bht"
+}
+},
+"hits":{
+"@total":"37",
+"@computed":"37",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4185724",
+"info":{"authors":{"author":"Martín Abadi"},"title":"An Axiomatization of Lamport&apos;s Temporal Logic of Actions.","venue":"CONCUR","pages":"57-69","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Abadi90","doi":"10.1007/BFB0039051","ee":"https://doi.org/10.1007/BFb0039051","url":"https://dblp.org/rec/conf/concur/Abadi90"},
+"url":"URL#4185724"
+},
+{
+"@score":"1",
+"@id":"4185725",
+"info":{"authors":{"author":["Anish Arora","Paul C. Attie","Michael Evangelist","Mohamed G. Gouda"]},"title":"Convergence of Iteration Systems (Extended Abstract).","venue":"CONCUR","pages":"70-82","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/AroraAEG90","doi":"10.1007/BFB0039052","ee":"https://doi.org/10.1007/BFb0039052","url":"https://dblp.org/rec/conf/concur/AroraAEG90"},
+"url":"URL#4185725"
+},
+{
+"@score":"1",
+"@id":"4185726",
+"info":{"authors":{"author":["Jos C. M. Baeten","Jan A. Bergstra"]},"title":"Process Algebra with a Zero Object.","venue":"CONCUR","pages":"83-98","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/BaetenB90","doi":"10.1007/BFB0039053","ee":"https://doi.org/10.1007/BFb0039053","url":"https://dblp.org/rec/conf/concur/BaetenB90"},
+"url":"URL#4185726"
+},
+{
+"@score":"1",
+"@id":"4185727",
+"info":{"authors":{"author":"Eike Best"},"title":"Partial Order Semantics of Concurrent Programs (Abstract).","venue":"CONCUR","pages":"1","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Best90","doi":"10.1007/BFB0039046","ee":"https://doi.org/10.1007/BFb0039046","url":"https://dblp.org/rec/conf/concur/Best90"},
+"url":"URL#4185727"
+},
+{
+"@score":"1",
+"@id":"4185728",
+"info":{"authors":{"author":["Frank S. de Boer","Catuscia Palamidessi"]},"title":"On the Asynchronous Nature of Communication in Concurrent Logic Languages - A Fully Abstract Model Based on Sequences.","venue":"CONCUR","pages":"99-114","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/BoerP90","doi":"10.1007/BFB0039054","ee":"https://doi.org/10.1007/BFb0039054","url":"https://dblp.org/rec/conf/concur/BoerP90"},
+"url":"URL#4185728"
+},
+{
+"@score":"1",
+"@id":"4185729",
+"info":{"authors":{"author":["Julian C. Bradfield","Colin Stirling"]},"title":"Verifying Temporal Properties of Processes.","venue":"CONCUR","pages":"115-125","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/BradfieldS90","doi":"10.1007/BFB0039055","ee":"https://doi.org/10.1007/BFb0039055","url":"https://dblp.org/rec/conf/concur/BradfieldS90"},
+"url":"URL#4185729"
+},
+{
+"@score":"1",
+"@id":"4185730",
+"info":{"authors":{"author":"Ivan Christoff"},"title":"Testing Equivalences and Fully Abstract Models for Probabilistic Processes.","venue":"CONCUR","pages":"126-140","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Christoff90","doi":"10.1007/BFB0039056","ee":"https://doi.org/10.1007/BFb0039056","url":"https://dblp.org/rec/conf/concur/Christoff90"},
+"url":"URL#4185730"
+},
+{
+"@score":"1",
+"@id":"4185731",
+"info":{"authors":{"author":["Rance Cleaveland","Bernhard Steffen"]},"title":"A Preorder for Partial Process Specifications.","venue":"CONCUR","pages":"141-151","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/CleavelandS90","doi":"10.1007/BFB0039057","ee":"https://doi.org/10.1007/BFb0039057","url":"https://dblp.org/rec/conf/concur/CleavelandS90"},
+"url":"URL#4185731"
+},
+{
+"@score":"1",
+"@id":"4185732",
+"info":{"authors":{"author":"Jörg Desel"},"title":"Reduction and Design of Well-behaved Concurrent Systems.","venue":"CONCUR","pages":"166-181","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Desel90","doi":"10.1007/BFB0039059","ee":"https://doi.org/10.1007/BFb0039059","url":"https://dblp.org/rec/conf/concur/Desel90"},
+"url":"URL#4185732"
+},
+{
+"@score":"1",
+"@id":"4185733",
+"info":{"authors":{"author":"Javier Esparza"},"title":"Synthesis Rules for Petri Nets, and How they Lead to New Results.","venue":"CONCUR","pages":"182-198","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Esparza90","doi":"10.1007/BFB0039060","ee":"https://doi.org/10.1007/BFb0039060","url":"https://dblp.org/rec/conf/concur/Esparza90"},
+"url":"URL#4185733"
+},
+{
+"@score":"1",
+"@id":"4185734",
+"info":{"authors":{"author":["Alan Fekete","Nancy A. Lynch"]},"title":"The Need for Headers - An Impossibility Result for Communication over Unreliable Channels.","venue":"CONCUR","pages":"199-215","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/FeketeL90","doi":"10.1007/BFB0039061","ee":"https://doi.org/10.1007/BFb0039061","url":"https://dblp.org/rec/conf/concur/FeketeL90"},
+"url":"URL#4185734"
+},
+{
+"@score":"1",
+"@id":"4185735",
+"info":{"authors":{"author":["Yulin Feng","Junbo Liu"]},"title":"A Temporal Approach to Algebraic Specifications.","venue":"CONCUR","pages":"216-229","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/FengL90","doi":"10.1007/BFB0039062","ee":"https://doi.org/10.1007/BFb0039062","url":"https://dblp.org/rec/conf/concur/FengL90"},
+"url":"URL#4185735"
+},
+{
+"@score":"1",
+"@id":"4185736",
+"info":{"authors":{"author":["Nissim Francez","Ira R. Forman"]},"title":"Superimposition for Interacting Processes.","venue":"CONCUR","pages":"230-245","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/FrancezF90","doi":"10.1007/BFB0039063","ee":"https://doi.org/10.1007/BFb0039063","url":"https://dblp.org/rec/conf/concur/FrancezF90"},
+"url":"URL#4185736"
+},
+{
+"@score":"1",
+"@id":"4185737",
+"info":{"authors":{"author":["Lars-Åke Fredlund","Bengt Jonsson","Joachim Parrow"]},"title":"An Implementation of a Translational Semantics for an Imperative Language.","venue":"CONCUR","pages":"246-262","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/FredlundJP90","doi":"10.1007/BFB0039064","ee":"https://doi.org/10.1007/BFb0039064","url":"https://dblp.org/rec/conf/concur/FredlundJP90"},
+"url":"URL#4185737"
+},
+{
+"@score":"1",
+"@id":"4185738",
+"info":{"authors":{"author":["Richard Gerber","Insup Lee"]},"title":"CCSR - A Calculus for Communicating Shared Resources.","venue":"CONCUR","pages":"263-277","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/GerberL90","doi":"10.1007/BFB0039065","ee":"https://doi.org/10.1007/BFb0039065","url":"https://dblp.org/rec/conf/concur/GerberL90"},
+"url":"URL#4185738"
+},
+{
+"@score":"1",
+"@id":"4185739",
+"info":{"authors":{"author":"Rob J. van Glabbeek"},"title":"The Linear Time-Branching Time Spectrum (Extended Abstract).","venue":"CONCUR","pages":"278-297","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Glabbeek90","doi":"10.1007/BFB0039066","ee":"https://doi.org/10.1007/BFb0039066","url":"https://dblp.org/rec/conf/concur/Glabbeek90"},
+"url":"URL#4185739"
+},
+{
+"@score":"1",
+"@id":"4185740",
+"info":{"authors":{"author":["Roberto Gorrieri","Ugo Montanari"]},"title":"SCONE - A Simple Calculus of Nets.","venue":"CONCUR","pages":"2-30","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/GorrieriM90","doi":"10.1007/BFB0039047","ee":"https://doi.org/10.1007/BFb0039047","url":"https://dblp.org/rec/conf/concur/GorrieriM90"},
+"url":"URL#4185740"
+},
+{
+"@score":"1",
+"@id":"4185741",
+"info":{"authors":{"author":"E. Pascal Gribomont"},"title":"A Programming Logic for Formal Concurent Systems.","venue":"CONCUR","pages":"298-313","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Gribomont90","doi":"10.1007/BFB0039067","ee":"https://doi.org/10.1007/BFb0039067","url":"https://dblp.org/rec/conf/concur/Gribomont90"},
+"url":"URL#4185741"
+},
+{
+"@score":"1",
+"@id":"4185742",
+"info":{"authors":{"author":"Jan Friso Groote"},"title":"A New Strategy for Proving omega-Completeness applied to Process Algebra.","venue":"CONCUR","pages":"314-331","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Groote90","doi":"10.1007/BFB0039068","ee":"https://doi.org/10.1007/BFb0039068","url":"https://dblp.org/rec/conf/concur/Groote90"},
+"url":"URL#4185742"
+},
+{
+"@score":"1",
+"@id":"4185743",
+"info":{"authors":{"author":"Jan Friso Groote"},"title":"Transition System Specifications with Negative Premises (Extended Abstract).","venue":"CONCUR","pages":"332-341","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Groote90a","doi":"10.1007/BFB0039069","ee":"https://doi.org/10.1007/BFb0039069","url":"https://dblp.org/rec/conf/concur/Groote90a"},
+"url":"URL#4185743"
+},
+{
+"@score":"1",
+"@id":"4185744",
+"info":{"authors":{"author":"Matthew Hennessy"},"title":"Value-Passing in Process Algebras (Abstract).","venue":"CONCUR","pages":"31","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Hennessy90","doi":"10.1007/BFB0039048","ee":"https://doi.org/10.1007/BFb0039048","url":"https://dblp.org/rec/conf/concur/Hennessy90"},
+"url":"URL#4185744"
+},
+{
+"@score":"1",
+"@id":"4185745",
+"info":{"authors":{"author":"C. A. R. Hoare"},"title":"Let&apos;s Make Models (Abstract).","venue":"CONCUR","pages":"32","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Hoare90","doi":"10.1007/BFB0039049","ee":"https://doi.org/10.1007/BFb0039049","url":"https://dblp.org/rec/conf/concur/Hoare90"},
+"url":"URL#4185745"
+},
+{
+"@score":"1",
+"@id":"4185746",
+"info":{"authors":{"author":["Mark B. Josephs","Jan Tijmen Udding"]},"title":"Delay-Insensitive Circuits - An Algebraic Approach to their Design.","venue":"CONCUR","pages":"342-366","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/JosephsU90","doi":"10.1007/BFB0039070","ee":"https://doi.org/10.1007/BFb0039070","url":"https://dblp.org/rec/conf/concur/JosephsU90"},
+"url":"URL#4185746"
+},
+{
+"@score":"1",
+"@id":"4185747",
+"info":{"authors":{"author":["Chi-Chang Jou","Scott A. Smolka"]},"title":"Equivalences, Congruences, and Complete Axiomatizations for Probabilistic Processes.","venue":"CONCUR","pages":"367-383","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/JouS90","doi":"10.1007/BFB0039071","ee":"https://doi.org/10.1007/BFb0039071","url":"https://dblp.org/rec/conf/concur/JouS90"},
+"url":"URL#4185747"
+},
+{
+"@score":"1",
+"@id":"4185748",
+"info":{"authors":{"author":"Kim Guldstrand Larsen"},"title":"Ideal Specification Formalism + Expressivity + Compositionality + Decidability + Testability + ...","venue":"CONCUR","pages":"33-56","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Larsen90","doi":"10.1007/BFB0039050","ee":"https://doi.org/10.1007/BFb0039050","url":"https://dblp.org/rec/conf/concur/Larsen90"},
+"url":"URL#4185748"
+},
+{
+"@score":"1",
+"@id":"4185749",
+"info":{"authors":{"author":"José Meseguer"},"title":"Rewriting as a Unified Model of Concurrency.","venue":"CONCUR","pages":"384-400","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Meseguer90","doi":"10.1007/BFB0039072","ee":"https://doi.org/10.1007/BFb0039072","url":"https://dblp.org/rec/conf/concur/Meseguer90"},
+"url":"URL#4185749"
+},
+{
+"@score":"1",
+"@id":"4185750",
+"info":{"authors":{"author":["Faron Moller","Chris M. N. Tofts"]},"title":"A Temporal Calculus of Communicating Systems.","venue":"CONCUR","pages":"401-415","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/MollerT90","doi":"10.1007/BFB0039073","ee":"https://doi.org/10.1007/BFb0039073","url":"https://dblp.org/rec/conf/concur/MollerT90"},
+"url":"URL#4185750"
+},
+{
+"@score":"1",
+"@id":"4185751",
+"info":{"authors":{"author":["Rocco De Nicola","Ugo Montanari","Frits W. Vaandrager"]},"title":"Back and Forth Bisimulations.","venue":"CONCUR","pages":"152-165","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/NicolaMV90","doi":"10.1007/BFB0039058","ee":"https://doi.org/10.1007/BFb0039058","url":"https://dblp.org/rec/conf/concur/NicolaMV90"},
+"url":"URL#4185751"
+},
+{
+"@score":"1",
+"@id":"4185752",
+"info":{"authors":{"author":"Pawel Paczkowski"},"title":"Proving Termination of Communicating Programs.","venue":"CONCUR","pages":"416-426","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/Paczkowski90","doi":"10.1007/BFB0039074","ee":"https://doi.org/10.1007/BFb0039074","url":"https://dblp.org/rec/conf/concur/Paczkowski90"},
+"url":"URL#4185752"
+},
+{
+"@score":"1",
+"@id":"4185753",
+"info":{"authors":{"author":["Huajun Qin","Philip Lewis"]},"title":"Factorization of Finite State Machines under Observational Equivalence.","venue":"CONCUR","pages":"427-441","year":"1990","type":"Conference and Workshop Papers","key":"conf/concur/QinL90","doi":"10.1007/BFB0039075","ee":"https://doi.org/10.1007/BFb0039075","url":"https://dblp.org/rec/conf/concur/QinL90"},
+"url":"URL#4185753"
+}
+]
+}
+}
+}

@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur2009\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"113.95"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"42",
+"@dc":"42",
+"@oc":"42",
+"@id":"13631314",
+"text":":facetid:toc:db/conf/concur/concur2009.bht"
+}
+},
+"hits":{
+"@total":"42",
+"@computed":"42",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2478296",
+"info":{"authors":{"author":["Martín Abadi","Tim Harris 0001"]},"title":"Perspectives on Transactional Memory.","venue":"CONCUR","pages":"1-14","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/AbadiH09","doi":"10.1007/978-3-642-04081-8_1","ee":"https://doi.org/10.1007/978-3-642-04081-8_1","url":"https://dblp.org/rec/conf/concur/AbadiH09"},
+"url":"URL#2478296"
+},
+{
+"@score":"1",
+"@id":"2478297",
+"info":{"authors":{"author":["Eugene Asarin","Aldric Degorre"]},"title":"Volume and Entropy of Regular Timed Languages - Discretization Approach.","venue":"CONCUR","pages":"69-83","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/AsarinD09","doi":"10.1007/978-3-642-04081-8_6","ee":"https://doi.org/10.1007/978-3-642-04081-8_6","url":"https://dblp.org/rec/conf/concur/AsarinD09"},
+"url":"URL#2478297"
+},
+{
+"@score":"1",
+"@id":"2478298",
+"info":{"authors":{"author":["Christel Baier","Nathalie Bertrand 0001","Marcus Größer"]},"title":"The Effect of Tossing Coins in Omega-Automata.","venue":"CONCUR","pages":"15-29","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/BaierBG09","doi":"10.1007/978-3-642-04081-8_2","ee":"https://doi.org/10.1007/978-3-642-04081-8_2","url":"https://dblp.org/rec/conf/concur/BaierBG09"},
+"url":"URL#2478298"
+},
+{
+"@score":"1",
+"@id":"2478299",
+"info":{"authors":{"author":["Steffen van Bakel","Maria Grazia Vigliotti"]},"title":"A Logical Interpretation of the λ-Calculus into the π-Calculus, Preserving Spine Reduction and Types.","venue":"CONCUR","pages":"84-98","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/BakelV09","doi":"10.1007/978-3-642-04081-8_7","ee":"https://doi.org/10.1007/978-3-642-04081-8_7","url":"https://dblp.org/rec/conf/concur/BakelV09"},
+"url":"URL#2478299"
+},
+{
+"@score":"1",
+"@id":"2478300",
+"info":{"authors":{"author":["Paolo Baldan","Filippo Bonchi","Fabio Gadducci"]},"title":"Encoding Asynchronous Interactions Using Open Petri Nets.","venue":"CONCUR","pages":"99-114","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/BaldanBG09","doi":"10.1007/978-3-642-04081-8_8","ee":"https://doi.org/10.1007/978-3-642-04081-8_8","url":"https://dblp.org/rec/conf/concur/BaldanBG09"},
+"url":"URL#2478300"
+},
+{
+"@score":"1",
+"@id":"2478301",
+"info":{"authors":{"author":"Nicolas Baudru"},"title":"Distributed Asynchronous Automata.","venue":"CONCUR","pages":"115-130","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/Baudru09","doi":"10.1007/978-3-642-04081-8_9","ee":"https://doi.org/10.1007/978-3-642-04081-8_9","url":"https://dblp.org/rec/conf/concur/Baudru09"},
+"url":"URL#2478301"
+},
+{
+"@score":"1",
+"@id":"2478302",
+"info":{"authors":{"author":["Mikolaj Bojanczyk","Tomasz Idziaszek"]},"title":"Algebra for Infinite Forests with an Application to the Temporal Logic EF.","venue":"CONCUR","pages":"131-145","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/BojanczykI09","doi":"10.1007/978-3-642-04081-8_10","ee":"https://doi.org/10.1007/978-3-642-04081-8_10","url":"https://dblp.org/rec/conf/concur/BojanczykI09"},
+"url":"URL#2478302"
+},
+{
+"@score":"1",
+"@id":"2478303",
+"info":{"authors":{"author":["Filippo Bonchi","Marcello M. Bonsangue","Jan J. M. M. Rutten","Alexandra Silva 0001"]},"title":"Deriving Syntax and Axioms for Quantitative Regular Behaviours.","venue":"CONCUR","pages":"146-162","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/BonchiBRS09","doi":"10.1007/978-3-642-04081-8_11","ee":"https://doi.org/10.1007/978-3-642-04081-8_11","url":"https://dblp.org/rec/conf/concur/BonchiBRS09"},
+"url":"URL#2478303"
+},
+{
+"@score":"1",
+"@id":"2478304",
+"info":{"authors":{"author":"Michele Boreale"},"title":"Weighted Bisimulation in Linear Algebraic Form.","venue":"CONCUR","pages":"163-177","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/Boreale09","doi":"10.1007/978-3-642-04081-8_12","ee":"https://doi.org/10.1007/978-3-642-04081-8_12","url":"https://dblp.org/rec/conf/concur/Boreale09"},
+"url":"URL#2478304"
+},
+{
+"@score":"1",
+"@id":"2478305",
+"info":{"authors":{"author":["Ahmed Bouajjani","Cezara Dragoi","Constantin Enea","Mihaela Sighireanu"]},"title":"A Logic-Based Framework for Reasoning about Composite Data Structures.","venue":"CONCUR","pages":"178-195","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/BouajjaniDES09","doi":"10.1007/978-3-642-04081-8_13","ee":"https://doi.org/10.1007/978-3-642-04081-8_13","url":"https://dblp.org/rec/conf/concur/BouajjaniDES09"},
+"url":"URL#2478305"
+},
+{
+"@score":"1",
+"@id":"2478306",
+"info":{"authors":{"author":["Patricia Bouyer","Marie Duflot","Nicolas Markey","Gabriel Renault"]},"title":"Measuring Permissivity in Finite Games.","venue":"CONCUR","pages":"196-210","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/BouyerDMR09","doi":"10.1007/978-3-642-04081-8_14","ee":"https://doi.org/10.1007/978-3-642-04081-8_14","url":"https://dblp.org/rec/conf/concur/BouyerDMR09"},
+"url":"URL#2478306"
+},
+{
+"@score":"1",
+"@id":"2478307",
+"info":{"authors":{"author":["Giuseppe Castagna","Luca Padovani"]},"title":"Contracts for Mobile Processes.","venue":"CONCUR","pages":"211-228","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/CastagnaP09","doi":"10.1007/978-3-642-04081-8_15","ee":"https://doi.org/10.1007/978-3-642-04081-8_15","url":"https://dblp.org/rec/conf/concur/CastagnaP09"},
+"url":"URL#2478307"
+},
+{
+"@score":"1",
+"@id":"2478308",
+"info":{"authors":{"author":["Rohit Chadha","A. Prasad Sistla","Mahesh Viswanathan 0001"]},"title":"Power of Randomization in Automata on Infinite Strings.","venue":"CONCUR","pages":"229-243","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/ChadhaSV09","doi":"10.1007/978-3-642-04081-8_16","ee":"https://doi.org/10.1007/978-3-642-04081-8_16","url":"https://dblp.org/rec/conf/concur/ChadhaSV09"},
+"url":"URL#2478308"
+},
+{
+"@score":"1",
+"@id":"2478309",
+"info":{"authors":{"author":["Krishnendu Chatterjee","Laurent Doyen 0001","Thomas A. Henzinger"]},"title":"Probabilistic Weighted Automata.","venue":"CONCUR","pages":"244-258","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/ChatterjeeDH09","doi":"10.1007/978-3-642-04081-8_17","ee":"https://doi.org/10.1007/978-3-642-04081-8_17","url":"https://dblp.org/rec/conf/concur/ChatterjeeDH09"},
+"url":"URL#2478309"
+},
+{
+"@score":"1",
+"@id":"2478310",
+"info":{"authors":{"author":["Wojciech Czerwinski","Sibylle B. Fröschle","Slawomir Lasota"]},"title":"Partially-Commutative Context-Free Processes.","venue":"CONCUR","pages":"259-273","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/CzerwinskiFL09","doi":"10.1007/978-3-642-04081-8_18","ee":"https://doi.org/10.1007/978-3-642-04081-8_18","url":"https://dblp.org/rec/conf/concur/CzerwinskiFL09"},
+"url":"URL#2478310"
+},
+{
+"@score":"1",
+"@id":"2478311",
+"info":{"authors":{"author":["Yuxin Deng","Rob J. van Glabbeek","Matthew Hennessy","Carroll Morgan"]},"title":"Testing Finitary Probabilistic Processes.","venue":"CONCUR","pages":"274-288","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/DengGHM09","doi":"10.1007/978-3-642-04081-8_19","ee":"https://doi.org/10.1007/978-3-642-04081-8_19","url":"https://dblp.org/rec/conf/concur/DengGHM09"},
+"url":"URL#2478311"
+},
+{
+"@score":"1",
+"@id":"2478312",
+"info":{"authors":{"author":["Josée Desharnais","François Laviolette","Amélie Turgeon"]},"title":"A Demonic Approach to Information in Probabilistic Systems.","venue":"CONCUR","pages":"289-304","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/DesharnaisLT09","doi":"10.1007/978-3-642-04081-8_20","ee":"https://doi.org/10.1007/978-3-642-04081-8_20","url":"https://dblp.org/rec/conf/concur/DesharnaisLT09"},
+"url":"URL#2478312"
+},
+{
+"@score":"1",
+"@id":"2478313",
+"info":{"authors":{"author":["Vashti Galpin","Luca Bortolussi","Jane Hillston"]},"title":"HYPE - A Process Algebra for Compositional Flows and Emergent Behaviour.","venue":"CONCUR","pages":"305-320","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/GalpinBH09","doi":"10.1007/978-3-642-04081-8_21","ee":"https://doi.org/10.1007/978-3-642-04081-8_21","url":"https://dblp.org/rec/conf/concur/GalpinBH09"},
+"url":"URL#2478313"
+},
+{
+"@score":"1",
+"@id":"2478314",
+"info":{"authors":{"author":["Richard Garner","Tom Hirschowitz","Aurélien Pardon"]},"title":"Variable Binding, Symmetric Monoidal Closed Theories, and Bigraphs.","venue":"CONCUR","pages":"321-337","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/GarnerHP09","doi":"10.1007/978-3-642-04081-8_22","ee":"https://doi.org/10.1007/978-3-642-04081-8_22","url":"https://dblp.org/rec/conf/concur/GarnerHP09"},
+"url":"URL#2478314"
+},
+{
+"@score":"1",
+"@id":"2478315",
+"info":{"authors":{"author":["Sergio Giro","Pedro R. D&apos;Argenio","Luis María Ferrer Fioriti"]},"title":"Partial Order Reduction for Probabilistic Systems - A Revision for Distributed Schedulers.","venue":"CONCUR","pages":"338-353","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/GiroDF09","doi":"10.1007/978-3-642-04081-8_23","ee":"https://doi.org/10.1007/978-3-642-04081-8_23","url":"https://dblp.org/rec/conf/concur/GiroDF09"},
+"url":"URL#2478315"
+},
+{
+"@score":"1",
+"@id":"2478316",
+"info":{"authors":{"author":["Julian Gutierrez 0001","Julian C. Bradfield"]},"title":"Model-Checking Games for Fixpoint Logics with Partial Order Models.","venue":"CONCUR","pages":"354-368","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/GutierrezB09","doi":"10.1007/978-3-642-04081-8_24","ee":"https://doi.org/10.1007/978-3-642-04081-8_24","url":"https://dblp.org/rec/conf/concur/GutierrezB09"},
+"url":"URL#2478316"
+},
+{
+"@score":"1",
+"@id":"2478317",
+"info":{"authors":{"author":["Christoph Haase","Stephan Kreutzer","Joël Ouaknine","James Worrell 0001"]},"title":"Reachability in Succinct and Parametric One-Counter Automata.","venue":"CONCUR","pages":"369-383","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/HaaseKOW09","doi":"10.1007/978-3-642-04081-8_25","ee":"https://doi.org/10.1007/978-3-642-04081-8_25","url":"https://dblp.org/rec/conf/concur/HaaseKOW09"},
+"url":"URL#2478317"
+},
+{
+"@score":"1",
+"@id":"2478318",
+"info":{"authors":{"author":["Matthew Hague","C.-H. Luke Ong"]},"title":"Winning Regions of Pushdown Parity Games - A Saturation Method.","venue":"CONCUR","pages":"384-398","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/HagueO09","doi":"10.1007/978-3-642-04081-8_26","ee":"https://doi.org/10.1007/978-3-642-04081-8_26","url":"https://dblp.org/rec/conf/concur/HagueO09"},
+"url":"URL#2478318"
+},
+{
+"@score":"1",
+"@id":"2478319",
+"info":{"authors":{"author":["C. A. R. Hoare","Bernhard Möller","Georg Struth","Ian Wehrman"]},"title":"Concurrent Kleene Algebra.","venue":"CONCUR","pages":"399-414","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/HoareMSW09","doi":"10.1007/978-3-642-04081-8_27","ee":"https://doi.org/10.1007/978-3-642-04081-8_27","url":"https://dblp.org/rec/conf/concur/HoareMSW09"},
+"url":"URL#2478319"
+},
+{
+"@score":"1",
+"@id":"2478320",
+"info":{"authors":{"author":["Marcin Jurdzinski","Marta Z. Kwiatkowska","Gethin Norman","Ashutosh Trivedi"]},"title":"Concavely-Priced Probabilistic Timed Automata.","venue":"CONCUR","pages":"415-430","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/JurdzinskiKNT09","doi":"10.1007/978-3-642-04081-8_28","ee":"https://doi.org/10.1007/978-3-642-04081-8_28","url":"https://dblp.org/rec/conf/concur/JurdzinskiKNT09"},
+"url":"URL#2478320"
+},
+{
+"@score":"1",
+"@id":"2478321",
+"info":{"authors":{"author":["Wouter Kuijper","Jaco van de Pol"]},"title":"Compositional Control Synthesis for Partially Observable Systems.","venue":"CONCUR","pages":"431-447","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/KuijperP09","doi":"10.1007/978-3-642-04081-8_29","ee":"https://doi.org/10.1007/978-3-642-04081-8_29","url":"https://dblp.org/rec/conf/concur/KuijperP09"},
+"url":"URL#2478321"
+},
+{
+"@score":"1",
+"@id":"2478322",
+"info":{"authors":{"author":["Sergueï Lenglet","Alan Schmitt","Jean-Bernard Stefani"]},"title":"Howe&apos;s Method for Calculi with Passivation.","venue":"CONCUR","pages":"448-462","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/LengletSS09","doi":"10.1007/978-3-642-04081-8_30","ee":"https://doi.org/10.1007/978-3-642-04081-8_30","url":"https://dblp.org/rec/conf/concur/LengletSS09"},
+"url":"URL#2478322"
+},
+{
+"@score":"1",
+"@id":"2478323",
+"info":{"authors":{"author":"Ana Almeida Matos"},"title":"Flow Policy Awareness for Distributed Mobile Code.","venue":"CONCUR","pages":"53-68","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/Matos09","doi":"10.1007/978-3-642-04081-8_5","ee":"https://doi.org/10.1007/978-3-642-04081-8_5","url":"https://dblp.org/rec/conf/concur/Matos09"},
+"url":"URL#2478323"
+},
+{
+"@score":"1",
+"@id":"2478324",
+"info":{"authors":{"author":["Roland Meyer","Roberto Gorrieri"]},"title":"On the Relationship between π-Calculus and Finite Place/Transition Petri Nets.","venue":"CONCUR","pages":"463-480","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/MeyerG09","doi":"10.1007/978-3-642-04081-8_31","ee":"https://doi.org/10.1007/978-3-642-04081-8_31","url":"https://dblp.org/rec/conf/concur/MeyerG09"},
+"url":"URL#2478324"
+},
+{
+"@score":"1",
+"@id":"2478325",
+"info":{"authors":{"author":"Robin Milner"},"title":"Bigraphical Categories.","venue":"CONCUR","pages":"30-36","year":"2009","type":"Conference and Workshop Papers","key":"conf/concur/Milner09","doi":"10.1007/978-3-642-04081-8_3","ee":"https://doi.org/10.1007/978-3-642-04081-8_3","url":"https://dblp.org/rec/conf/concur/Milner09"},
+"url":"URL#2478325"
+}
+]
+}
+}
+}

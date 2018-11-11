@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur1998\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"104.92"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"42",
+"@dc":"42",
+"@oc":"42",
+"@id":"13631303",
+"text":":facetid:toc:db/conf/concur/concur1998.bht"
+}
+},
+"hits":{
+"@total":"42",
+"@computed":"42",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3859153",
+"info":{"authors":{"author":["Parosh Aziz Abdulla","Karlis Cerans"]},"title":"Simulation Is Decidable for One-Counter Nets (Extended Abstract).","venue":"CONCUR","pages":"253-268","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/AbdullaC98","doi":"10.1007/BFB0055627","ee":"https://doi.org/10.1007/BFb0055627","url":"https://dblp.org/rec/conf/concur/AbdullaC98"},
+"url":"URL#3859153"
+},
+{
+"@score":"1",
+"@id":"3859154",
+"info":{"authors":{"author":"Luca de Alfaro"},"title":"Stochastic Transition Systems.","venue":"CONCUR","pages":"423-438","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/Alfaro98","doi":"10.1007/BFB0055639","ee":"https://doi.org/10.1007/BFb0055639","url":"https://dblp.org/rec/conf/concur/Alfaro98"},
+"url":"URL#3859154"
+},
+{
+"@score":"1",
+"@id":"3859155",
+"info":{"authors":{"author":["Rajeev Alur","Thomas A. Henzinger","Orna Kupferman","Moshe Y. Vardi"]},"title":"Alternating Refinement Relations.","venue":"CONCUR","pages":"163-178","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/AlurHKV98","doi":"10.1007/BFB0055622","ee":"https://doi.org/10.1007/BFb0055622","url":"https://dblp.org/rec/conf/concur/AlurHKV98"},
+"url":"URL#3859155"
+},
+{
+"@score":"1",
+"@id":"3859156",
+"info":{"authors":{"author":["Roberto M. Amadio","Sanjiva Prasad"]},"title":"Modelling IP Mobility.","venue":"CONCUR","pages":"301-316","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/AmadioP98","doi":"10.1007/BFB0055630","ee":"https://doi.org/10.1007/BFb0055630","url":"https://dblp.org/rec/conf/concur/AmadioP98"},
+"url":"URL#3859156"
+},
+{
+"@score":"1",
+"@id":"3859157",
+"info":{"authors":{"author":["Eugene Asarin","Oded Maler","Amir Pnueli"]},"title":"On Discretization of Delays in Timed Automata and Digital Circuits.","venue":"CONCUR","pages":"470-484","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/AsarinMP98","doi":"10.1007/BFB0055642","ee":"https://doi.org/10.1007/BFb0055642","url":"https://dblp.org/rec/conf/concur/AsarinMP98"},
+"url":"URL#3859157"
+},
+{
+"@score":"1",
+"@id":"3859158",
+"info":{"authors":{"author":["Johan Bengtsson","Bengt Jonsson","Johan Lilius","Wang Yi 0001"]},"title":"Partial Order Reductions for Timed Systems.","venue":"CONCUR","pages":"485-500","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/BengtssonJLY98","doi":"10.1007/BFB0055643","ee":"https://doi.org/10.1007/BFb0055643","url":"https://dblp.org/rec/conf/concur/BengtssonJLY98"},
+"url":"URL#3859158"
+},
+{
+"@score":"1",
+"@id":"3859159",
+"info":{"authors":{"author":["Albert Benveniste","Claude Jard","Stephane Gaubert"]},"title":"Algebraic Techniques for Timed Systems.","venue":"CONCUR","pages":"373-388","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/BenvenisteJG98","doi":"10.1007/BFB0055636","ee":"https://doi.org/10.1007/BFb0055636","url":"https://dblp.org/rec/conf/concur/BenvenisteJG98"},
+"url":"URL#3859159"
+},
+{
+"@score":"1",
+"@id":"3859160",
+"info":{"authors":{"author":["Chiara Bodei","Pierpaolo Degano","Flemming Nielson","Hanne Riis Nielson"]},"title":"Control Flow Analysis for the pi-calculus.","venue":"CONCUR","pages":"84-98","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/BodeiDNN98","doi":"10.1007/BFB0055617","ee":"https://doi.org/10.1007/BFb0055617","url":"https://dblp.org/rec/conf/concur/BodeiDNN98"},
+"url":"URL#3859160"
+},
+{
+"@score":"1",
+"@id":"3859161",
+"info":{"authors":{"author":"Frank S. de Boer"},"title":"Reasoning about Asynchronous Communication in Dynamically Evolving Object Structures.","venue":"CONCUR","pages":"285-300","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/Boer98","doi":"10.1007/BFB0055629","ee":"https://doi.org/10.1007/BFb0055629","url":"https://dblp.org/rec/conf/concur/Boer98"},
+"url":"URL#3859161"
+},
+{
+"@score":"1",
+"@id":"3859162",
+"info":{"authors":{"author":["Mario Bravetti","Marco Bernardo 0001","Roberto Gorrieri"]},"title":"Towards Performance Evaluation with General Distributions in Process Algebras.","venue":"CONCUR","pages":"405-422","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/BravettiBG98","doi":"10.1007/BFB0055638","ee":"https://doi.org/10.1007/BFb0055638","url":"https://dblp.org/rec/conf/concur/BravettiBG98"},
+"url":"URL#3859162"
+},
+{
+"@score":"1",
+"@id":"3859163",
+"info":{"authors":{"author":["Gian Luca Cattani","John Power","Glynn Winskel"]},"title":"A Categorical Axiomatics for Bisimulation.","venue":"CONCUR","pages":"581-596","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/CattaniPW98","doi":"10.1007/BFB0055649","ee":"https://doi.org/10.1007/BFb0055649","url":"https://dblp.org/rec/conf/concur/CattaniPW98"},
+"url":"URL#3859163"
+},
+{
+"@score":"1",
+"@id":"3859164",
+"info":{"authors":{"author":["Ernie Cohen","Leslie Lamport"]},"title":"Reduction in TLA.","venue":"CONCUR","pages":"317-331","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/CohenL98","doi":"10.1007/BFB0055631","ee":"https://doi.org/10.1007/BFb0055631","url":"https://dblp.org/rec/conf/concur/CohenL98"},
+"url":"URL#3859164"
+},
+{
+"@score":"1",
+"@id":"3859165",
+"info":{"authors":{"author":["Werner Damm","Amir Pnueli","Sitvanit Ruah"]},"title":"Herbrand Automata for Hardware Verification.","venue":"CONCUR","pages":"67-83","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/DammPR98","doi":"10.1007/BFB0055616","ee":"https://doi.org/10.1007/BFb0055616","url":"https://dblp.org/rec/conf/concur/DammPR98"},
+"url":"URL#3859165"
+},
+{
+"@score":"1",
+"@id":"3859166",
+"info":{"authors":{"author":"Philippe Darondeau"},"title":"Deriving Unbounded Petri Nets from Formal Languages.","venue":"CONCUR","pages":"533-548","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/Darondeau98","doi":"10.1007/BFB0055646","ee":"https://doi.org/10.1007/BFb0055646","url":"https://dblp.org/rec/conf/concur/Darondeau98"},
+"url":"URL#3859166"
+},
+{
+"@score":"1",
+"@id":"3859167",
+"info":{"authors":{"author":["François Demichelis","Wieslaw Zielonka"]},"title":"Controlled Timed Automata.","venue":"CONCUR","pages":"455-469","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/DemichelisZ98","doi":"10.1007/BFB0055641","ee":"https://doi.org/10.1007/BFb0055641","url":"https://dblp.org/rec/conf/concur/DemichelisZ98"},
+"url":"URL#3859167"
+},
+{
+"@score":"1",
+"@id":"3859168",
+"info":{"authors":{"author":["Sandro Etalle","Maurizio Gabbrielli","Maria Chiara Meo"]},"title":"Unfold/Fold Transformations of CCP Programs.","venue":"CONCUR","pages":"348-365","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/EtalleGM98","doi":"10.1007/BFB0055633","ee":"https://doi.org/10.1007/BFb0055633","url":"https://dblp.org/rec/conf/concur/EtalleGM98"},
+"url":"URL#3859168"
+},
+{
+"@score":"1",
+"@id":"3859169",
+"info":{"authors":{"author":["Lisbeth Fajstrup","Eric Goubault","Martin Raußen"]},"title":"Detecting Deadlocks in Concurrent Systems.","venue":"CONCUR","pages":"332-347","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/FajstrupGR98","doi":"10.1007/BFB0055632","ee":"https://doi.org/10.1007/BFb0055632","url":"https://dblp.org/rec/conf/concur/FajstrupGR98"},
+"url":"URL#3859169"
+},
+{
+"@score":"1",
+"@id":"3859170",
+"info":{"authors":{"author":["Jan Friso Groote","François Monin","Jaco van de Pol"]},"title":"Checking Verifications of Protocols and Distributed Systems by Computer.","venue":"CONCUR","pages":"629-655","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/GrooteMP98","doi":"10.1007/BFB0055652","ee":"https://doi.org/10.1007/BFb0055652","url":"https://dblp.org/rec/conf/concur/GrooteMP98"},
+"url":"URL#3859170"
+},
+{
+"@score":"1",
+"@id":"3859171",
+"info":{"authors":{"author":"Thomas A. Henzinger"},"title":"It&apos;s About Time - Real-Time Logics Reviewed.","venue":"CONCUR","pages":"439-454","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/Henzinger98","doi":"10.1007/BFB0055640","ee":"https://doi.org/10.1007/BFb0055640","url":"https://dblp.org/rec/conf/concur/Henzinger98"},
+"url":"URL#3859171"
+},
+{
+"@score":"1",
+"@id":"3859172",
+"info":{"authors":{"author":["Holger Hermanns","Markus Lohrey"]},"title":"Priority and Maximal Progress Are Completely Axioatisable (Extended Abstract).","venue":"CONCUR","pages":"237-252","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/HermannsL98","doi":"10.1007/BFB0055626","ee":"https://doi.org/10.1007/BFb0055626","url":"https://dblp.org/rec/conf/concur/HermannsL98"},
+"url":"URL#3859172"
+},
+{
+"@score":"1",
+"@id":"3859173",
+"info":{"authors":{"author":"Ulrich Herzog"},"title":"Stochastic Process Algebras Benefits for Performance Evaluation and Challenges (Extended Abstract).","venue":"CONCUR","pages":"366-372","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/Herzog98","doi":"10.1007/BFB0055635","ee":"https://doi.org/10.1007/BFb0055635","url":"https://dblp.org/rec/conf/concur/Herzog98"},
+"url":"URL#3859173"
+},
+{
+"@score":"1",
+"@id":"3859174",
+"info":{"authors":{"author":["Thomas T. Hildebrandt","Prakash Panangaden","Glynn Winskel"]},"title":"A Relational Model of Non-deterministic Dataflow.","venue":"CONCUR","pages":"613-628","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/HildebrandtPW98","doi":"10.1007/BFB0055651","ee":"https://doi.org/10.1007/BFb0055651","url":"https://dblp.org/rec/conf/concur/HildebrandtPW98"},
+"url":"URL#3859174"
+},
+{
+"@score":"1",
+"@id":"3859175",
+"info":{"authors":{"author":"Dietrich Kuske"},"title":"Asynchronous Cellular Automata and Asynchronous Automata for Pomsets.","venue":"CONCUR","pages":"517-532","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/Kuske98","doi":"10.1007/BFB0055645","ee":"https://doi.org/10.1007/BFb0055645","url":"https://dblp.org/rec/conf/concur/Kuske98"},
+"url":"URL#3859175"
+},
+{
+"@score":"1",
+"@id":"3859176",
+"info":{"authors":{"author":["Denis Lugiez","Philippe Schnoebelen"]},"title":"The Regular Viewpoint on PA-Processes.","venue":"CONCUR","pages":"50-66","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/LugiezS98","doi":"10.1007/BFB0055615","ee":"https://doi.org/10.1007/BFb0055615","url":"https://dblp.org/rec/conf/concur/LugiezS98"},
+"url":"URL#3859176"
+},
+{
+"@score":"1",
+"@id":"3859177",
+"info":{"authors":{"author":["P. Madhusudan","P. S. Thiagarajan"]},"title":"Controllers for Discrete Event Systems via Morphisms.","venue":"CONCUR","pages":"18-33","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/MadhusudanT98","doi":"10.1007/BFB0055613","ee":"https://doi.org/10.1007/BFb0055613","url":"https://dblp.org/rec/conf/concur/MadhusudanT98"},
+"url":"URL#3859177"
+},
+{
+"@score":"1",
+"@id":"3859178",
+"info":{"authors":{"author":["Ron van der Meyden","Moshe Y. Vardi"]},"title":"Synthesis from Knowledge-Based Specifications (Extended Abstract).","venue":"CONCUR","pages":"34-49","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/MeydenV98","doi":"10.1007/BFB0055614","ee":"https://doi.org/10.1007/BFb0055614","url":"https://dblp.org/rec/conf/concur/MeydenV98"},
+"url":"URL#3859178"
+},
+{
+"@score":"1",
+"@id":"3859179",
+"info":{"authors":{"author":"Rémi Morin"},"title":"Decompositions of Asynchronous Systems.","venue":"CONCUR","pages":"549-564","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/Morin98","doi":"10.1007/BFB0055647","ee":"https://doi.org/10.1007/BFb0055647","url":"https://dblp.org/rec/conf/concur/Morin98"},
+"url":"URL#3859179"
+},
+{
+"@score":"1",
+"@id":"3859180",
+"info":{"authors":{"author":["Joachim Parrow","Björn Victor"]},"title":"The Tau-Laws of Fusion.","venue":"CONCUR","pages":"99-114","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/ParrowV98","doi":"10.1007/BFB0055618","ee":"https://doi.org/10.1007/BFb0055618","url":"https://dblp.org/rec/conf/concur/ParrowV98"},
+"url":"URL#3859180"
+},
+{
+"@score":"1",
+"@id":"3859181",
+"info":{"authors":{"author":["Anna Philippou","Rance Cleaveland","Insup Lee","Scott A. Smolka","Oleg Sokolsky"]},"title":"Praobabilistic Resource Failure in Real-Time Process Algebra.","venue":"CONCUR","pages":"389-404","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/PhilippouCLSS98","doi":"10.1007/BFB0055637","ee":"https://doi.org/10.1007/BFb0055637","url":"https://dblp.org/rec/conf/concur/PhilippouCLSS98"},
+"url":"URL#3859181"
+},
+{
+"@score":"1",
+"@id":"3859182",
+"info":{"authors":{"author":"Benjamin C. Pierce"},"title":"Type Systems for Concurrent Calculi (Abstract).","venue":"CONCUR","pages":"364-365","year":"1998","type":"Conference and Workshop Papers","key":"conf/concur/Pierce98","doi":"10.1007/BFB0055634","ee":"https://doi.org/10.1007/BFb0055634","url":"https://dblp.org/rec/conf/concur/Pierce98"},
+"url":"URL#3859182"
+}
+]
+}
+}
+}
