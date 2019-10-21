@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur2002\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"105.43"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"40",
+"@dc":"40",
+"@oc":"40",
+"@id":"13631307",
+"text":":facetid:toc:db/conf/concur/concur2002.bht"
+}
+},
+"hits":{
+"@total":"40",
+"@computed":"40",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3562151",
+"info":{"authors":{"author":["Parosh Aziz Abdulla","Bengt Jonsson","Marcus Nilsson","Julien d&apos;Orso"]},"title":"Regular Model Checking Made Simple and Efficient.","venue":"CONCUR","pages":"116-130","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/AbdullaJNd02","doi":"10.1007/3-540-45694-5_9","ee":"https://doi.org/10.1007/3-540-45694-5_9","url":"https://dblp.org/rec/conf/concur/AbdullaJNd02"},
+"url":"URL#3562151"
+},
+{
+"@score":"1",
+"@id":"3562152",
+"info":{"authors":{"author":["Roberto M. Amadio","Witold Charatonik"]},"title":"On Name Generation and Set-Based Analysis in the Dolev-Yao Model.","venue":"CONCUR","pages":"499-514","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/AmadioC02","doi":"10.1007/3-540-45694-5_33","ee":"https://doi.org/10.1007/3-540-45694-5_33","url":"https://dblp.org/rec/conf/concur/AmadioC02"},
+"url":"URL#3562152"
+},
+{
+"@score":"1",
+"@id":"3562153",
+"info":{"authors":{"author":["Eugene Asarin","Gerardo Schneider"]},"title":"Widening the Boundary between Decidable and Undecidable Hybrid Systems.","venue":"CONCUR","pages":"193-208","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/AsarinS02","doi":"10.1007/3-540-45694-5_14","ee":"https://doi.org/10.1007/3-540-45694-5_14","url":"https://dblp.org/rec/conf/concur/AsarinS02"},
+"url":"URL#3562153"
+},
+{
+"@score":"1",
+"@id":"3562154",
+"info":{"authors":{"author":["Christel Baier","Joost-Pieter Katoen","Holger Hermanns","Boudewijn R. Haverkort"]},"title":"Simulation for Continuous-Time Markov Chains.","venue":"CONCUR","pages":"338-354","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/BaierKHH02","doi":"10.1007/3-540-45694-5_23","ee":"https://doi.org/10.1007/3-540-45694-5_23","url":"https://dblp.org/rec/conf/concur/BaierKHH02"},
+"url":"URL#3562154"
+},
+{
+"@score":"1",
+"@id":"3562155",
+"info":{"authors":{"author":["Michele Boreale","Maria Grazia Buscemi"]},"title":"A Framework for the Analysis of Security Protocols.","venue":"CONCUR","pages":"483-498","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/BorealeB02","doi":"10.1007/3-540-45694-5_32","ee":"https://doi.org/10.1007/3-540-45694-5_32","url":"https://dblp.org/rec/conf/concur/BorealeB02"},
+"url":"URL#3562155"
+},
+{
+"@score":"1",
+"@id":"3562156",
+"info":{"authors":{"author":"Julian C. Bradfield"},"title":"Introduction to Modal and Temporal Mu-Calculi (Abstract).","venue":"CONCUR","pages":"98","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/Bradfield02","doi":"10.1007/3-540-45694-5_6","ee":"https://doi.org/10.1007/3-540-45694-5_6","url":"https://dblp.org/rec/conf/concur/Bradfield02"},
+"url":"URL#3562156"
+},
+{
+"@score":"1",
+"@id":"3562157",
+"info":{"authors":{"author":"Stephen D. Brookes"},"title":"Traces, Pomsets, Fairness and Full Abstraction for Communicating Processes.","venue":"CONCUR","pages":"466-482","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/Brookes02","doi":"10.1007/3-540-45694-5_31","ee":"https://doi.org/10.1007/3-540-45694-5_31","url":"https://dblp.org/rec/conf/concur/Brookes02"},
+"url":"URL#3562157"
+},
+{
+"@score":"1",
+"@id":"3562158",
+"info":{"authors":{"author":["Roberto Bruni","Cosimo Laneve","Ugo Montanari"]},"title":"Orchestrating Transactions in Join Calculus.","venue":"CONCUR","pages":"321-337","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/BruniLM02","doi":"10.1007/3-540-45694-5_22","ee":"https://doi.org/10.1007/3-540-45694-5_22","url":"https://dblp.org/rec/conf/concur/BruniLM02"},
+"url":"URL#3562158"
+},
+{
+"@score":"1",
+"@id":"3562159",
+"info":{"authors":{"author":["Maria Grazia Buscemi","Ugo Montanari"]},"title":"A First Order Coalgebraic Model of pi-Calculus Early Observational Equivalence.","venue":"CONCUR","pages":"449-465","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/BuscemiM02","doi":"10.1007/3-540-45694-5_30","ee":"https://doi.org/10.1007/3-540-45694-5_30","url":"https://dblp.org/rec/conf/concur/BuscemiM02"},
+"url":"URL#3562159"
+},
+{
+"@score":"1",
+"@id":"3562160",
+"info":{"authors":{"author":["Luís Caires","Luca Cardelli"]},"title":"A Spatial Logic for Concurrency (Part II).","venue":"CONCUR","pages":"209-225","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/CairesC02","doi":"10.1007/3-540-45694-5_15","ee":"https://doi.org/10.1007/3-540-45694-5_15","url":"https://dblp.org/rec/conf/concur/CairesC02"},
+"url":"URL#3562160"
+},
+{
+"@score":"1",
+"@id":"3562161",
+"info":{"authors":{"author":["Stefano Cattani","Roberto Segala"]},"title":"Decision Algorithms for Probabilistic Bisimulation.","venue":"CONCUR","pages":"371-385","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/CattaniS02","doi":"10.1007/3-540-45694-5_25","ee":"https://doi.org/10.1007/3-540-45694-5_25","url":"https://dblp.org/rec/conf/concur/CattaniS02"},
+"url":"URL#3562161"
+},
+{
+"@score":"1",
+"@id":"3562162",
+"info":{"authors":{"author":["Josee Desharnais","Vineet Gupta 0001","Radha Jagadeesan","Prakash Panangaden"]},"title":"Weak Bisimulation is Sound and Complete for PCTL*.","venue":"CONCUR","pages":"355-370","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/DesharnaisGJP02","doi":"10.1007/3-540-45694-5_24","ee":"https://doi.org/10.1007/3-540-45694-5_24","url":"https://dblp.org/rec/conf/concur/DesharnaisGJP02"},
+"url":"URL#3562162"
+},
+{
+"@score":"1",
+"@id":"3562163",
+"info":{"authors":{"author":"Kousha Etessami"},"title":"A Hierarchy of Polynomial-Time Computable Simulations for Automata.","venue":"CONCUR","pages":"131-144","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/Etessami02","doi":"10.1007/3-540-45694-5_10","ee":"https://doi.org/10.1007/3-540-45694-5_10","url":"https://dblp.org/rec/conf/concur/Etessami02"},
+"url":"URL#3562163"
+},
+{
+"@score":"1",
+"@id":"3562164",
+"info":{"authors":{"author":["Jean Fanchon","Rémi Morin"]},"title":"Regular Sets of Pomsets with Autoconcurrency.","venue":"CONCUR","pages":"402-417","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/FanchonM02","doi":"10.1007/3-540-45694-5_27","ee":"https://doi.org/10.1007/3-540-45694-5_27","url":"https://dblp.org/rec/conf/concur/FanchonM02"},
+"url":"URL#3562164"
+},
+{
+"@score":"1",
+"@id":"3562165",
+"info":{"authors":{"author":["Wan Fokkink","Natalia Ioustinova","Ernst Kesseler","Jaco van de Pol","Yaroslav S. Usenko","Yuri A. Yushtein"]},"title":"Refinement and Verification Applied to an In-Flight Data Acquisition Unit.","venue":"CONCUR","pages":"1-23","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/FokkinkIKPUY02","doi":"10.1007/3-540-45694-5_1","ee":"https://doi.org/10.1007/3-540-45694-5_1","url":"https://dblp.org/rec/conf/concur/FokkinkIKPUY02"},
+"url":"URL#3562165"
+},
+{
+"@score":"1",
+"@id":"3562166",
+"info":{"authors":{"author":["Philippa Gardner","Cosimo Laneve","Lucian Wischik"]},"title":"The Fusion Machine.","venue":"CONCUR","pages":"418-433","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/GardnerLW02","doi":"10.1007/3-540-45694-5_28","ee":"https://doi.org/10.1007/3-540-45694-5_28","url":"https://dblp.org/rec/conf/concur/GardnerLW02"},
+"url":"URL#3562166"
+},
+{
+"@score":"1",
+"@id":"3562167",
+"info":{"authors":{"author":["Jens Chr. Godskesen","Thomas T. Hildebrandt","Vladimiro Sassone"]},"title":"A Calculus of Mobile Resources.","venue":"CONCUR","pages":"272-287","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/GodskesenHS02","doi":"10.1007/3-540-45694-5_19","ee":"https://doi.org/10.1007/3-540-45694-5_19","url":"https://dblp.org/rec/conf/concur/GodskesenHS02"},
+"url":"URL#3562167"
+},
+{
+"@score":"1",
+"@id":"3562168",
+"info":{"authors":{"author":"Andrew D. Gordon"},"title":"Types for Cryptographic Protocols.","venue":"CONCUR","pages":"99-100","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/Gordon02","doi":"10.1007/3-540-45694-5_7","ee":"https://doi.org/10.1007/3-540-45694-5_7","url":"https://dblp.org/rec/conf/concur/Gordon02"},
+"url":"URL#3562168"
+},
+{
+"@score":"1",
+"@id":"3562169",
+"info":{"authors":{"author":["Yonit Kesten","Amir Pnueli","Elad Shahar","Lenore D. Zuck"]},"title":"Network Invariants in Action.","venue":"CONCUR","pages":"101-115","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/KestenPSZ02","doi":"10.1007/3-540-45694-5_8","ee":"https://doi.org/10.1007/3-540-45694-5_8","url":"https://dblp.org/rec/conf/concur/KestenPSZ02"},
+"url":"URL#3562169"
+},
+{
+"@score":"1",
+"@id":"3562170",
+"info":{"authors":{"author":["H. C. M. Kleijn","Maciej Koutny"]},"title":"Causality Semantics of Petri Nets with Weighted Inhibitor Arcs.","venue":"CONCUR","pages":"531-546","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/KleijnK02","doi":"10.1007/3-540-45694-5_35","ee":"https://doi.org/10.1007/3-540-45694-5_35","url":"https://dblp.org/rec/conf/concur/KleijnK02"},
+"url":"URL#3562170"
+},
+{
+"@score":"1",
+"@id":"3562171",
+"info":{"authors":{"author":["Beata Konikowska","Wojciech Penczek"]},"title":"Reducing Model Checking from Multi-valued {\\rm CTL}{\\ast} to {\\rm CTL}{\\ast}.","venue":"CONCUR","pages":"226-239","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/KonikowskaP02","doi":"10.1007/3-540-45694-5_16","ee":"https://doi.org/10.1007/3-540-45694-5_16","url":"https://dblp.org/rec/conf/concur/KonikowskaP02"},
+"url":"URL#3562171"
+},
+{
+"@score":"1",
+"@id":"3562172",
+"info":{"authors":{"author":["Antonín Kucera","Richard Mayr"]},"title":"Why Is Simulation Harder than Bisimulation?","venue":"CONCUR","pages":"594-610","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/KuceraM02","doi":"10.1007/3-540-45694-5_39","ee":"https://doi.org/10.1007/3-540-45694-5_39","url":"https://dblp.org/rec/conf/concur/KuceraM02"},
+"url":"URL#3562172"
+},
+{
+"@score":"1",
+"@id":"3562173",
+"info":{"authors":{"author":"Ralf Küsters"},"title":"On the Decidability of Cryptographic Protocols with Open-Ended Data Structures.","venue":"CONCUR","pages":"515-530","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/Kusters02","doi":"10.1007/3-540-45694-5_34","ee":"https://doi.org/10.1007/3-540-45694-5_34","url":"https://dblp.org/rec/conf/concur/Kusters02"},
+"url":"URL#3562173"
+},
+{
+"@score":"1",
+"@id":"3562174",
+"info":{"authors":{"author":"Martin Lange"},"title":"Local Model Checking Games for Fixed Point Logic with Chop.","venue":"CONCUR","pages":"240-254","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/Lange02","doi":"10.1007/3-540-45694-5_17","ee":"https://doi.org/10.1007/3-540-45694-5_17","url":"https://dblp.org/rec/conf/concur/Lange02"},
+"url":"URL#3562174"
+},
+{
+"@score":"1",
+"@id":"3562175",
+"info":{"authors":{"author":"Slawomir Lasota"},"title":"Decidability of Strong Bisimilarity for Timed BPP.","venue":"CONCUR","pages":"562-578","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/Lasota02","doi":"10.1007/3-540-45694-5_37","ee":"https://doi.org/10.1007/3-540-45694-5_37","url":"https://dblp.org/rec/conf/concur/Lasota02"},
+"url":"URL#3562175"
+},
+{
+"@score":"1",
+"@id":"3562176",
+"info":{"authors":{"author":"Markus Lohrey"},"title":"Safe Realizability of High-Level Message Sequence Charts.","venue":"CONCUR","pages":"177-192","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/Lohrey02","doi":"10.1007/3-540-45694-5_13","ee":"https://doi.org/10.1007/3-540-45694-5_13","url":"https://dblp.org/rec/conf/concur/Lohrey02"},
+"url":"URL#3562176"
+},
+{
+"@score":"1",
+"@id":"3562177",
+"info":{"authors":{"author":["Gerald Lüttgen","Michael Mendler"]},"title":"Axiomatizing an Algebra of Step Reactions for Synchronous Languages.","venue":"CONCUR","pages":"386-401","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/LuttgenM02","doi":"10.1007/3-540-45694-5_26","ee":"https://doi.org/10.1007/3-540-45694-5_26","url":"https://dblp.org/rec/conf/concur/LuttgenM02"},
+"url":"URL#3562177"
+},
+{
+"@score":"1",
+"@id":"3562178",
+"info":{"authors":{"author":["P. Madhusudan","P. S. Thiagarajan"]},"title":"A Decidable Class of Asynchronous Distributed Controllers.","venue":"CONCUR","pages":"145-160","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/MadhusudanT02","doi":"10.1007/3-540-45694-5_11","ee":"https://doi.org/10.1007/3-540-45694-5_11","url":"https://dblp.org/rec/conf/concur/MadhusudanT02"},
+"url":"URL#3562178"
+},
+{
+"@score":"1",
+"@id":"3562179",
+"info":{"authors":{"author":["Massimo Merro","Vladimiro Sassone"]},"title":"Typing and Subtyping Mobility in Boxed Ambients.","venue":"CONCUR","pages":"304-320","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/MerroS02","doi":"10.1007/3-540-45694-5_21","ee":"https://doi.org/10.1007/3-540-45694-5_21","url":"https://dblp.org/rec/conf/concur/MerroS02"},
+"url":"URL#3562179"
+},
+{
+"@score":"1",
+"@id":"3562180",
+"info":{"authors":{"author":["Mikkel Nygaard","Glynn Winskel"]},"title":"HOPLA-A Higher-Order Process Language.","venue":"CONCUR","pages":"434-448","year":"2002","type":"Conference and Workshop Papers","key":"conf/concur/NygaardW02","doi":"10.1007/3-540-45694-5_29","ee":"https://doi.org/10.1007/3-540-45694-5_29","url":"https://dblp.org/rec/conf/concur/NygaardW02"},
+"url":"URL#3562180"
+}
+]
+}
+}
+}

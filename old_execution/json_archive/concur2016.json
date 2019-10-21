@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur2016\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"108.17"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"39",
+"@dc":"39",
+"@oc":"39",
+"@id":"13631321",
+"text":":facetid:toc:db/conf/concur/concur2016.bht"
+}
+},
+"hits":{
+"@total":"39",
+"@computed":"39",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"690416",
+"info":{"authors":{"author":["Nathalie Bertrand 0001","Serge Haddad","Engel Lefaucheux"]},"title":"Diagnosis in Infinite-State Probabilistic Systems.","venue":"CONCUR","pages":"37:1-37:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/0001HL16","doi":"10.4230/LIPICS.CONCUR.2016.37","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.37","url":"https://dblp.org/rec/conf/concur/0001HL16"},
+"url":"URL#690416"
+},
+{
+"@score":"1",
+"@id":"690417",
+"info":{"authors":{"author":["Giovanni Bernardi 0001","Alexey Gotsman"]},"title":"Robustness against Consistency Models with Atomic Visibility.","venue":"CONCUR","pages":"7:1-7:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/0002G16","doi":"10.4230/LIPICS.CONCUR.2016.7","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.7","url":"https://dblp.org/rec/conf/concur/0002G16"},
+"url":"URL#690417"
+},
+{
+"@score":"1",
+"@id":"690418",
+"info":{"authors":{"author":["Parosh Aziz Abdulla","Mohamed Faouzi Atig","Ahmed Bouajjani","Tuan Phong Ngo"]},"title":"The Benefits of Duality in Verifying Concurrent Programs under TSO.","venue":"CONCUR","pages":"5:1-5:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/AbdullaABN16","doi":"10.4230/LIPICS.CONCUR.2016.5","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.5","url":"https://dblp.org/rec/conf/concur/AbdullaABN16"},
+"url":"URL#690418"
+},
+{
+"@score":"1",
+"@id":"690419",
+"info":{"authors":{"author":["S. Akshay","Paul Gastin","Shankara Narayanan Krishna"]},"title":"Analyzing Timed Systems Using Tree Automata.","venue":"CONCUR","pages":"27:1-27:14","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/AkshayGK16","doi":"10.4230/LIPICS.CONCUR.2016.27","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.27","url":"https://dblp.org/rec/conf/concur/AkshayGK16"},
+"url":"URL#690419"
+},
+{
+"@score":"1",
+"@id":"690420",
+"info":{"authors":{"author":["Shaull Almagor","Orna Kupferman","Yaron Velner"]},"title":"Minimizing Expected Cost Under Hard Boolean Constraints, with Applications to Quantitative Synthesis.","venue":"CONCUR","pages":"9:1-9:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/AlmagorKV16","doi":"10.4230/LIPICS.CONCUR.2016.9","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.9","url":"https://dblp.org/rec/conf/concur/AlmagorKV16"},
+"url":"URL#690420"
+},
+{
+"@score":"1",
+"@id":"690421",
+"info":{"authors":{"author":["Giorgio Bacci","Giovanni Bacci 0001","Kim G. Larsen","Radu Mardare"]},"title":"Complete Axiomatization for the Bisimilarity Distance on Markov Chains.","venue":"CONCUR","pages":"21:1-21:14","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/BacciBLM16","doi":"10.4230/LIPICS.CONCUR.2016.21","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.21","url":"https://dblp.org/rec/conf/concur/BacciBLM16"},
+"url":"URL#690421"
+},
+{
+"@score":"1",
+"@id":"690422",
+"info":{"authors":{"author":["Borzoo Bonakdarpour","Pierre Fraigniaud","Sergio Rajsbaum","David A. Rosenblueth","Corentin Travers"]},"title":"Decentralized Asynchronous Crash-Resilient Runtime Verification.","venue":"CONCUR","pages":"16:1-16:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/BonakdarpourFRR16","doi":"10.4230/LIPICS.CONCUR.2016.16","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.16","url":"https://dblp.org/rec/conf/concur/BonakdarpourFRR16"},
+"url":"URL#690422"
+},
+{
+"@score":"1",
+"@id":"690423",
+"info":{"authors":{"author":["Tomás Brázdil","Vojtech Forejt","Antonín Kucera","Petr Novotný 0001"]},"title":"Stability in Graphs and Games.","venue":"CONCUR","pages":"10:1-10:14","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/BrazdilFKN16","doi":"10.4230/LIPICS.CONCUR.2016.10","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.10","url":"https://dblp.org/rec/conf/concur/BrazdilFKN16"},
+"url":"URL#690423"
+},
+{
+"@score":"1",
+"@id":"690424",
+"info":{"authors":{"author":["Tomasz Brengos","Marco Peressotti"]},"title":"A Uniform Framework for Timed Automata.","venue":"CONCUR","pages":"26:1-26:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/BrengosP16","doi":"10.4230/LIPICS.CONCUR.2016.26","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.26","url":"https://dblp.org/rec/conf/concur/BrengosP16"},
+"url":"URL#690424"
+},
+{
+"@score":"1",
+"@id":"690425",
+"info":{"authors":{"author":"Romain Brenguier"},"title":"Optimal Assumptions for Synthesis.","venue":"CONCUR","pages":"8:1-8:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/Brenguier16","doi":"10.4230/LIPICS.CONCUR.2016.8","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.8","url":"https://dblp.org/rec/conf/concur/Brenguier16"},
+"url":"URL#690425"
+},
+{
+"@score":"1",
+"@id":"690426",
+"info":{"authors":{"author":["Véronique Bruyère","Quentin Hautem","Jean-François Raskin"]},"title":"On the Complexity of Heterogeneous Multidimensional Games.","venue":"CONCUR","pages":"11:1-11:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/BruyereHR16","doi":"10.4230/LIPICS.CONCUR.2016.11","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.11","url":"https://dblp.org/rec/conf/concur/BruyereHR16"},
+"url":"URL#690426"
+},
+{
+"@score":"1",
+"@id":"690427",
+"info":{"authors":{"author":["Marco Carbone","Sam Lindley","Fabrizio Montesi","Carsten Schürmann","Philip Wadler"]},"title":"Coherence Generalises Duality - A Logical Explanation of Multiparty Session Types.","venue":"CONCUR","pages":"33:1-33:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/CarboneLMSW16","doi":"10.4230/LIPICS.CONCUR.2016.33","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.33","url":"https://dblp.org/rec/conf/concur/CarboneLMSW16"},
+"url":"URL#690427"
+},
+{
+"@score":"1",
+"@id":"690428",
+"info":{"authors":{"author":["Simon Castellan","Pierre Clairambault"]},"title":"Causality vs. Interleavings in Concurrent Game Semantics.","venue":"CONCUR","pages":"32:1-32:14","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/CastellanC16","doi":"10.4230/LIPICS.CONCUR.2016.32","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.32","url":"https://dblp.org/rec/conf/concur/CastellanC16"},
+"url":"URL#690428"
+},
+{
+"@score":"1",
+"@id":"690429",
+"info":{"authors":{"author":["Valentina Castiglioni","Daniel Gebler","Simone Tini"]},"title":"Modal Decomposition on Nondeterministic Probabilistic Processes.","venue":"CONCUR","pages":"36:1-36:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/CastiglioniGT16","doi":"10.4230/LIPICS.CONCUR.2016.36","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.36","url":"https://dblp.org/rec/conf/concur/CastiglioniGT16"},
+"url":"URL#690429"
+},
+{
+"@score":"1",
+"@id":"690430",
+"info":{"authors":{"author":["Konstantinos Chatzikokolakis 0001","Catuscia Palamidessi","Valeria Vignudelli"]},"title":"Up-To Techniques for Generalized Bisimulation Metrics.","venue":"CONCUR","pages":"35:1-35:14","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/Chatzikokolakis16","doi":"10.4230/LIPICS.CONCUR.2016.35","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.35","url":"https://dblp.org/rec/conf/concur/Chatzikokolakis16"},
+"url":"URL#690430"
+},
+{
+"@score":"1",
+"@id":"690431",
+"info":{"authors":{"author":["Przemyslaw Daca","Thomas A. Henzinger","Jan Kretínský","Tatjana Petrov"]},"title":"Linear Distances between Markov Chains.","venue":"CONCUR","pages":"20:1-20:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/DacaHKP16","doi":"10.4230/LIPICS.CONCUR.2016.20","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.20","url":"https://dblp.org/rec/conf/concur/DacaHKP16"},
+"url":"URL#690431"
+},
+{
+"@score":"1",
+"@id":"690432",
+"info":{"authors":{"author":["Fredrik Dahlqvist","Vincent Danos","Ilias Garnier"]},"title":"Robustly Parameterised Higher-Order Probabilistic Models.","venue":"CONCUR","pages":"23:1-23:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/DahlqvistDG16","doi":"10.4230/LIPICS.CONCUR.2016.23","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.23","url":"https://dblp.org/rec/conf/concur/DahlqvistDG16"},
+"url":"URL#690432"
+},
+{
+"@score":"1",
+"@id":"690433",
+"info":{"authors":{"author":["Fredrik Dahlqvist","Vincent Danos","Ilias Garnier","Ohad Kammar"]},"title":"Bayesian Inversion by ω-Complete Cone Duality.","venue":"CONCUR","pages":"1:1-1:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/DahlqvistDGK16","doi":"10.4230/LIPICS.CONCUR.2016.1","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.1","url":"https://dblp.org/rec/conf/concur/DahlqvistDGK16"},
+"url":"URL#690433"
+},
+{
+"@score":"1",
+"@id":"690434",
+"info":{"authors":{"author":["Amélie David 0001","François Laroussinie","Nicolas Markey"]},"title":"On the Expressiveness of QCTL.","venue":"CONCUR","pages":"28:1-28:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/DavidLM16","doi":"10.4230/LIPICS.CONCUR.2016.28","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.28","url":"https://dblp.org/rec/conf/concur/DavidLM16"},
+"url":"URL#690434"
+},
+{
+"@score":"1",
+"@id":"690435",
+"info":{"authors":{"author":["Jérémy Dubut","Eric Goubault","Jean Goubault-Larrecq"]},"title":"Bisimulations and Unfolding in P-Accessible Categorical Models.","venue":"CONCUR","pages":"25:1-25:14","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/DubutGG16","doi":"10.4230/LIPICS.CONCUR.2016.25","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.25","url":"https://dblp.org/rec/conf/concur/DubutGG16"},
+"url":"URL#690435"
+},
+{
+"@score":"1",
+"@id":"690436",
+"info":{"authors":{"author":["Javier Esparza","Denis Kuperberg","Anca Muscholl","Igor Walukiewicz"]},"title":"Soundness in Negotiations.","venue":"CONCUR","pages":"12:1-12:13","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/EsparzaKMW16","doi":"10.4230/LIPICS.CONCUR.2016.12","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.12","url":"https://dblp.org/rec/conf/concur/EsparzaKMW16"},
+"url":"URL#690436"
+},
+{
+"@score":"1",
+"@id":"690437",
+"info":{"authors":{"author":["Bernd Finkbeiner","Christopher Hahn"]},"title":"Deciding Hyperproperties.","venue":"CONCUR","pages":"13:1-13:14","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/FinkbeinerH16","doi":"10.4230/LIPICS.CONCUR.2016.13","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.13","url":"https://dblp.org/rec/conf/concur/FinkbeinerH16"},
+"url":"URL#690437"
+},
+{
+"@score":"1",
+"@id":"690438",
+"info":{"authors":{"author":["Andreas Haas","Thomas A. Henzinger","Andreas Holzer","Christoph M. Kirsch","Michael Lippautz","Hannes Payer","Ali Sezgin","Ana Sokolova","Helmut Veith"]},"title":"Local Linearizability for Concurrent Container-Type Data Structures.","venue":"CONCUR","pages":"6:1-6:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/HaasHHKLPSSV16","doi":"10.4230/LIPICS.CONCUR.2016.6","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.6","url":"https://dblp.org/rec/conf/concur/HaasHHKLPSSV16"},
+"url":"URL#690438"
+},
+{
+"@score":"1",
+"@id":"690439",
+"info":{"authors":{"author":["Daniel Hausmann","Lutz Schröder","Christoph Egger 0001"]},"title":"Global Caching for the Alternation-free μ-Calculus.","venue":"CONCUR","pages":"34:1-34:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/HausmannSE16","doi":"10.4230/LIPICS.CONCUR.2016.34","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.34","url":"https://dblp.org/rec/conf/concur/HausmannSE16"},
+"url":"URL#690439"
+},
+{
+"@score":"1",
+"@id":"690440",
+"info":{"authors":{"author":["Ross Horne","Alwen Tiu","Bogdan Aman","Gabriel Ciobanu"]},"title":"Private Names in Non-Commutative Logic.","venue":"CONCUR","pages":"31:1-31:16","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/HorneTAC16","doi":"10.4230/LIPICS.CONCUR.2016.31","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.31","url":"https://dblp.org/rec/conf/concur/HorneTAC16"},
+"url":"URL#690440"
+},
+{
+"@score":"1",
+"@id":"690441",
+"info":{"authors":{"author":["Loïg Jezequel","Didier Lime"]},"title":"Lazy Reachability Analysis in Distributed Systems.","venue":"CONCUR","pages":"17:1-17:14","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/JezequelL16","doi":"10.4230/LIPICS.CONCUR.2016.17","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.17","url":"https://dblp.org/rec/conf/concur/JezequelL16"},
+"url":"URL#690441"
+},
+{
+"@score":"1",
+"@id":"690442",
+"info":{"authors":{"author":["Igor V. Konnov 0001","Tomer Kotek","Qiang Wang","Helmut Veith","Simon Bliudze","Joseph Sifakis"]},"title":"Parameterized Systems in BIP - Design and Model Checking.","venue":"CONCUR","pages":"30:1-30:16","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/KonnovKWVBS16","doi":"10.4230/LIPICS.CONCUR.2016.30","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.30","url":"https://dblp.org/rec/conf/concur/KonnovKWVBS16"},
+"url":"URL#690442"
+},
+{
+"@score":"1",
+"@id":"690443",
+"info":{"authors":{"author":["Antonia Lechner","Richard Mayr","Joël Ouaknine","Amaury Pouly","James Worrell 0001"]},"title":"Model Checking Flat Freeze LTL on One-Counter Automata.","venue":"CONCUR","pages":"29:1-29:14","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/LechnerMOPW16","doi":"10.4230/LIPICS.CONCUR.2016.29","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.29","url":"https://dblp.org/rec/conf/concur/LechnerMOPW16"},
+"url":"URL#690443"
+},
+{
+"@score":"1",
+"@id":"690444",
+"info":{"authors":{"author":["Roly Perera","Deepak Garg 0001","James Cheney"]},"title":"Causally Consistent Dynamic Slicing.","venue":"CONCUR","pages":"18:1-18:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/PereraGC16","doi":"10.4230/LIPICS.CONCUR.2016.18","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.18","url":"https://dblp.org/rec/conf/concur/PereraGC16"},
+"url":"URL#690444"
+},
+{
+"@score":"1",
+"@id":"690445",
+"info":{"authors":{"author":["Christina Rickmann","Christoph Wagner","Uwe Nestmann","Stefan Schmid 0001"]},"title":"Topological Self-Stabilization with Name-Passing Process Calculi.","venue":"CONCUR","pages":"19:1-19:15","year":"2016","type":"Conference and Workshop Papers","key":"conf/concur/RickmannWNS16","doi":"10.4230/LIPICS.CONCUR.2016.19","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2016.19","url":"https://dblp.org/rec/conf/concur/RickmannWNS16"},
+"url":"URL#690445"
+}
+]
+}
+}
+}

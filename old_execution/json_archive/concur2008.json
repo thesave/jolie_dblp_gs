@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur2008\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"113.43"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"40",
+"@dc":"40",
+"@oc":"40",
+"@id":"13631313",
+"text":":facetid:toc:db/conf/concur/concur2008.bht"
+}
+},
+"hits":{
+"@total":"40",
+"@computed":"40",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2683032",
+"info":{"authors":{"author":["Martín Abadi","Tim Harris 0001","Katherine F. Moore"]},"title":"A Model of Dynamic Separation for Transactional Memory.","venue":"CONCUR","pages":"6-20","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/AbadiHM08","doi":"10.1007/978-3-540-85361-9_5","ee":"https://doi.org/10.1007/978-3-540-85361-9_5","url":"https://dblp.org/rec/conf/concur/AbadiHM08"},
+"url":"URL#2683032"
+},
+{
+"@score":"1",
+"@id":"2683033",
+"info":{"authors":{"author":["Parosh Aziz Abdulla","Pavel Krcál","Wang Yi 0001"]},"title":"R-Automata.","venue":"CONCUR","pages":"67-81","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/AbdullaKY08","doi":"10.1007/978-3-540-85361-9_9","ee":"https://doi.org/10.1007/978-3-540-85361-9_9","url":"https://dblp.org/rec/conf/concur/AbdullaKY08"},
+"url":"URL#2683033"
+},
+{
+"@score":"1",
+"@id":"2683034",
+"info":{"authors":{"author":["Lucia Acciai","Michele Boreale"]},"title":"Spatial and Behavioral Types in the Pi-Calculus.","venue":"CONCUR","pages":"372-386","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/AcciaiB08","doi":"10.1007/978-3-540-85361-9_30","ee":"https://doi.org/10.1007/978-3-540-85361-9_30","url":"https://dblp.org/rec/conf/concur/AcciaiB08"},
+"url":"URL#2683034"
+},
+{
+"@score":"1",
+"@id":"2683035",
+"info":{"authors":{"author":["S. Akshay","Benedikt Bollig","Paul Gastin","Madhavan Mukund","K. Narayan Kumar"]},"title":"Distributed Timed Automata with Independently Evolving Clocks.","venue":"CONCUR","pages":"82-97","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/AkshayBGMK08","doi":"10.1007/978-3-540-85361-9_10","ee":"https://doi.org/10.1007/978-3-540-85361-9_10","url":"https://dblp.org/rec/conf/concur/AkshayBGMK08"},
+"url":"URL#2683035"
+},
+{
+"@score":"1",
+"@id":"2683036",
+"info":{"authors":{"author":["Mohamed Faouzi Atig","Ahmed Bouajjani","Tayssir Touili"]},"title":"On the Reachability Analysis of Acyclic Networks of Pushdown Systems.","venue":"CONCUR","pages":"356-371","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/AtigBT08","doi":"10.1007/978-3-540-85361-9_29","ee":"https://doi.org/10.1007/978-3-540-85361-9_29","url":"https://dblp.org/rec/conf/concur/AtigBT08"},
+"url":"URL#2683036"
+},
+{
+"@score":"1",
+"@id":"2683037",
+"info":{"authors":{"author":["Jos C. M. Baeten","Pieter J. L. Cuijpers","P. J. A. van Tilburg"]},"title":"A Context-Free Process as a Pushdown Automaton.","venue":"CONCUR","pages":"98-113","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/BaetenCT08","doi":"10.1007/978-3-540-85361-9_11","ee":"https://doi.org/10.1007/978-3-540-85361-9_11","url":"https://dblp.org/rec/conf/concur/BaetenCT08"},
+"url":"URL#2683037"
+},
+{
+"@score":"1",
+"@id":"2683038",
+"info":{"authors":{"author":["Paolo Baldan","Thomas Chatain","Stefan Haar","Barbara König 0001"]},"title":"Unfolding-Based Diagnosis of Systems with an Evolving Topology.","venue":"CONCUR","pages":"203-217","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/BaldanCHK08","doi":"10.1007/978-3-540-85361-9_19","ee":"https://doi.org/10.1007/978-3-540-85361-9_19","url":"https://dblp.org/rec/conf/concur/BaldanCHK08"},
+"url":"URL#2683038"
+},
+{
+"@score":"1",
+"@id":"2683039",
+"info":{"authors":{"author":["Dietmar Berwanger","Krishnendu Chatterjee","Laurent Doyen 0001","Thomas A. Henzinger","Sangram Raje"]},"title":"Strategy Construction for Parity Games with Imperfect Information.","venue":"CONCUR","pages":"325-339","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/BerwangerCDHR08","doi":"10.1007/978-3-540-85361-9_27","ee":"https://doi.org/10.1007/978-3-540-85361-9_27","url":"https://dblp.org/rec/conf/concur/BerwangerCDHR08"},
+"url":"URL#2683039"
+},
+{
+"@score":"1",
+"@id":"2683040",
+"info":{"authors":{"author":["Lorenzo Bettini","Mario Coppo","Loris D&apos;Antoni","Marco De Luca","Mariangiola Dezani-Ciancaglini","Nobuko Yoshida"]},"title":"Global Progress in Dynamically Interleaved Multiparty Sessions.","venue":"CONCUR","pages":"418-433","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/BettiniCDLDY08","doi":"10.1007/978-3-540-85361-9_33","ee":"https://doi.org/10.1007/978-3-540-85361-9_33","url":"https://dblp.org/rec/conf/concur/BettiniCDLDY08"},
+"url":"URL#2683040"
+},
+{
+"@score":"1",
+"@id":"2683041",
+"info":{"authors":{"author":["Lars Birkedal","Søren Debois","Thomas T. Hildebrandt"]},"title":"On the Construction of Sorted Reactive Systems.","venue":"CONCUR","pages":"218-232","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/BirkedalDH08","doi":"10.1007/978-3-540-85361-9_20","ee":"https://doi.org/10.1007/978-3-540-85361-9_20","url":"https://dblp.org/rec/conf/concur/BirkedalDH08"},
+"url":"URL#2683041"
+},
+{
+"@score":"1",
+"@id":"2683042",
+"info":{"authors":{"author":["Simon Bliudze","Joseph Sifakis"]},"title":"A Notion of Glue Expressiveness for Component-Based Systems.","venue":"CONCUR","pages":"508-522","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/BliudzeS08","doi":"10.1007/978-3-540-85361-9_39","ee":"https://doi.org/10.1007/978-3-540-85361-9_39","url":"https://dblp.org/rec/conf/concur/BliudzeS08"},
+"url":"URL#2683042"
+},
+{
+"@score":"1",
+"@id":"2683043",
+"info":{"authors":{"author":["Benedikt Bollig","Joost-Pieter Katoen","Carsten Kern","Martin Leucker"]},"title":"Smyle - A Tool for Synthesizing Distributed Models from Scenarios by Learning.","venue":"CONCUR","pages":"162-166","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/BolligKKL08","doi":"10.1007/978-3-540-85361-9_15","ee":"https://doi.org/10.1007/978-3-540-85361-9_15","url":"https://dblp.org/rec/conf/concur/BolligKKL08"},
+"url":"URL#2683043"
+},
+{
+"@score":"1",
+"@id":"2683044",
+"info":{"authors":{"author":["Borzoo Bonakdarpour","Sandeep S. Kulkarni"]},"title":"SYCRAFT - A Tool for Synthesizing Distributed Fault-Tolerant Programs.","venue":"CONCUR","pages":"167-171","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/BonakdarpourK08","doi":"10.1007/978-3-540-85361-9_16","ee":"https://doi.org/10.1007/978-3-540-85361-9_16","url":"https://dblp.org/rec/conf/concur/BonakdarpourK08"},
+"url":"URL#2683044"
+},
+{
+"@score":"1",
+"@id":"2683045",
+"info":{"authors":{"author":"Tevfik Bultan"},"title":"Service Choreography and Orchestration with Conversations.","venue":"CONCUR","pages":"2-3","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/Bultan08","doi":"10.1007/978-3-540-85361-9_2","ee":"https://doi.org/10.1007/978-3-540-85361-9_2","url":"https://dblp.org/rec/conf/concur/Bultan08"},
+"url":"URL#2683045"
+},
+{
+"@score":"1",
+"@id":"2683046",
+"info":{"authors":{"author":["Ran Canetti","Ling Cheung","Dilsun Kirli Kaynar","Nancy A. Lynch","Olivier Pereira"]},"title":"Modeling Computational Security in Long-Lived Systems.","venue":"CONCUR","pages":"114-130","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/CanettiCKLP08","doi":"10.1007/978-3-540-85361-9_12","ee":"https://doi.org/10.1007/978-3-540-85361-9_12","url":"https://dblp.org/rec/conf/concur/CanettiCKLP08"},
+"url":"URL#2683046"
+},
+{
+"@score":"1",
+"@id":"2683047",
+"info":{"authors":{"author":["Marco Carbone","Kohei Honda","Nobuko Yoshida"]},"title":"Structured Interactional Exceptions in Session Types.","venue":"CONCUR","pages":"402-417","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/CarboneHY08","doi":"10.1007/978-3-540-85361-9_32","ee":"https://doi.org/10.1007/978-3-540-85361-9_32","url":"https://dblp.org/rec/conf/concur/CarboneHY08"},
+"url":"URL#2683047"
+},
+{
+"@score":"1",
+"@id":"2683048",
+"info":{"authors":{"author":["Rohit Chadha","Mahesh Viswanathan 0001","Ramesh Viswanathan"]},"title":"Least Upper Bounds for Probability Measures and Their Applications to Abstractions.","venue":"CONCUR","pages":"264-278","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/ChadhaVV08","doi":"10.1007/978-3-540-85361-9_23","ee":"https://doi.org/10.1007/978-3-540-85361-9_23","url":"https://dblp.org/rec/conf/concur/ChadhaVV08"},
+"url":"URL#2683048"
+},
+{
+"@score":"1",
+"@id":"2683049",
+"info":{"authors":{"author":["Pierre Chambart","Philippe Schnoebelen"]},"title":"Mixing Lossy and Perfect Fifo Channels.","venue":"CONCUR","pages":"340-355","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/ChambartS08","doi":"10.1007/978-3-540-85361-9_28","ee":"https://doi.org/10.1007/978-3-540-85361-9_28","url":"https://dblp.org/rec/conf/concur/ChambartS08"},
+"url":"URL#2683049"
+},
+{
+"@score":"1",
+"@id":"2683050",
+"info":{"authors":{"author":["Krishnendu Chatterjee","Thomas A. Henzinger","Barbara Jobstmann"]},"title":"Environment Assumptions for Synthesis.","venue":"CONCUR","pages":"147-161","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/ChatterjeeHJ08","doi":"10.1007/978-3-540-85361-9_14","ee":"https://doi.org/10.1007/978-3-540-85361-9_14","url":"https://dblp.org/rec/conf/concur/ChatterjeeHJ08"},
+"url":"URL#2683050"
+},
+{
+"@score":"1",
+"@id":"2683051",
+"info":{"authors":{"author":["Sjoerd Cranen","Mohammad Reza Mousavi","Michel A. Reniers"]},"title":"A Rule Format for Associativity.","venue":"CONCUR","pages":"447-461","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/CranenMR08","doi":"10.1007/978-3-540-85361-9_35","ee":"https://doi.org/10.1007/978-3-540-85361-9_35","url":"https://dblp.org/rec/conf/concur/CranenMR08"},
+"url":"URL#2683051"
+},
+{
+"@score":"1",
+"@id":"2683052",
+"info":{"authors":{"author":["Pepijn Crouzen","Holger Hermanns","Lijun Zhang 0001"]},"title":"On the Minimisation of Acyclic Models.","venue":"CONCUR","pages":"295-309","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/CrouzenHZ08","doi":"10.1007/978-3-540-85361-9_25","ee":"https://doi.org/10.1007/978-3-540-85361-9_25","url":"https://dblp.org/rec/conf/concur/CrouzenHZ08"},
+"url":"URL#2683052"
+},
+{
+"@score":"1",
+"@id":"2683053",
+"info":{"authors":{"author":["Philippe Darondeau","Blaise Genest","P. S. Thiagarajan","Shaofa Yang"]},"title":"Quasi-Static Scheduling of Communicating Tasks.","venue":"CONCUR","pages":"310-324","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/DarondeauGTY08","doi":"10.1007/978-3-540-85361-9_26","ee":"https://doi.org/10.1007/978-3-540-85361-9_26","url":"https://dblp.org/rec/conf/concur/DarondeauGTY08"},
+"url":"URL#2683053"
+},
+{
+"@score":"1",
+"@id":"2683054",
+"info":{"authors":{"author":["Klaus Dräger","Bernd Finkbeiner"]},"title":"Subsequence Invariants.","venue":"CONCUR","pages":"172-186","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/DragerF08","doi":"10.1007/978-3-540-85361-9_17","ee":"https://doi.org/10.1007/978-3-540-85361-9_17","url":"https://dblp.org/rec/conf/concur/DragerF08"},
+"url":"URL#2683054"
+},
+{
+"@score":"1",
+"@id":"2683055",
+"info":{"authors":{"author":"Daniele Gorla"},"title":"Towards a Unified Approach to Encodability and Separation Results for Process Calculi.","venue":"CONCUR","pages":"492-507","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/Gorla08","doi":"10.1007/978-3-540-85361-9_38","ee":"https://doi.org/10.1007/978-3-540-85361-9_38","url":"https://dblp.org/rec/conf/concur/Gorla08"},
+"url":"URL#2683055"
+},
+{
+"@score":"1",
+"@id":"2683056",
+"info":{"authors":{"author":["Rachid Guerraoui","Thomas A. Henzinger","Vasu Singh"]},"title":"Completeness and Nondeterminism in Model Checking Transactional Memories.","venue":"CONCUR","pages":"21-35","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/GuerraouiHS08","doi":"10.1007/978-3-540-85361-9_6","ee":"https://doi.org/10.1007/978-3-540-85361-9_6","url":"https://dblp.org/rec/conf/concur/GuerraouiHS08"},
+"url":"URL#2683056"
+},
+{
+"@score":"1",
+"@id":"2683057",
+"info":{"authors":{"author":["Rachid Guerraoui","Marko Vukolic"]},"title":"A Scalable and Oblivious Atomicity Assertion.","venue":"CONCUR","pages":"52-66","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/GuerraouiV08","doi":"10.1007/978-3-540-85361-9_8","ee":"https://doi.org/10.1007/978-3-540-85361-9_8","url":"https://dblp.org/rec/conf/concur/GuerraouiV08"},
+"url":"URL#2683057"
+},
+{
+"@score":"1",
+"@id":"2683058",
+"info":{"authors":{"author":"Joseph Y. Halpern"},"title":"Beyond Nash Equilibrium - Solution Concepts for the 21st Century.","venue":"CONCUR","pages":"1","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/Halpern08","doi":"10.1007/978-3-540-85361-9_1","ee":"https://doi.org/10.1007/978-3-540-85361-9_1","url":"https://dblp.org/rec/conf/concur/Halpern08"},
+"url":"URL#2683058"
+},
+{
+"@score":"1",
+"@id":"2683059",
+"info":{"authors":{"author":["Petr Jancar","Martin Kot","Zdenek Sawa"]},"title":"Normed BPA vs. Normed BPP Revisited.","venue":"CONCUR","pages":"434-446","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/JancarKS08","doi":"10.1007/978-3-540-85361-9_34","ee":"https://doi.org/10.1007/978-3-540-85361-9_34","url":"https://dblp.org/rec/conf/concur/JancarKS08"},
+"url":"URL#2683059"
+},
+{
+"@score":"1",
+"@id":"2683060",
+"info":{"authors":{"author":["Harmen Kastenberg","Arend Rensink"]},"title":"Dynamic Partial Order Reduction Using Probe Sets.","venue":"CONCUR","pages":"233-247","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/KastenbergR08","doi":"10.1007/978-3-540-85361-9_21","ee":"https://doi.org/10.1007/978-3-540-85361-9_21","url":"https://dblp.org/rec/conf/concur/KastenbergR08"},
+"url":"URL#2683060"
+},
+{
+"@score":"1",
+"@id":"2683061",
+"info":{"authors":{"author":["Joost-Pieter Katoen","Daniel Klink","Martin Leucker","Verena Wolf"]},"title":"Abstraction for Stochastic Systems by Erlang&apos;s Method of Stages.","venue":"CONCUR","pages":"279-294","year":"2008","type":"Conference and Workshop Papers","key":"conf/concur/KatoenKLW08","doi":"10.1007/978-3-540-85361-9_24","ee":"https://doi.org/10.1007/978-3-540-85361-9_24","url":"https://dblp.org/rec/conf/concur/KatoenKLW08"},
+"url":"URL#2683061"
+}
+]
+}
+}
+}

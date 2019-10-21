@@ -7,7 +7,7 @@
 },
 "time":{
 "@unit":"msecs",
-"text":"105.67"
+"text":"119.93"
 },
 "completions":{
 "@total":"1",
@@ -17,194 +17,218 @@
 "@sc":"34",
 "@dc":"34",
 "@oc":"34",
-"@id":"13631308",
+"@id":"15380634",
 "text":":facetid:toc:db/conf/concur/concur2003.bht"
 }
 },
 "hits":{
 "@total":"34",
 "@computed":"34",
-"@sent":"30",
+"@sent":"34",
 "@first":"0",
 "hit":[{
 "@score":"1",
-"@id":"3464020",
+"@id":"3879323",
 "info":{"authors":{"author":"Luca de Alfaro"},"title":"Quantitative Verification and Control via the Mu-Calculus.","venue":"CONCUR","pages":"102-126","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/Alfaro03","doi":"10.1007/978-3-540-45187-7_7","ee":"https://doi.org/10.1007/978-3-540-45187-7_7","url":"https://dblp.org/rec/conf/concur/Alfaro03"},
-"url":"URL#3464020"
+"url":"URL#3879323"
 },
 {
 "@score":"1",
-"@id":"3464021",
+"@id":"3879324",
 "info":{"authors":{"author":["Luca de Alfaro","Marco Faella","Thomas A. Henzinger","Rupak Majumdar","Mariëlle Stoelinga"]},"title":"The Element of Surprise in Timed Games.","venue":"CONCUR","pages":"142-156","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/AlfaroFHMS03","doi":"10.1007/978-3-540-45187-7_9","ee":"https://doi.org/10.1007/978-3-540-45187-7_9","url":"https://dblp.org/rec/conf/concur/AlfaroFHMS03"},
-"url":"URL#3464021"
+"url":"URL#3879324"
 },
 {
 "@score":"1",
-"@id":"3464022",
+"@id":"3879325",
 "info":{"authors":{"author":["Rajeev Alur","Swarat Chaudhuri","Kousha Etessami","Sudipto Guha","Mihalis Yannakakis"]},"title":"Compression of Partially Ordered Strings.","venue":"CONCUR","pages":"42-56","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/AlurCEGY03","doi":"10.1007/978-3-540-45187-7_3","ee":"https://doi.org/10.1007/978-3-540-45187-7_3","url":"https://dblp.org/rec/conf/concur/AlurCEGY03"},
-"url":"URL#3464022"
+"url":"URL#3879325"
 },
 {
 "@score":"1",
-"@id":"3464023",
+"@id":"3879326",
 "info":{"authors":{"author":["Rajeev Alur","Salvatore La Torre","P. Madhusudan"]},"title":"Playing Games with Boxes and Diamonds.","venue":"CONCUR","pages":"127-141","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/AlurTM03","doi":"10.1007/978-3-540-45187-7_8","ee":"https://doi.org/10.1007/978-3-540-45187-7_8","url":"https://dblp.org/rec/conf/concur/AlurTM03"},
-"url":"URL#3464023"
+"url":"URL#3879326"
 },
 {
 "@score":"1",
-"@id":"3464024",
+"@id":"3879327",
 "info":{"authors":{"author":["Nina Amla","E. Allen Emerson","Kedar S. Namjoshi","Richard J. Trefler"]},"title":"Abstract Patterns of Compositional Reasoning.","venue":"CONCUR","pages":"423-438","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/AmlaENT03","doi":"10.1007/978-3-540-45187-7_28","ee":"https://doi.org/10.1007/978-3-540-45187-7_28","url":"https://dblp.org/rec/conf/concur/AmlaENT03"},
-"url":"URL#3464024"
+"url":"URL#3879327"
 },
 {
 "@score":"1",
-"@id":"3464025",
+"@id":"3879328",
 "info":{"authors":{"author":"Michael Backes 0001"},"title":"Unifying Simulatability Definitions in Cryptographic Systems under Different Timing Assumptions.","venue":"CONCUR","pages":"346-360","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/Backes03","doi":"10.1007/978-3-540-45187-7_23","ee":"https://doi.org/10.1007/978-3-540-45187-7_23","url":"https://dblp.org/rec/conf/concur/Backes03"},
-"url":"URL#3464025"
+"url":"URL#3879328"
 },
 {
 "@score":"1",
-"@id":"3464026",
+"@id":"3879329",
 "info":{"authors":{"author":["Christel Baier","Holger Hermanns","Joost-Pieter Katoen","Verena Wolf"]},"title":"Comparative Branching-Time Semantics.","venue":"CONCUR","pages":"482-497","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/BaierHKW03","doi":"10.1007/978-3-540-45187-7_32","ee":"https://doi.org/10.1007/978-3-540-45187-7_32","url":"https://dblp.org/rec/conf/concur/BaierHKW03"},
-"url":"URL#3464026"
+"url":"URL#3879329"
 },
 {
 "@score":"1",
-"@id":"3464027",
+"@id":"3879330",
 "info":{"authors":{"author":["Albert Benveniste","Stefan Haar","Eric Fabre","Claude Jard"]},"title":"Distributed Monitoring of Concurrent and Asynchronous Systems.","venue":"CONCUR","pages":"1-26","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/BenvenisteHFJ03","doi":"10.1007/978-3-540-45187-7_1","ee":"https://doi.org/10.1007/978-3-540-45187-7_1","url":"https://dblp.org/rec/conf/concur/BenvenisteHFJ03"},
-"url":"URL#3464027"
+"url":"URL#3879330"
 },
 {
 "@score":"1",
-"@id":"3464028",
+"@id":"3879331",
 "info":{"authors":{"author":["Ahmed Bouajjani","Peter Habermehl","Tomás Vojnar"]},"title":"Verification of Parametric Concurrent Systems with Prioritized FIFO Resource Management.","venue":"CONCUR","pages":"172-187","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/BouajjaniHV03","doi":"10.1007/978-3-540-45187-7_11","ee":"https://doi.org/10.1007/978-3-540-45187-7_11","url":"https://dblp.org/rec/conf/concur/BouajjaniHV03"},
-"url":"URL#3464028"
+"url":"URL#3879331"
 },
 {
 "@score":"1",
-"@id":"3464029",
+"@id":"3879332",
 "info":{"authors":{"author":["Rohit Chadha","John C. Mitchell","Andre Scedrov","Vitaly Shmatikov"]},"title":"Contract Signing, Optimism, and Advantage.","venue":"CONCUR","pages":"361-377","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/ChadhaMSS03","doi":"10.1007/978-3-540-45187-7_24","ee":"https://doi.org/10.1007/978-3-540-45187-7_24","url":"https://dblp.org/rec/conf/concur/ChadhaMSS03"},
-"url":"URL#3464029"
+"url":"URL#3879332"
 },
 {
 "@score":"1",
-"@id":"3464030",
+"@id":"3879333",
 "info":{"authors":{"author":["Flavio Corradini","Maria Rita Di Berardini","Walter Vogler"]},"title":"Relating Fairness and Timing in Process Algebras.","venue":"CONCUR","pages":"438-452","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/CorradiniBV03","doi":"10.1007/978-3-540-45187-7_29","ee":"https://doi.org/10.1007/978-3-540-45187-7_29","url":"https://dblp.org/rec/conf/concur/CorradiniBV03"},
-"url":"URL#3464030"
+"url":"URL#3879333"
 },
 {
 "@score":"1",
-"@id":"3464031",
+"@id":"3879334",
 "info":{"authors":{"author":["Vincent Danos","Josee Desharnais","Prakash Panangaden"]},"title":"Conditional Expectation and the Approximation of Labelled Markov Processes.","venue":"CONCUR","pages":"468-482","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/DanosDP03","doi":"10.1007/978-3-540-45187-7_31","ee":"https://doi.org/10.1007/978-3-540-45187-7_31","url":"https://dblp.org/rec/conf/concur/DanosDP03"},
-"url":"URL#3464031"
+"url":"URL#3879334"
 },
 {
 "@score":"1",
-"@id":"3464032",
+"@id":"3879335",
 "info":{"authors":{"author":["Philippa Gardner","Cosimo Laneve","Lucian Wischik"]},"title":"Linear Forwarders.","venue":"CONCUR","pages":"408-422","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/GardnerLW03","doi":"10.1007/978-3-540-45187-7_27","ee":"https://doi.org/10.1007/978-3-540-45187-7_27","url":"https://dblp.org/rec/conf/concur/GardnerLW03"},
-"url":"URL#3464032"
+"url":"URL#3879335"
 },
 {
 "@score":"1",
-"@id":"3464033",
+"@id":"3879336",
 "info":{"authors":{"author":["Paul Gastin","Dietrich Kuske"]},"title":"Satisfiability and Model Checking for MSO-definable Temporal Logics are in PSPACE.","venue":"CONCUR","pages":"218-232","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/GastinK03","doi":"10.1007/978-3-540-45187-7_15","ee":"https://doi.org/10.1007/978-3-540-45187-7_15","url":"https://dblp.org/rec/conf/concur/GastinK03"},
-"url":"URL#3464033"
+"url":"URL#3879336"
 },
 {
 "@score":"1",
-"@id":"3464034",
+"@id":"3879337",
 "info":{"authors":{"author":["Blaise Genest","Loïc Hélouët","Anca Muscholl"]},"title":"High-Level Message Sequence Charts and Projections.","venue":"CONCUR","pages":"308-322","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/GenestHM03","doi":"10.1007/978-3-540-45187-7_21","ee":"https://doi.org/10.1007/978-3-540-45187-7_21","url":"https://dblp.org/rec/conf/concur/GenestHM03"},
-"url":"URL#3464034"
+"url":"URL#3879337"
 },
 {
 "@score":"1",
-"@id":"3464035",
+"@id":"3879338",
 "info":{"authors":{"author":["Rob J. van Glabbeek","Frits W. Vaandrager"]},"title":"Bundle Event Structures and CCSP.","venue":"CONCUR","pages":"57-71","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/GlabbeekV03","doi":"10.1007/978-3-540-45187-7_4","ee":"https://doi.org/10.1007/978-3-540-45187-7_4","url":"https://dblp.org/rec/conf/concur/GlabbeekV03"},
-"url":"URL#3464035"
+"url":"URL#3879338"
 },
 {
 "@score":"1",
-"@id":"3464036",
+"@id":"3879339",
 "info":{"authors":{"author":["Arie Gurfinkel","Marsha Chechik"]},"title":"Multi-Valued Model Checking via Classical Model Checking.","venue":"CONCUR","pages":"263-277","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/GurfinkelC03","doi":"10.1007/978-3-540-45187-7_18","ee":"https://doi.org/10.1007/978-3-540-45187-7_18","url":"https://dblp.org/rec/conf/concur/GurfinkelC03"},
-"url":"URL#3464036"
+"url":"URL#3879339"
 },
 {
 "@score":"1",
-"@id":"3464037",
-"info":{"authors":{"author":["Petr Jancar","Antonín Kucera","Faron Moller"]},"title":"Deciding Bisimilarity between BPA and BPP Processes.","venue":"CONCUR","pages":"157-171","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/JancarKM03","doi":"10.1007/978-3-540-45187-7_10","ee":"https://doi.org/10.1007/978-3-540-45187-7_10","url":"https://dblp.org/rec/conf/concur/JancarKM03"},
-"url":"URL#3464037"
+"@id":"3879340",
+"info":{"authors":{"author":["Petr Jancar","Antonín Kucera 0001","Faron Moller"]},"title":"Deciding Bisimilarity between BPA and BPP Processes.","venue":"CONCUR","pages":"157-171","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/JancarKM03","doi":"10.1007/978-3-540-45187-7_10","ee":"https://doi.org/10.1007/978-3-540-45187-7_10","url":"https://dblp.org/rec/conf/concur/JancarKM03"},
+"url":"URL#3879340"
 },
 {
 "@score":"1",
-"@id":"3464038",
+"@id":"3879341",
 "info":{"authors":{"author":["Bartek Klin","Pawel Sobocinski"]},"title":"Syntactic Formats for Free.","venue":"CONCUR","pages":"72-86","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/KlinS03","doi":"10.1007/978-3-540-45187-7_5","ee":"https://doi.org/10.1007/978-3-540-45187-7_5","url":"https://dblp.org/rec/conf/concur/KlinS03"},
-"url":"URL#3464038"
+"url":"URL#3879341"
 },
 {
 "@score":"1",
-"@id":"3464039",
+"@id":"3879342",
 "info":{"authors":{"author":"Nancy A. Lynch"},"title":"Input/Output Automata - Basic, Timed, Hybrid, Probabilistic, Dynamic, ...","venue":"CONCUR","pages":"187-188","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/Lynch03","doi":"10.1007/978-3-540-45187-7_12","ee":"https://doi.org/10.1007/978-3-540-45187-7_12","url":"https://dblp.org/rec/conf/concur/Lynch03"},
-"url":"URL#3464039"
+"url":"URL#3879342"
 },
 {
 "@score":"1",
-"@id":"3464040",
+"@id":"3879343",
 "info":{"authors":{"author":["Nancy A. Lynch","Roberto Segala","Frits W. Vaandrager"]},"title":"Compositionality for Probabilistic Automata.","venue":"CONCUR","pages":"204-222","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/LynchSV03","doi":"10.1007/978-3-540-45187-7_14","ee":"https://doi.org/10.1007/978-3-540-45187-7_14","url":"https://dblp.org/rec/conf/concur/LynchSV03"},
-"url":"URL#3464040"
+"url":"URL#3879343"
 },
 {
 "@score":"1",
-"@id":"3464041",
+"@id":"3879344",
 "info":{"authors":{"author":["Nicolas Markey","Philippe Schnoebelen"]},"title":"Model Checking a Path.","venue":"CONCUR","pages":"248-262","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/MarkeyS03","doi":"10.1007/978-3-540-45187-7_17","ee":"https://doi.org/10.1007/978-3-540-45187-7_17","url":"https://dblp.org/rec/conf/concur/MarkeyS03"},
-"url":"URL#3464041"
+"url":"URL#3879344"
 },
 {
 "@score":"1",
-"@id":"3464042",
+"@id":"3879345",
 "info":{"authors":{"author":["Paulo Mateus","John C. Mitchell","Andre Scedrov"]},"title":"Composition of Cryptographic Protocols in a Probabilistic Polynomial-Time Process Calculus.","venue":"CONCUR","pages":"323-345","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/MateusMS03","doi":"10.1007/978-3-540-45187-7_22","ee":"https://doi.org/10.1007/978-3-540-45187-7_22","url":"https://dblp.org/rec/conf/concur/MateusMS03"},
-"url":"URL#3464042"
+"url":"URL#3879345"
 },
 {
 "@score":"1",
-"@id":"3464043",
+"@id":"3879346",
 "info":{"authors":{"author":["Madhavan Mukund","K. Narayan Kumar","P. S. Thiagarajan"]},"title":"Netcharts - Bridging the gap between HMSCs and executable specifications.","venue":"CONCUR","pages":"293-307","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/MukundKT03","doi":"10.1007/978-3-540-45187-7_20","ee":"https://doi.org/10.1007/978-3-540-45187-7_20","url":"https://dblp.org/rec/conf/concur/MukundKT03"},
-"url":"URL#3464043"
+"url":"URL#3879346"
 },
 {
 "@score":"1",
-"@id":"3464044",
+"@id":"3879347",
 "info":{"authors":{"author":["Uwe Nestmann","Rachele Fuzzati","Massimo Merro"]},"title":"Modeling Consensus in a Process Calculus.","venue":"CONCUR","pages":"393-407","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/NestmannFM03","doi":"10.1007/978-3-540-45187-7_26","ee":"https://doi.org/10.1007/978-3-540-45187-7_26","url":"https://dblp.org/rec/conf/concur/NestmannFM03"},
-"url":"URL#3464044"
+"url":"URL#3879347"
 },
 {
 "@score":"1",
-"@id":"3464045",
+"@id":"3879348",
 "info":{"authors":{"author":["Naoya Nitta","Hiroyuki Seki"]},"title":"An Extension of Pushdown System and Its Model Checking Method.","venue":"CONCUR","pages":"278-292","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/NittaS03","doi":"10.1007/978-3-540-45187-7_19","ee":"https://doi.org/10.1007/978-3-540-45187-7_19","url":"https://dblp.org/rec/conf/concur/NittaS03"},
-"url":"URL#3464045"
+"url":"URL#3879348"
 },
 {
 "@score":"1",
-"@id":"3464046",
+"@id":"3879349",
 "info":{"authors":{"author":["Barry Norton","Gerald Lüttgen","Michael Mendler"]},"title":"A Compositional Semantic Theory for Synchronous Component-based Design.","venue":"CONCUR","pages":"453-467","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/NortonLM03","doi":"10.1007/978-3-540-45187-7_30","ee":"https://doi.org/10.1007/978-3-540-45187-7_30","url":"https://dblp.org/rec/conf/concur/NortonLM03"},
-"url":"URL#3464046"
+"url":"URL#3879349"
 },
 {
 "@score":"1",
-"@id":"3464047",
+"@id":"3879350",
 "info":{"authors":{"author":["Mikkel Nygaard","Glynn Winskel"]},"title":"Full Abstraction for HOPLA.","venue":"CONCUR","pages":"378-392","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/NygaardW03","doi":"10.1007/978-3-540-45187-7_25","ee":"https://doi.org/10.1007/978-3-540-45187-7_25","url":"https://dblp.org/rec/conf/concur/NygaardW03"},
-"url":"URL#3464047"
+"url":"URL#3879350"
 },
 {
 "@score":"1",
-"@id":"3464048",
+"@id":"3879351",
 "info":{"authors":{"author":["Alessandra Di Pierro","Chris Hankin","Herbert Wiklicky"]},"title":"Quantitative Relations and Approximate Process Equivalences.","venue":"CONCUR","pages":"498-512","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/PierroHW03","doi":"10.1007/978-3-540-45187-7_33","ee":"https://doi.org/10.1007/978-3-540-45187-7_33","url":"https://dblp.org/rec/conf/concur/PierroHW03"},
-"url":"URL#3464048"
+"url":"URL#3879351"
 },
 {
 "@score":"1",
-"@id":"3464049",
+"@id":"3879352",
 "info":{"authors":{"author":"Zdenek Sawa"},"title":"Equivalence Checking of Non-Flat Systems Is EXPTIME-hard.","venue":"CONCUR","pages":"233-248","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/Sawa03","doi":"10.1007/978-3-540-45187-7_16","ee":"https://doi.org/10.1007/978-3-540-45187-7_16","url":"https://dblp.org/rec/conf/concur/Sawa03"},
-"url":"URL#3464049"
+"url":"URL#3879352"
+},
+{
+"@score":"1",
+"@id":"3879353",
+"info":{"authors":{"author":["Eugene W. Stark","Rance Cleaveland","Scott A. Smolka"]},"title":"A Process-Algebraic Language for Probabilistic I/O Automata.","venue":"CONCUR","pages":"189-203","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/StarkCS03","doi":"10.1007/978-3-540-45187-7_13","ee":"https://doi.org/10.1007/978-3-540-45187-7_13","url":"https://dblp.org/rec/conf/concur/StarkCS03"},
+"url":"URL#3879353"
+},
+{
+"@score":"1",
+"@id":"3879354",
+"info":{"authors":{"author":["Alin Stefanescu","Javier Esparza","Anca Muscholl"]},"title":"Synthesis of Distributed Algorithms Using Asynchronous Automata.","venue":"CONCUR","pages":"27-41","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/StefanescuEM03","doi":"10.1007/978-3-540-45187-7_2","ee":"https://doi.org/10.1007/978-3-540-45187-7_2","url":"https://dblp.org/rec/conf/concur/StefanescuEM03"},
+"url":"URL#3879354"
+},
+{
+"@score":"1",
+"@id":"3879355",
+"info":{"authors":{"author":"Irek Ulidowski"},"title":"Priority Rewrite Systems for OSOS Process Languages.","venue":"CONCUR","pages":"87-101","year":"2003","type":"Conference and Workshop Papers","key":"conf/concur/Ulidowski03","doi":"10.1007/978-3-540-45187-7_6","ee":"https://doi.org/10.1007/978-3-540-45187-7_6","url":"https://dblp.org/rec/conf/concur/Ulidowski03"},
+"url":"URL#3879355"
+},
+{
+"@score":"1",
+"@id":"3931513",
+"info":{"authors":{"author":["Roberto M. Amadio","Denis Lugiez"]},"title":"CONCUR 2003 - Concurrency Theory, 14th International Conference, Marseille, France, September 3-5, 2003, Proceedings","venue":["CONCUR","Lecture Notes in Computer Science"],"volume":"2761","publisher":"Springer","year":"2003","type":"Editorship","key":"conf/concur/2003","doi":"10.1007/B11938","ee":"https://doi.org/10.1007/b11938","url":"https://dblp.org/rec/conf/concur/2003"},
+"url":"URL#3931513"
 }
 ]
 }

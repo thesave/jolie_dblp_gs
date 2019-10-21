@@ -7,7 +7,7 @@
 },
 "time":{
 "@unit":"msecs",
-"text":"104.14"
+"text":"121.40"
 },
 "completions":{
 "@total":"1",
@@ -17,194 +17,272 @@
 "@sc":"43",
 "@dc":"43",
 "@oc":"43",
-"@id":"13631310",
+"@id":"15380636",
 "text":":facetid:toc:db/conf/concur/concur2005.bht"
 }
 },
 "hits":{
 "@total":"43",
 "@computed":"43",
-"@sent":"30",
+"@sent":"43",
 "@first":"0",
 "hit":[{
 "@score":"1",
-"@id":"3204430",
+"@id":"3616570",
 "info":{"authors":{"author":"Rajeev Alur"},"title":"The Benefits of Exposing Calls and Returns.","venue":"CONCUR","pages":"2-3","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Alur05","doi":"10.1007/11539452_2","ee":"https://doi.org/10.1007/11539452_2","url":"https://dblp.org/rec/conf/concur/Alur05"},
-"url":"URL#3204430"
+"url":"URL#3616570"
 },
 {
 "@score":"1",
-"@id":"3204431",
+"@id":"3616571",
 "info":{"authors":{"author":["Jos C. M. Baeten","Mario Bravetti"]},"title":"A Ground-Complete Axiomatization of Finite State Processes in Process Algebra.","venue":"CONCUR","pages":"248-262","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/BaetenB05","doi":"10.1007/11539452_21","ee":"https://doi.org/10.1007/11539452_21","url":"https://dblp.org/rec/conf/concur/BaetenB05"},
-"url":"URL#3204431"
+"url":"URL#3616571"
 },
 {
 "@score":"1",
-"@id":"3204432",
+"@id":"3616572",
 "info":{"authors":{"author":["Mohit Bhargava","Catuscia Palamidessi"]},"title":"Probabilistic Anonymity.","venue":"CONCUR","pages":"171-185","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/BhargavaP05","doi":"10.1007/11539452_16","ee":"https://doi.org/10.1007/11539452_16","url":"https://dblp.org/rec/conf/concur/BhargavaP05"},
-"url":"URL#3204432"
+"url":"URL#3616572"
 },
 {
 "@score":"1",
-"@id":"3204433",
+"@id":"3616573",
 "info":{"authors":{"author":["Ahmed Bouajjani","Markus Müller-Olm","Tayssir Touili"]},"title":"Regular Symbolic Analysis of Dynamic Networks of Pushdown Systems.","venue":"CONCUR","pages":"473-487","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/BouajjaniMT05","doi":"10.1007/11539452_36","ee":"https://doi.org/10.1007/11539452_36","url":"https://dblp.org/rec/conf/concur/BouajjaniMT05"},
-"url":"URL#3204433"
+"url":"URL#3616573"
 },
 {
 "@score":"1",
-"@id":"3204434",
+"@id":"3616574",
 "info":{"authors":{"author":["Patricia Bouyer","Franck Cassez","François Laroussinie"]},"title":"Modal Logics for Timed Control.","venue":"CONCUR","pages":"81-94","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/BouyerCL05","doi":"10.1007/11539452_10","ee":"https://doi.org/10.1007/11539452_10","url":"https://dblp.org/rec/conf/concur/BouyerCL05"},
-"url":"URL#3204434"
+"url":"URL#3616574"
 },
 {
 "@score":"1",
-"@id":"3204435",
+"@id":"3616575",
 "info":{"authors":{"author":["Aaron R. Bradley","Zohar Manna","Henny B. Sipma"]},"title":"Termination Analysis of Integer Linear Loops.","venue":"CONCUR","pages":"488-502","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/BradleyMS05","doi":"10.1007/11539452_37","ee":"https://doi.org/10.1007/11539452_37","url":"https://dblp.org/rec/conf/concur/BradleyMS05"},
-"url":"URL#3204435"
+"url":"URL#3616575"
 },
 {
 "@score":"1",
-"@id":"3204436",
+"@id":"3616576",
 "info":{"authors":{"author":"Franck van Breugel"},"title":"A Behavioural Pseudometric for Metric Labelled Transition Systems.","venue":"CONCUR","pages":"141-155","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Breugel05","doi":"10.1007/11539452_14","ee":"https://doi.org/10.1007/11539452_14","url":"https://dblp.org/rec/conf/concur/Breugel05"},
-"url":"URL#3204436"
+"url":"URL#3616576"
 },
 {
 "@score":"1",
-"@id":"3204437",
+"@id":"3616577",
 "info":{"authors":{"author":["Roberto Bruni","Michael J. Butler","Carla Ferreira 0001","C. A. R. Hoare","Hernán C. Melgratti","Ugo Montanari"]},"title":"Comparing Two Approaches to Compensable Flow Composition.","venue":"CONCUR","pages":"383-397","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/BruniBFHMM05","doi":"10.1007/11539452_30","ee":"https://doi.org/10.1007/11539452_30","url":"https://dblp.org/rec/conf/concur/BruniBFHMM05"},
-"url":"URL#3204437"
+"url":"URL#3616577"
 },
 {
 "@score":"1",
-"@id":"3204438",
+"@id":"3616578",
 "info":{"authors":{"author":["Roberto Bruni","Fabio Gadducci","Ugo Montanari","Pawel Sobocinski"]},"title":"Deriving Weak Bisimulation Congruences from Reduction Systems.","venue":"CONCUR","pages":"293-307","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/BruniGMS05","doi":"10.1007/11539452_24","ee":"https://doi.org/10.1007/11539452_24","url":"https://dblp.org/rec/conf/concur/BruniGMS05"},
-"url":"URL#3204438"
+"url":"URL#3616578"
 },
 {
 "@score":"1",
-"@id":"3204439",
+"@id":"3616579",
 "info":{"authors":{"author":"Luca Cardelli"},"title":"A Compositional Approach to the Stochastic Dynamics of Gene Networks.","venue":"CONCUR","pages":"4","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Cardelli05","doi":"10.1007/11539452_3","ee":"https://doi.org/10.1007/11539452_3","url":"https://dblp.org/rec/conf/concur/Cardelli05"},
-"url":"URL#3204439"
+"url":"URL#3616579"
 },
 {
 "@score":"1",
-"@id":"3204440",
+"@id":"3616580",
 "info":{"authors":{"author":["Franck Cassez","Alexandre David","Emmanuel Fleury","Kim Guldstrand Larsen","Didier Lime"]},"title":"Efficient On-the-Fly Algorithms for the Analysis of Timed Games.","venue":"CONCUR","pages":"66-80","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/CassezDFLL05","doi":"10.1007/11539452_9","ee":"https://doi.org/10.1007/11539452_9","url":"https://dblp.org/rec/conf/concur/CassezDFLL05"},
-"url":"URL#3204440"
+"url":"URL#3616580"
 },
 {
 "@score":"1",
-"@id":"3204441",
+"@id":"3616581",
 "info":{"authors":{"author":"Krishnendu Chatterjee"},"title":"Two-Player Nonzero-Sum omega-Regular Games.","venue":"CONCUR","pages":"413-427","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Chatterjee05","doi":"10.1007/11539452_32","ee":"https://doi.org/10.1007/11539452_32","url":"https://dblp.org/rec/conf/concur/Chatterjee05"},
-"url":"URL#3204441"
+"url":"URL#3616581"
 },
 {
 "@score":"1",
-"@id":"3204442",
+"@id":"3616582",
 "info":{"authors":{"author":["Pedro R. D&apos;Argenio","Biniam Gebremichael"]},"title":"The Coarsest Congruence for Timed Automata with Deadlines Contained in Bisimulation.","venue":"CONCUR","pages":"125-140","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/DArgenioG05","doi":"10.1007/11539452_13","ee":"https://doi.org/10.1007/11539452_13","url":"https://dblp.org/rec/conf/concur/DArgenioG05"},
-"url":"URL#3204442"
+"url":"URL#3616582"
 },
 {
 "@score":"1",
-"@id":"3204443",
+"@id":"3616583",
 "info":{"authors":{"author":["Vincent Danos","Jean Krivine"]},"title":"Transactions in RCCS.","venue":"CONCUR","pages":"398-412","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/DanosK05","doi":"10.1007/11539452_31","ee":"https://doi.org/10.1007/11539452_31","url":"https://dblp.org/rec/conf/concur/DanosK05"},
-"url":"URL#3204443"
+"url":"URL#3616583"
 },
 {
 "@score":"1",
-"@id":"3204444",
+"@id":"3616584",
 "info":{"authors":{"author":["Stéphane Demri","Régis Gascon"]},"title":"Verification of Qualitative Constraints.","venue":"CONCUR","pages":"518-532","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/DemriG05","doi":"10.1007/11539452_39","ee":"https://doi.org/10.1007/11539452_39","url":"https://dblp.org/rec/conf/concur/DemriG05"},
-"url":"URL#3204444"
+"url":"URL#3616584"
 },
 {
 "@score":"1",
-"@id":"3204445",
+"@id":"3616585",
 "info":{"authors":{"author":"Catalin Dima"},"title":"Timed Shuffle Expressions.","venue":"CONCUR","pages":"95-109","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Dima05","doi":"10.1007/11539452_11","ee":"https://doi.org/10.1007/11539452_11","url":"https://dblp.org/rec/conf/concur/Dima05"},
-"url":"URL#3204445"
+"url":"URL#3616585"
 },
 {
 "@score":"1",
-"@id":"3204446",
+"@id":"3616586",
 "info":{"authors":{"author":"Dawson R. Engler"},"title":"Static Analysis Versus Model Checking for Bug Finding.","venue":"CONCUR","pages":"1","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Engler05","doi":"10.1007/11539452_1","ee":"https://doi.org/10.1007/11539452_1","url":"https://dblp.org/rec/conf/concur/Engler05"},
-"url":"URL#3204446"
+"url":"URL#3616586"
 },
 {
 "@score":"1",
-"@id":"3204447",
+"@id":"3616587",
 "info":{"authors":{"author":["Adrian Francalanza","Matthew Hennessy"]},"title":"A Theory of System Behaviour in the Presence of Node and Link Failures.","venue":"CONCUR","pages":"368-382","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/FrancalanzaH05","doi":"10.1007/11539452_29","ee":"https://doi.org/10.1007/11539452_29","url":"https://dblp.org/rec/conf/concur/FrancalanzaH05"},
-"url":"URL#3204447"
+"url":"URL#3616587"
 },
 {
 "@score":"1",
-"@id":"3204448",
+"@id":"3616588",
 "info":{"authors":{"author":["Sibylle B. Fröschle","Slawomir Lasota"]},"title":"Decomposition and Complexity of Hereditary History Preserving Bisimulation on BPP.","venue":"CONCUR","pages":"263-277","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/FroschleL05","doi":"10.1007/11539452_22","ee":"https://doi.org/10.1007/11539452_22","url":"https://dblp.org/rec/conf/concur/FroschleL05"},
-"url":"URL#3204448"
+"url":"URL#3616588"
 },
 {
 "@score":"1",
-"@id":"3204449",
+"@id":"3616589",
 "info":{"authors":{"author":["David de Frutos-Escrig","Carlos Gregorio-Rodríguez"]},"title":"Bisimulations Up-to for the Linear Time Branching Time Spectrum.","venue":"CONCUR","pages":"278-292","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Frutos-EscrigG05","doi":"10.1007/11539452_23","ee":"https://doi.org/10.1007/11539452_23","url":"https://dblp.org/rec/conf/concur/Frutos-EscrigG05"},
-"url":"URL#3204449"
+"url":"URL#3616589"
 },
 {
 "@score":"1",
-"@id":"3204450",
+"@id":"3616590",
 "info":{"authors":{"author":["Deepak Garg 0001","Frank Pfenning"]},"title":"Type-Directed Concurrency.","venue":"CONCUR","pages":"6-20","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/GargP05","doi":"10.1007/11539452_5","ee":"https://doi.org/10.1007/11539452_5","url":"https://dblp.org/rec/conf/concur/GargP05"},
-"url":"URL#3204450"
+"url":"URL#3616590"
 },
 {
 "@score":"1",
-"@id":"3204451",
+"@id":"3616591",
 "info":{"authors":{"author":["Paul Gastin","Dietrich Kuske"]},"title":"Uniform Satisfiability Problem for Local Temporal Logics over Mazurkiewicz Traces.","venue":"CONCUR","pages":"533-547","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/GastinK05","doi":"10.1007/11539452_40","ee":"https://doi.org/10.1007/11539452_40","url":"https://dblp.org/rec/conf/concur/GastinK05"},
-"url":"URL#3204451"
+"url":"URL#3616591"
 },
 {
 "@score":"1",
-"@id":"3204452",
+"@id":"3616592",
 "info":{"authors":{"author":"Blaise Genest"},"title":"On Implementation of Global Concurrent Systems with Local Asynchronous Controllers.","venue":"CONCUR","pages":"443-457","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Genest05","doi":"10.1007/11539452_34","ee":"https://doi.org/10.1007/11539452_34","url":"https://dblp.org/rec/conf/concur/Genest05"},
-"url":"URL#3204452"
+"url":"URL#3616592"
 },
 {
 "@score":"1",
-"@id":"3204453",
+"@id":"3616593",
 "info":{"authors":{"author":["Hugo Gimbert","Wieslaw Zielonka"]},"title":"Games Where You Can Play Optimally Without Any Memory.","venue":"CONCUR","pages":"428-442","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/GimbertZ05","doi":"10.1007/11539452_33","ee":"https://doi.org/10.1007/11539452_33","url":"https://dblp.org/rec/conf/concur/GimbertZ05"},
-"url":"URL#3204453"
+"url":"URL#3616593"
 },
 {
 "@score":"1",
-"@id":"3204454",
+"@id":"3616594",
 "info":{"authors":{"author":"Rob J. van Glabbeek"},"title":"The Individual and Collective Token Interpretations of Petri Nets.","venue":"CONCUR","pages":"323-337","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Glabbeek05","doi":"10.1007/11539452_26","ee":"https://doi.org/10.1007/11539452_26","url":"https://dblp.org/rec/conf/concur/Glabbeek05"},
-"url":"URL#3204454"
+"url":"URL#3616594"
 },
 {
 "@score":"1",
-"@id":"3204455",
+"@id":"3616595",
 "info":{"authors":{"author":["Andrew D. Gordon","Alan Jeffrey"]},"title":"Secrecy Despite Compromise - Types, Cryptography, and the Pi-Calculus.","venue":"CONCUR","pages":"186-201","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/GordonJ05","doi":"10.1007/11539452_17","ee":"https://doi.org/10.1007/11539452_17","url":"https://dblp.org/rec/conf/concur/GordonJ05"},
-"url":"URL#3204455"
+"url":"URL#3616595"
 },
 {
 "@score":"1",
-"@id":"3204456",
+"@id":"3616596",
 "info":{"authors":{"author":["Eric Goubault","Emmanuel Haucourt"]},"title":"A Practical Application of Geometric Semantics to Static Analysis of Concurrent Programs.","venue":"CONCUR","pages":"503-517","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/GoubaultH05","doi":"10.1007/11539452_38","ee":"https://doi.org/10.1007/11539452_38","url":"https://dblp.org/rec/conf/concur/GoubaultH05"},
-"url":"URL#3204456"
+"url":"URL#3616596"
 },
 {
 "@score":"1",
-"@id":"3204457",
+"@id":"3616597",
 "info":{"authors":{"author":["Christian Haack","Alan Jeffrey"]},"title":"Timed Spi-Calculus with Types for Secrecy and Authenticity.","venue":"CONCUR","pages":"202-216","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/HaackJ05","doi":"10.1007/11539452_18","ee":"https://doi.org/10.1007/11539452_18","url":"https://dblp.org/rec/conf/concur/HaackJ05"},
-"url":"URL#3204457"
+"url":"URL#3616597"
 },
 {
 "@score":"1",
-"@id":"3204458",
+"@id":"3616598",
 "info":{"authors":{"author":["Detlef Kähler","Ralf Küsters"]},"title":"Constraint Solving for Contract-Signing Protocols.","venue":"CONCUR","pages":"233-247","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/KahlerK05","doi":"10.1007/11539452_20","ee":"https://doi.org/10.1007/11539452_20","url":"https://dblp.org/rec/conf/concur/KahlerK05"},
-"url":"URL#3204458"
+"url":"URL#3616598"
 },
 {
 "@score":"1",
-"@id":"3204459",
+"@id":"3616599",
 "info":{"authors":{"author":["Victor Khomenko","Alex Kondratyev","Maciej Koutny","Walter Vogler"]},"title":"Merged Processes - A New Condensed Representation of Petri Net Behaviour.","venue":"CONCUR","pages":"338-352","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/KhomenkoKKV05","doi":"10.1007/11539452_27","ee":"https://doi.org/10.1007/11539452_27","url":"https://dblp.org/rec/conf/concur/KhomenkoKKV05"},
-"url":"URL#3204459"
+"url":"URL#3616599"
+},
+{
+"@score":"1",
+"@id":"3616600",
+"info":{"authors":{"author":"Jim Laird"},"title":"A Game Semantics of the Asynchronous pi-Calculus.","venue":"CONCUR","pages":"51-65","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Laird05","doi":"10.1007/11539452_8","ee":"https://doi.org/10.1007/11539452_8","url":"https://dblp.org/rec/conf/concur/Laird05"},
+"url":"URL#3616600"
+},
+{
+"@score":"1",
+"@id":"3616601",
+"info":{"authors":{"author":["Tiziana Margaria","A. Prasad Sistla","Bernhard Steffen","Lenore D. Zuck"]},"title":"Taming Interface Specifications.","venue":"CONCUR","pages":"548-561","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/MargariaSSZ05","doi":"10.1007/11539452_41","ee":"https://doi.org/10.1007/11539452_41","url":"https://dblp.org/rec/conf/concur/MargariaSSZ05"},
+"url":"URL#3616601"
+},
+{
+"@score":"1",
+"@id":"3616602",
+"info":{"authors":{"author":"Damiano Mazza"},"title":"Multiport Interaction Nets and Concurrency.","venue":"CONCUR","pages":"21-35","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Mazza05","doi":"10.1007/11539452_6","ee":"https://doi.org/10.1007/11539452_6","url":"https://dblp.org/rec/conf/concur/Mazza05"},
+"url":"URL#3616602"
+},
+{
+"@score":"1",
+"@id":"3616603",
+"info":{"authors":{"author":["Ron van der Meyden","Thomas Wilke"]},"title":"Synthesis of Distributed Systems from Knowledge-Based Specifications.","venue":"CONCUR","pages":"562-576","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/MeydenW05","doi":"10.1007/11539452_42","ee":"https://doi.org/10.1007/11539452_42","url":"https://dblp.org/rec/conf/concur/MeydenW05"},
+"url":"URL#3616603"
+},
+{
+"@score":"1",
+"@id":"3616604",
+"info":{"authors":{"author":["Houda Bel Mokadem","Béatrice Bérard","Patricia Bouyer","François Laroussinie"]},"title":"A New Modality for Almost Everywhere Properties in Timed Automata.","venue":"CONCUR","pages":"110-124","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/MokademBBL05","doi":"10.1007/11539452_12","ee":"https://doi.org/10.1007/11539452_12","url":"https://dblp.org/rec/conf/concur/MokademBBL05"},
+"url":"URL#3616604"
+},
+{
+"@score":"1",
+"@id":"3616605",
+"info":{"authors":{"author":["Mohammad Reza Mousavi","Murdoch Gabbay","Michel A. Reniers"]},"title":"SOS for Higher Order Processes.","venue":"CONCUR","pages":"308-322","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/MousaviGR05","doi":"10.1007/11539452_25","ee":"https://doi.org/10.1007/11539452_25","url":"https://dblp.org/rec/conf/concur/MousaviGR05"},
+"url":"URL#3616605"
+},
+{
+"@score":"1",
+"@id":"3616606",
+"info":{"authors":{"author":["Andrzej S. Murawski","Joël Ouaknine"]},"title":"On Probabilistic Program Equivalence and Refinement.","venue":"CONCUR","pages":"156-170","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/MurawskiO05","doi":"10.1007/11539452_15","ee":"https://doi.org/10.1007/11539452_15","url":"https://dblp.org/rec/conf/concur/MurawskiO05"},
+"url":"URL#3616606"
+},
+{
+"@score":"1",
+"@id":"3616607",
+"info":{"authors":{"author":"Christos H. Papadimitriou"},"title":"Games Other People Play.","venue":"CONCUR","pages":"5","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Papadimitriou05","doi":"10.1007/11539452_4","ee":"https://doi.org/10.1007/11539452_4","url":"https://dblp.org/rec/conf/concur/Papadimitriou05"},
+"url":"URL#3616607"
+},
+{
+"@score":"1",
+"@id":"3616608",
+"info":{"authors":{"author":["Vijay A. Saraswat","Radha Jagadeesan"]},"title":"Concurrent Clustered Programming.","venue":"CONCUR","pages":"353-367","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/SaraswatJ05","doi":"10.1007/11539452_28","ee":"https://doi.org/10.1007/11539452_28","url":"https://dblp.org/rec/conf/concur/SaraswatJ05"},
+"url":"URL#3616608"
+},
+{
+"@score":"1",
+"@id":"3616609",
+"info":{"authors":{"author":"Alwen Fernanto Tiu"},"title":"Model Checking for pi-Calculus Using Proof Search.","venue":"CONCUR","pages":"36-50","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Tiu05","doi":"10.1007/11539452_7","ee":"https://doi.org/10.1007/11539452_7","url":"https://dblp.org/rec/conf/concur/Tiu05"},
+"url":"URL#3616609"
+},
+{
+"@score":"1",
+"@id":"3616610",
+"info":{"authors":{"author":"Tomasz Truderung"},"title":"Selecting Theories and Recursive Protocols.","venue":"CONCUR","pages":"217-232","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/Truderung05","doi":"10.1007/11539452_19","ee":"https://doi.org/10.1007/11539452_19","url":"https://dblp.org/rec/conf/concur/Truderung05"},
+"url":"URL#3616610"
+},
+{
+"@score":"1",
+"@id":"3616611",
+"info":{"authors":{"author":["Hagen Völzer","Daniele Varacca","Ekkart Kindler"]},"title":"Defining Fairness.","venue":"CONCUR","pages":"458-472","year":"2005","type":"Conference and Workshop Papers","key":"conf/concur/VolzerVK05","doi":"10.1007/11539452_35","ee":"https://doi.org/10.1007/11539452_35","url":"https://dblp.org/rec/conf/concur/VolzerVK05"},
+"url":"URL#3616611"
+},
+{
+"@score":"1",
+"@id":"3691094",
+"info":{"authors":{"author":["Martín Abadi","Luca de Alfaro"]},"title":"CONCUR 2005 - Concurrency Theory, 16th International Conference, CONCUR 2005, San Francisco, CA, USA, August 23-26, 2005, Proceedings","venue":["CONCUR","Lecture Notes in Computer Science"],"volume":"3653","publisher":"Springer","year":"2005","type":"Editorship","key":"conf/concur/2005","doi":"10.1007/11539452","ee":"https://doi.org/10.1007/11539452","url":"https://dblp.org/rec/conf/concur/2005"},
+"url":"URL#3691094"
 }
 ]
 }

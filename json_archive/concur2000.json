@@ -7,7 +7,7 @@
 },
 "time":{
 "@unit":"msecs",
-"text":"104.98"
+"text":"118.27"
 },
 "completions":{
 "@total":"1",
@@ -17,194 +17,272 @@
 "@sc":"43",
 "@dc":"43",
 "@oc":"43",
-"@id":"13631305",
+"@id":"15380631",
 "text":":facetid:toc:db/conf/concur/concur2000.bht"
 }
 },
 "hits":{
 "@total":"43",
 "@computed":"43",
-"@sent":"30",
+"@sent":"43",
 "@first":"0",
 "hit":[{
 "@score":"1",
-"@id":"3725805",
+"@id":"4145225",
 "info":{"authors":{"author":["Parosh Aziz Abdulla","Christel Baier","S. Purushothaman Iyer","Bengt Jonsson"]},"title":"Reasoning about Probabilistic Lossy Channel Systems.","venue":"CONCUR","pages":"320-333","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/AbdullaBIJ00","doi":"10.1007/3-540-44618-4_24","ee":"https://doi.org/10.1007/3-540-44618-4_24","url":"https://dblp.org/rec/conf/concur/AbdullaBIJ00"},
-"url":"URL#3725805"
+"url":"URL#4145225"
 },
 {
 "@score":"1",
-"@id":"3725806",
+"@id":"4145226",
 "info":{"authors":{"author":["Erika Ábrahám-Mumm","Frank S. de Boer"]},"title":"Proof-Outlines for Threads in Java.","venue":"CONCUR","pages":"229-242","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Abraham-MummB00","doi":"10.1007/3-540-44618-4_18","ee":"https://doi.org/10.1007/3-540-44618-4_18","url":"https://dblp.org/rec/conf/concur/Abraham-MummB00"},
-"url":"URL#3725806"
+"url":"URL#4145226"
 },
 {
 "@score":"1",
-"@id":"3725807",
+"@id":"4145227",
 "info":{"authors":{"author":["Luca de Alfaro","Thomas A. Henzinger","Freddy Y. C. Mang"]},"title":"The Control of Synchronous Systems.","venue":"CONCUR","pages":"458-473","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/AlfaroHM00","doi":"10.1007/3-540-44618-4_33","ee":"https://doi.org/10.1007/3-540-44618-4_33","url":"https://dblp.org/rec/conf/concur/AlfaroHM00"},
-"url":"URL#3725807"
+"url":"URL#4145227"
 },
 {
 "@score":"1",
-"@id":"3725808",
+"@id":"4145228",
 "info":{"authors":{"author":"Rajeev Alur"},"title":"Exploiting Hierarchical Structure for Efficient Formal Verification.","venue":"CONCUR","pages":"66-68","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Alur00","doi":"10.1007/3-540-44618-4_6","ee":"https://doi.org/10.1007/3-540-44618-4_6","url":"https://dblp.org/rec/conf/concur/Alur00"},
-"url":"URL#3725808"
+"url":"URL#4145228"
 },
 {
 "@score":"1",
-"@id":"3725809",
+"@id":"4145229",
 "info":{"authors":{"author":["Roberto M. Amadio","Denis Lugiez"]},"title":"On the Reachability Problem in Cryptographic Protocols.","venue":"CONCUR","pages":"380-394","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/AmadioL00","doi":"10.1007/3-540-44618-4_28","ee":"https://doi.org/10.1007/3-540-44618-4_28","url":"https://dblp.org/rec/conf/concur/AmadioL00"},
-"url":"URL#3725809"
+"url":"URL#4145229"
 },
 {
 "@score":"1",
-"@id":"3725810",
+"@id":"4145230",
 "info":{"authors":{"author":["Paolo Baldan","Nadia Busi","Andrea Corradini","G. Michele Pinna"]},"title":"Functorial Concurrent Semantics for Petri Nets with Read and Inhibitor Arcs.","venue":"CONCUR","pages":"442-457","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/BaldanBCP00","doi":"10.1007/3-540-44618-4_32","ee":"https://doi.org/10.1007/3-540-44618-4_32","url":"https://dblp.org/rec/conf/concur/BaldanBCP00"},
-"url":"URL#3725810"
+"url":"URL#4145230"
 },
 {
 "@score":"1",
-"@id":"3725811",
+"@id":"4145231",
 "info":{"authors":{"author":["Marco Bernardo 0001","Rance Cleaveland"]},"title":"A Theory of Testing for Markovian Processes.","venue":"CONCUR","pages":"305-319","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/BernardoC00","doi":"10.1007/3-540-44618-4_23","ee":"https://doi.org/10.1007/3-540-44618-4_23","url":"https://dblp.org/rec/conf/concur/BernardoC00"},
-"url":"URL#3725811"
+"url":"URL#4145231"
 },
 {
 "@score":"1",
-"@id":"3725812",
+"@id":"4145232",
 "info":{"authors":{"author":["Frank S. de Boer","Rogier M. van Eijk","Wiebe van der Hoek","John-Jules Ch. Meyer"]},"title":"Failure Semantics for the Exchange of Information in Multi-Agent Systems.","venue":"CONCUR","pages":"214-228","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/BoerEHM00","doi":"10.1007/3-540-44618-4_17","ee":"https://doi.org/10.1007/3-540-44618-4_17","url":"https://dblp.org/rec/conf/concur/BoerEHM00"},
-"url":"URL#3725812"
+"url":"URL#4145232"
 },
 {
 "@score":"1",
-"@id":"3725813",
+"@id":"4145233",
 "info":{"authors":{"author":"Ed Brinksma"},"title":"Verification Is Experimentation!","venue":"CONCUR","pages":"17-24","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Brinksma00","doi":"10.1007/3-540-44618-4_2","ee":"https://doi.org/10.1007/3-540-44618-4_2","url":"https://dblp.org/rec/conf/concur/Brinksma00"},
-"url":"URL#3725813"
+"url":"URL#4145233"
 },
 {
 "@score":"1",
-"@id":"3725814",
+"@id":"4145234",
 "info":{"authors":{"author":["Roberto Bruni","David de Frutos-Escrig","Narciso Martí-Oliet","Ugo Montanari"]},"title":"Bisimilarity Congruences for Open Terms and Term Graphs via Tile Logic.","venue":"CONCUR","pages":"259-274","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/BruniFMM00","doi":"10.1007/3-540-44618-4_20","ee":"https://doi.org/10.1007/3-540-44618-4_20","url":"https://dblp.org/rec/conf/concur/BruniFMM00"},
-"url":"URL#3725814"
+"url":"URL#4145234"
 },
 {
 "@score":"1",
-"@id":"3725815",
+"@id":"4145235",
 "info":{"authors":{"author":["Glenn Bruns","Patrice Godefroid"]},"title":"Generalized Model Checking - Reasoning about Partial State Spaces.","venue":"CONCUR","pages":"168-182","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/BrunsG00","doi":"10.1007/3-540-44618-4_14","ee":"https://doi.org/10.1007/3-540-44618-4_14","url":"https://dblp.org/rec/conf/concur/BrunsG00"},
-"url":"URL#3725815"
+"url":"URL#4145235"
 },
 {
 "@score":"1",
-"@id":"3725816",
+"@id":"4145236",
 "info":{"authors":{"author":["Michele Bugliesi","Giuseppe Castagna","Silvia Crafa"]},"title":"Typed Mobile Objects.","venue":"CONCUR","pages":"504-520","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/BugliesiCC00","doi":"10.1007/3-540-44618-4_36","ee":"https://doi.org/10.1007/3-540-44618-4_36","url":"https://dblp.org/rec/conf/concur/BugliesiCC00"},
-"url":"URL#3725816"
+"url":"URL#4145236"
 },
 {
 "@score":"1",
-"@id":"3725817",
+"@id":"4145237",
 "info":{"authors":{"author":["Luca Cardelli","Giorgio Ghelli","Andrew D. Gordon"]},"title":"Secrecy and Group Creation.","venue":"CONCUR","pages":"365-379","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/CardelliGG00","doi":"10.1007/3-540-44618-4_27","ee":"https://doi.org/10.1007/3-540-44618-4_27","url":"https://dblp.org/rec/conf/concur/CardelliGG00"},
-"url":"URL#3725817"
+"url":"URL#4145237"
 },
 {
 "@score":"1",
-"@id":"3725818",
+"@id":"4145238",
 "info":{"authors":{"author":["Franck Cassez","Kim Guldstrand Larsen"]},"title":"The Impressive Power of Stopwatches.","venue":"CONCUR","pages":"138-152","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/CassezL00","doi":"10.1007/3-540-44618-4_12","ee":"https://doi.org/10.1007/3-540-44618-4_12","url":"https://dblp.org/rec/conf/concur/CassezL00"},
-"url":"URL#3725818"
+"url":"URL#4145238"
 },
 {
 "@score":"1",
-"@id":"3725819",
+"@id":"4145239",
 "info":{"authors":{"author":["Bernadette Charron-Bost","Sam Toueg","Anindya Basu"]},"title":"Revisiting Safety and Liveness in the Context of Failures.","venue":"CONCUR","pages":"552-565","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Charron-BostTB00","doi":"10.1007/3-540-44618-4_39","ee":"https://doi.org/10.1007/3-540-44618-4_39","url":"https://dblp.org/rec/conf/concur/Charron-BostTB00"},
-"url":"URL#3725819"
+"url":"URL#4145239"
 },
 {
 "@score":"1",
-"@id":"3725820",
+"@id":"4145240",
 "info":{"authors":{"author":["Kousha Etessami","Gerard J. Holzmann"]},"title":"Optimizing Büchi Automata.","venue":"CONCUR","pages":"153-167","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/EtessamiH00","doi":"10.1007/3-540-44618-4_13","ee":"https://doi.org/10.1007/3-540-44618-4_13","url":"https://dblp.org/rec/conf/concur/EtessamiH00"},
-"url":"URL#3725820"
+"url":"URL#4145240"
 },
 {
 "@score":"1",
-"@id":"3725821",
+"@id":"4145241",
 "info":{"authors":{"author":["Alain Finkel","S. Purushothaman Iyer","Grégoire Sutre"]},"title":"Well-Abstracted Transition Systems.","venue":"CONCUR","pages":"566-580","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/FinkelIS00","doi":"10.1007/3-540-44618-4_40","ee":"https://doi.org/10.1007/3-540-44618-4_40","url":"https://dblp.org/rec/conf/concur/FinkelIS00"},
-"url":"URL#3725821"
+"url":"URL#4145241"
 },
 {
 "@score":"1",
-"@id":"3725822",
+"@id":"4145242",
 "info":{"authors":{"author":["Yuxi Fu","Zhenrong Yang"]},"title":"Chi Calculus with Mismatch.","venue":"CONCUR","pages":"596-610","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/FuY00","doi":"10.1007/3-540-44618-4_42","ee":"https://doi.org/10.1007/3-540-44618-4_42","url":"https://dblp.org/rec/conf/concur/FuY00"},
-"url":"URL#3725822"
+"url":"URL#4145242"
 },
 {
 "@score":"1",
-"@id":"3725823",
+"@id":"4145243",
 "info":{"authors":{"author":"Philippa Gardner"},"title":"From Process Calculi to Process Frameworks.","venue":"CONCUR","pages":"69-88","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Gardner00","doi":"10.1007/3-540-44618-4_7","ee":"https://doi.org/10.1007/3-540-44618-4_7","url":"https://dblp.org/rec/conf/concur/Gardner00"},
-"url":"URL#3725823"
+"url":"URL#4145243"
 },
 {
 "@score":"1",
-"@id":"3725824",
+"@id":"4145244",
 "info":{"authors":{"author":"Keijo Heljanko"},"title":"Model Checking with Finite Complete Prefixes Is PSPACE-Complete.","venue":"CONCUR","pages":"108-122","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Heljanko00","doi":"10.1007/3-540-44618-4_10","ee":"https://doi.org/10.1007/3-540-44618-4_10","url":"https://dblp.org/rec/conf/concur/Heljanko00"},
-"url":"URL#3725824"
+"url":"URL#4145244"
 },
 {
 "@score":"1",
-"@id":"3725825",
+"@id":"4145245",
 "info":{"authors":{"author":["Oscar H. Ibarra","Tevfik Bultan","Jianwen Su"]},"title":"Reachability Analysis for Some Models of Infinite-State Transition Systems.","venue":"CONCUR","pages":"183-198","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/IbarraBS00","doi":"10.1007/3-540-44618-4_15","ee":"https://doi.org/10.1007/3-540-44618-4_15","url":"https://dblp.org/rec/conf/concur/IbarraBS00"},
-"url":"URL#3725825"
+"url":"URL#4145245"
 },
 {
 "@score":"1",
-"@id":"3725826",
+"@id":"4145246",
 "info":{"authors":{"author":"Jan Jürjens"},"title":"Secure Information Flow for Concurrent Processes.","venue":"CONCUR","pages":"395-409","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Jurjens00","doi":"10.1007/3-540-44618-4_29","ee":"https://doi.org/10.1007/3-540-44618-4_29","url":"https://dblp.org/rec/conf/concur/Jurjens00"},
-"url":"URL#3725826"
+"url":"URL#4145246"
 },
 {
 "@score":"1",
-"@id":"3725827",
+"@id":"4145247",
 "info":{"authors":{"author":["Victor Khomenko","Maciej Koutny"]},"title":"LP Deadlock Checking Using Partial Order Dependencies.","venue":"CONCUR","pages":"410-425","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/KhomenkoK00","doi":"10.1007/3-540-44618-4_30","ee":"https://doi.org/10.1007/3-540-44618-4_30","url":"https://dblp.org/rec/conf/concur/KhomenkoK00"},
-"url":"URL#3725827"
+"url":"URL#4145247"
 },
 {
 "@score":"1",
-"@id":"3725828",
+"@id":"4145248",
 "info":{"authors":{"author":["Naoki Kobayashi 0001","Shin Saito","Eijiro Sumii"]},"title":"An Implicitly-Typed Deadlock-Free Process Calculus.","venue":"CONCUR","pages":"489-503","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/KobayashiSS00","doi":"10.1007/3-540-44618-4_35","ee":"https://doi.org/10.1007/3-540-44618-4_35","url":"https://dblp.org/rec/conf/concur/KobayashiSS00"},
-"url":"URL#3725828"
+"url":"URL#4145248"
 },
 {
 "@score":"1",
-"@id":"3725829",
+"@id":"4145249",
 "info":{"authors":{"author":["Orna Kupferman","P. Madhusudan","P. S. Thiagarajan","Moshe Y. Vardi"]},"title":"Open Systems in Reactive Environments - Control and Synthesis.","venue":"CONCUR","pages":"92-107","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/KupfermanMTV00","doi":"10.1007/3-540-44618-4_9","ee":"https://doi.org/10.1007/3-540-44618-4_9","url":"https://dblp.org/rec/conf/concur/KupfermanMTV00"},
-"url":"URL#3725829"
+"url":"URL#4145249"
 },
 {
 "@score":"1",
-"@id":"3725830",
+"@id":"4145250",
 "info":{"authors":{"author":"Dietrich Kuske"},"title":"Emptiness Is Decidable for Asynchronous Cellular Machines.","venue":"CONCUR","pages":"536-551","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Kuske00","doi":"10.1007/3-540-44618-4_38","ee":"https://doi.org/10.1007/3-540-44618-4_38","url":"https://dblp.org/rec/conf/concur/Kuske00"},
-"url":"URL#3725830"
+"url":"URL#4145250"
 },
 {
 "@score":"1",
-"@id":"3725831",
+"@id":"4145251",
 "info":{"authors":{"author":["Dietrich Kuske","Rémi Morin"]},"title":"Pomsets for Local Trace Languages - Recognizability, Logic &amp; Petri Nets.","venue":"CONCUR","pages":"426-441","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/KuskeM00","doi":"10.1007/3-540-44618-4_31","ee":"https://doi.org/10.1007/3-540-44618-4_31","url":"https://dblp.org/rec/conf/concur/KuskeM00"},
-"url":"URL#3725831"
+"url":"URL#4145251"
 },
 {
 "@score":"1",
-"@id":"3725832",
+"@id":"4145252",
 "info":{"authors":{"author":["Marta Z. Kwiatkowska","Gethin Norman","Roberto Segala","Jeremy Sproston"]},"title":"Verifying Quantitative Properties of Continuous Probabilistic Timed Automata.","venue":"CONCUR","pages":"123-137","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/KwiatkowskaNSS00","doi":"10.1007/3-540-44618-4_11","ee":"https://doi.org/10.1007/3-540-44618-4_11","url":"https://dblp.org/rec/conf/concur/KwiatkowskaNSS00"},
-"url":"URL#3725832"
+"url":"URL#4145252"
 },
 {
 "@score":"1",
-"@id":"3725833",
+"@id":"4145253",
 "info":{"authors":{"author":["Ranko Lazic","David Nowak"]},"title":"A Unifying Approach to Data-Independence.","venue":"CONCUR","pages":"581-595","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/LazicN00","doi":"10.1007/3-540-44618-4_41","ee":"https://doi.org/10.1007/3-540-44618-4_41","url":"https://dblp.org/rec/conf/concur/LazicN00"},
-"url":"URL#3725833"
+"url":"URL#4145253"
 },
 {
 "@score":"1",
-"@id":"3725834",
+"@id":"4145254",
 "info":{"authors":{"author":["James J. Leifer","Robin Milner"]},"title":"Deriving Bisimulation Congruences for Reactive Systems.","venue":"CONCUR","pages":"243-258","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/LeiferM00","doi":"10.1007/3-540-44618-4_19","ee":"https://doi.org/10.1007/3-540-44618-4_19","url":"https://dblp.org/rec/conf/concur/LeiferM00"},
-"url":"URL#3725834"
+"url":"URL#4145254"
+},
+{
+"@score":"1",
+"@id":"4145255",
+"info":{"authors":{"author":"Michael W. Mislove"},"title":"Nondeterminism and Probabilistic Choice - Obeying the Laws.","venue":"CONCUR","pages":"350-364","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Mislove00","doi":"10.1007/3-540-44618-4_26","ee":"https://doi.org/10.1007/3-540-44618-4_26","url":"https://dblp.org/rec/conf/concur/Mislove00"},
+"url":"URL#4145255"
+},
+{
+"@score":"1",
+"@id":"4145256",
+"info":{"authors":{"author":["Madhavan Mukund","K. Narayan Kumar","Milind A. Sohoni"]},"title":"Synthesizing Distributed Finite-State Systems from MSCs.","venue":"CONCUR","pages":"521-535","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/MukundKS00","doi":"10.1007/3-540-44618-4_37","ee":"https://doi.org/10.1007/3-540-44618-4_37","url":"https://dblp.org/rec/conf/concur/MukundKS00"},
+"url":"URL#4145256"
+},
+{
+"@score":"1",
+"@id":"4145257",
+"info":{"authors":{"author":"Radu Negulescu"},"title":"Process Spaces.","venue":"CONCUR","pages":"199-213","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Negulescu00","doi":"10.1007/3-540-44618-4_16","ee":"https://doi.org/10.1007/3-540-44618-4_16","url":"https://dblp.org/rec/conf/concur/Negulescu00"},
+"url":"URL#4145257"
+},
+{
+"@score":"1",
+"@id":"4145258",
+"info":{"authors":{"author":["Rocco De Nicola","Gian Luigi Ferrari","Rosario Pugliese"]},"title":"Programming Access Control - The KLAIM Experience.","venue":"CONCUR","pages":"48-65","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/NicolaFP00","doi":"10.1007/3-540-44618-4_5","ee":"https://doi.org/10.1007/3-540-44618-4_5","url":"https://dblp.org/rec/conf/concur/NicolaFP00"},
+"url":"URL#4145258"
+},
+{
+"@score":"1",
+"@id":"4145259",
+"info":{"authors":{"author":["Anna Philippou","Insup Lee","Oleg Sokolsky"]},"title":"Weak Bisimulation for Probabilistic Systems.","venue":"CONCUR","pages":"334-349","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/PhilippouLS00","doi":"10.1007/3-540-44618-4_25","ee":"https://doi.org/10.1007/3-540-44618-4_25","url":"https://dblp.org/rec/conf/concur/PhilippouLS00"},
+"url":"URL#4145259"
+},
+{
+"@score":"1",
+"@id":"4145260",
+"info":{"authors":{"author":"C. R. Ramakrishnan"},"title":"Verification Using Tabled Logic Programming.","venue":"CONCUR","pages":"89-91","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Ramakrishnan00","doi":"10.1007/3-540-44618-4_8","ee":"https://doi.org/10.1007/3-540-44618-4_8","url":"https://dblp.org/rec/conf/concur/Ramakrishnan00"},
+"url":"URL#4145260"
+},
+{
+"@score":"1",
+"@id":"4145261",
+"info":{"authors":{"author":["António Ravara","Vasco Thudichum Vasconcelos"]},"title":"Typing Non-uniform Concurrent Objects.","venue":"CONCUR","pages":"474-488","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/RavaraV00","doi":"10.1007/3-540-44618-4_34","ee":"https://doi.org/10.1007/3-540-44618-4_34","url":"https://dblp.org/rec/conf/concur/RavaraV00"},
+"url":"URL#4145261"
+},
+{
+"@score":"1",
+"@id":"4145262",
+"info":{"authors":{"author":"Arend Rensink"},"title":"Action Contraction.","venue":"CONCUR","pages":"290-304","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Rensink00","doi":"10.1007/3-540-44618-4_22","ee":"https://doi.org/10.1007/3-540-44618-4_22","url":"https://dblp.org/rec/conf/concur/Rensink00"},
+"url":"URL#4145262"
+},
+{
+"@score":"1",
+"@id":"4145263",
+"info":{"authors":{"author":["Alberto L. Sangiovanni-Vincentelli","Marco Sgroi","Luciano Lavagno"]},"title":"Formal Models for Communication-Based Design.","venue":"CONCUR","pages":"29-47","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Sangiovanni-VincentelliSL00","doi":"10.1007/3-540-44618-4_4","ee":"https://doi.org/10.1007/3-540-44618-4_4","url":"https://dblp.org/rec/conf/concur/Sangiovanni-VincentelliSL00"},
+"url":"URL#4145263"
+},
+{
+"@score":"1",
+"@id":"4145264",
+"info":{"authors":{"author":"Natarajan Shankar"},"title":"Combining Theorem Proving and Model Checking through Symbolic Analysis.","venue":"CONCUR","pages":"1-16","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Shankar00","doi":"10.1007/3-540-44618-4_1","ee":"https://doi.org/10.1007/3-540-44618-4_1","url":"https://dblp.org/rec/conf/concur/Shankar00"},
+"url":"URL#4145264"
+},
+{
+"@score":"1",
+"@id":"4145265",
+"info":{"authors":{"author":"Eugene W. Stark"},"title":"Compositional Performance Analysis Using Probabilistic I/O Automata.","venue":"CONCUR","pages":"25-28","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/Stark00","doi":"10.1007/3-540-44618-4_3","ee":"https://doi.org/10.1007/3-540-44618-4_3","url":"https://dblp.org/rec/conf/concur/Stark00"},
+"url":"URL#4145265"
+},
+{
+"@score":"1",
+"@id":"4145266",
+"info":{"authors":{"author":["Irek Ulidowski","Shoji Yuen"]},"title":"Process Languages for Rooted Eager Bisimulation.","venue":"CONCUR","pages":"275-289","year":"2000","type":"Conference and Workshop Papers","key":"conf/concur/UlidowskiY00","doi":"10.1007/3-540-44618-4_21","ee":"https://doi.org/10.1007/3-540-44618-4_21","url":"https://dblp.org/rec/conf/concur/UlidowskiY00"},
+"url":"URL#4145266"
+},
+{
+"@score":"1",
+"@id":"4179889",
+"info":{"authors":{"author":"Catuscia Palamidessi"},"title":"CONCUR 2000 - Concurrency Theory, 11th International Conference, University Park, PA, USA, August 22-25, 2000, Proceedings","venue":["CONCUR","Lecture Notes in Computer Science"],"volume":"1877","publisher":"Springer","year":"2000","type":"Editorship","key":"conf/concur/2000","doi":"10.1007/3-540-44618-4","ee":"https://doi.org/10.1007/3-540-44618-4","url":"https://dblp.org/rec/conf/concur/2000"},
+"url":"URL#4179889"
 }
 ]
 }

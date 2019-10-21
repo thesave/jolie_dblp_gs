@@ -7,7 +7,7 @@
 },
 "time":{
 "@unit":"msecs",
-"text":"104.99"
+"text":"120.82"
 },
 "completions":{
 "@total":"1",
@@ -17,194 +17,242 @@
 "@sc":"38",
 "@dc":"38",
 "@oc":"38",
-"@id":"13631296",
+"@id":"15380622",
 "text":":facetid:toc:db/conf/concur/concur1991.bht"
 }
 },
 "hits":{
 "@total":"38",
 "@computed":"38",
-"@sent":"30",
+"@sent":"38",
 "@first":"0",
 "hit":[{
 "@score":"1",
-"@id":"4159736",
+"@id":"4586930",
 "info":{"authors":{"author":["Luca Aceto","Anna Ingólfsdóttir"]},"title":"A Theory of Testing for ACP.","venue":"CONCUR","pages":"78-95","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/AcetoI91","doi":"10.1007/3-540-54430-5_82","ee":"https://doi.org/10.1007/3-540-54430-5_82","url":"https://dblp.org/rec/conf/concur/AcetoI91"},
-"url":"URL#4159736"
+"url":"URL#4586930"
 },
 {
 "@score":"1",
-"@id":"4159737",
+"@id":"4586931",
 "info":{"authors":{"author":"Pierre America"},"title":"Formal Techniques for Parallel Object-Oriented Languages.","venue":"CONCUR","pages":"1-17","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/America91","doi":"10.1007/3-540-54430-5_75","ee":"https://doi.org/10.1007/3-540-54430-5_75","url":"https://dblp.org/rec/conf/concur/America91"},
-"url":"URL#4159737"
+"url":"URL#4586931"
 },
 {
 "@score":"1",
-"@id":"4159738",
+"@id":"4586932",
 "info":{"authors":{"author":["Jos C. M. Baeten","Jan A. Bergstra"]},"title":"Real Space Process Algebra.","venue":"CONCUR","pages":"96-110","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/BaetenB91","doi":"10.1007/3-540-54430-5_83","ee":"https://doi.org/10.1007/3-540-54430-5_83","url":"https://dblp.org/rec/conf/concur/BaetenB91"},
-"url":"URL#4159738"
+"url":"URL#4586932"
 },
 {
 "@score":"1",
-"@id":"4159739",
+"@id":"4586933",
 "info":{"authors":{"author":["Frank S. de Boer","Joost N. Kok","Catuscia Palamidessi","Jan J. M. M. Rutten"]},"title":"The Failure of Failures in a Paradigm for Asynchronous Communication.","venue":"CONCUR","pages":"111-126","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/BoerKPR91","doi":"10.1007/3-540-54430-5_84","ee":"https://doi.org/10.1007/3-540-54430-5_84","url":"https://dblp.org/rec/conf/concur/BoerKPR91"},
-"url":"URL#4159739"
+"url":"URL#4586933"
 },
 {
 "@score":"1",
-"@id":"4159740",
+"@id":"4586934",
 "info":{"authors":{"author":["Frank S. de Boer","Catuscia Palamidessi"]},"title":"Embedding as a Tool for Language Comparison - On the CSP Hierarchy.","venue":"CONCUR","pages":"127-141","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/BoerP91","doi":"10.1007/3-540-54430-5_85","ee":"https://doi.org/10.1007/3-540-54430-5_85","url":"https://dblp.org/rec/conf/concur/BoerP91"},
-"url":"URL#4159740"
+"url":"URL#4586934"
 },
 {
 "@score":"1",
-"@id":"4159741",
+"@id":"4586935",
 "info":{"authors":{"author":["Amar Bouali","Robert de Simone"]},"title":"Causal Models for Rational Algebraic Processes.","venue":"CONCUR","pages":"18-19","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/BoualiS91","doi":"10.1007/3-540-54430-5_76","ee":"https://doi.org/10.1007/3-540-54430-5_76","url":"https://dblp.org/rec/conf/concur/BoualiS91"},
-"url":"URL#4159741"
+"url":"URL#4586935"
 },
 {
 "@score":"1",
-"@id":"4159742",
+"@id":"4586936",
 "info":{"authors":{"author":"Juanito Camilleri"},"title":"A Conditional Operator for CCS.","venue":"CONCUR","pages":"142-156","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Camilleri91","doi":"10.1007/3-540-54430-5_86","ee":"https://doi.org/10.1007/3-540-54430-5_86","url":"https://dblp.org/rec/conf/concur/Camilleri91"},
-"url":"URL#4159742"
+"url":"URL#4586936"
 },
 {
 "@score":"1",
-"@id":"4159743",
+"@id":"4586937",
 "info":{"authors":{"author":"Nicolien J. Drost"},"title":"Algebraic Formulations of Trace Theory.","venue":"CONCUR","pages":"157-171","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Drost91","doi":"10.1007/3-540-54430-5_87","ee":"https://doi.org/10.1007/3-540-54430-5_87","url":"https://dblp.org/rec/conf/concur/Drost91"},
-"url":"URL#4159743"
+"url":"URL#4586937"
 },
 {
 "@score":"1",
-"@id":"4159744",
+"@id":"4586938",
 "info":{"authors":{"author":["Javier Esparza","Manuel Silva Suárez"]},"title":"Compositional Synthesis of Live and Bounded Free Choice Petri Nets.","venue":"CONCUR","pages":"172-187","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/EsparzaS91","doi":"10.1007/3-540-54430-5_88","ee":"https://doi.org/10.1007/3-540-54430-5_88","url":"https://dblp.org/rec/conf/concur/EsparzaS91"},
-"url":"URL#4159744"
+"url":"URL#4586938"
 },
 {
 "@score":"1",
-"@id":"4159745",
+"@id":"4586939",
 "info":{"authors":{"author":["Jean-Claude Fernandez","Laurent Mounier"]},"title":"A Tool Set for deciding Behavioral Equivalences.","venue":"CONCUR","pages":"23-42","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/FernandezM91","doi":"10.1007/3-540-54430-5_78","ee":"https://doi.org/10.1007/3-540-54430-5_78","url":"https://dblp.org/rec/conf/concur/FernandezM91"},
-"url":"URL#4159745"
+"url":"URL#4586939"
 },
 {
 "@score":"1",
-"@id":"4159746",
+"@id":"4586940",
 "info":{"authors":{"author":["Gian Luigi Ferrari","Ugo Montanari"]},"title":"The Observation Algebra of Spatial Pomsets.","venue":"CONCUR","pages":"188-202","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/FerrariM91","doi":"10.1007/3-540-54430-5_89","ee":"https://doi.org/10.1007/3-540-54430-5_89","url":"https://dblp.org/rec/conf/concur/FerrariM91"},
-"url":"URL#4159746"
+"url":"URL#4586940"
 },
 {
 "@score":"1",
-"@id":"4159747",
+"@id":"4586941",
 "info":{"authors":{"author":["Nissim Francez","Ira R. Forman"]},"title":"Synchrony Loosening Transformations for Interacting Processes.","venue":"CONCUR","pages":"203-219","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/FrancezF91","doi":"10.1007/3-540-54430-5_90","ee":"https://doi.org/10.1007/3-540-54430-5_90","url":"https://dblp.org/rec/conf/concur/FrancezF91"},
-"url":"URL#4159747"
+"url":"URL#4586941"
 },
 {
 "@score":"1",
-"@id":"4159748",
+"@id":"4586942",
 "info":{"authors":{"author":"Kenneth J. Goldman"},"title":"A Compositional Model for Layered Distributed Systems.","venue":"CONCUR","pages":"220-234","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Goldman91","doi":"10.1007/3-540-54430-5_91","ee":"https://doi.org/10.1007/3-540-54430-5_91","url":"https://dblp.org/rec/conf/concur/Goldman91"},
-"url":"URL#4159748"
+"url":"URL#4586942"
 },
 {
 "@score":"1",
-"@id":"4159749",
+"@id":"4586943",
 "info":{"authors":{"author":"Ursula Goltz"},"title":"Causality Based Models for the Design of Concurrent Systems.","venue":"CONCUR","pages":"43-44","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Goltz91","doi":"10.1007/3-540-54430-5_79","ee":"https://doi.org/10.1007/3-540-54430-5_79","url":"https://dblp.org/rec/conf/concur/Goltz91"},
-"url":"URL#4159749"
+"url":"URL#4586943"
 },
 {
 "@score":"1",
-"@id":"4159750",
+"@id":"4586944",
 "info":{"authors":{"author":["Jan Friso Groote","Alban Ponse"]},"title":"Process Algebra with Guards - Combining Hoare Logic with Process Algebra (Extended Abstract).","venue":"CONCUR","pages":"235-249","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/GrooteP91","doi":"10.1007/3-540-54430-5_92","ee":"https://doi.org/10.1007/3-540-54430-5_92","url":"https://dblp.org/rec/conf/concur/GrooteP91"},
-"url":"URL#4159750"
+"url":"URL#4586944"
 },
 {
 "@score":"1",
-"@id":"4159751",
+"@id":"4586945",
 "info":{"authors":{"author":["Orna Grumberg","David E. Long"]},"title":"Model Checking and Modular Verification.","venue":"CONCUR","pages":"250-265","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/GrumbergL91","doi":"10.1007/3-540-54430-5_93","ee":"https://doi.org/10.1007/3-540-54430-5_93","url":"https://dblp.org/rec/conf/concur/GrumbergL91"},
-"url":"URL#4159751"
+"url":"URL#4586945"
 },
 {
 "@score":"1",
-"@id":"4159752",
+"@id":"4586946",
 "info":{"authors":{"author":"Jeremy Gunawardena"},"title":"Geometric Logic, Causality and Event Structures.","venue":"CONCUR","pages":"266-280","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Gunawardena91","doi":"10.1007/3-540-54430-5_94","ee":"https://doi.org/10.1007/3-540-54430-5_94","url":"https://dblp.org/rec/conf/concur/Gunawardena91"},
-"url":"URL#4159752"
+"url":"URL#4586946"
 },
 {
 "@score":"1",
-"@id":"4159753",
+"@id":"4586947",
 "info":{"authors":{"author":["Jean-Marie Jacquet","Luís Monteiro"]},"title":"Extended Horn Clauses - The Framework and Some Semantics.","venue":"CONCUR","pages":"281-297","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/JacquetM91","doi":"10.1007/3-540-54430-5_95","ee":"https://doi.org/10.1007/3-540-54430-5_95","url":"https://dblp.org/rec/conf/concur/JacquetM91"},
-"url":"URL#4159753"
+"url":"URL#4586947"
 },
 {
 "@score":"1",
-"@id":"4159754",
+"@id":"4586948",
 "info":{"authors":{"author":["Ryszard Janicki","Maciej Koutny"]},"title":"Invariant Semantics of Nets with Inhibitor Arcs.","venue":"CONCUR","pages":"317-331","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/JanickiK91","doi":"10.1007/3-540-54430-5_97","ee":"https://doi.org/10.1007/3-540-54430-5_97","url":"https://dblp.org/rec/conf/concur/JanickiK91"},
-"url":"URL#4159754"
+"url":"URL#4586948"
 },
 {
 "@score":"1",
-"@id":"4159755",
+"@id":"4586949",
 "info":{"authors":{"author":["Wil Janssen","Mannes Poel","Job Zwiers"]},"title":"Action Systems and Action Refinement in the Development of Parallel Systems - An Algebraic Approach.","venue":"CONCUR","pages":"298-316","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/JanssenPZ91","doi":"10.1007/3-540-54430-5_96","ee":"https://doi.org/10.1007/3-540-54430-5_96","url":"https://dblp.org/rec/conf/concur/JanssenPZ91"},
-"url":"URL#4159755"
+"url":"URL#4586949"
 },
 {
 "@score":"1",
-"@id":"4159756",
+"@id":"4586950",
 "info":{"authors":{"author":"Alan Jeffrey"},"title":"Abstract Timed Observation and Process Algebra.","venue":"CONCUR","pages":"332-345","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Jeffrey91","doi":"10.1007/3-540-54430-5_98","ee":"https://doi.org/10.1007/3-540-54430-5_98","url":"https://dblp.org/rec/conf/concur/Jeffrey91"},
-"url":"URL#4159756"
+"url":"URL#4586950"
 },
 {
 "@score":"1",
-"@id":"4159757",
+"@id":"4586951",
 "info":{"authors":{"author":"Bengt Jonsson"},"title":"Simulations Between Specifications of Distributed Systems.","venue":"CONCUR","pages":"346-360","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Jonsson91","doi":"10.1007/3-540-54430-5_99","ee":"https://doi.org/10.1007/3-540-54430-5_99","url":"https://dblp.org/rec/conf/concur/Jonsson91"},
-"url":"URL#4159757"
+"url":"URL#4586951"
 },
 {
 "@score":"1",
-"@id":"4159758",
+"@id":"4586952",
 "info":{"authors":{"author":["Roope Kaivola","Antti Valmari"]},"title":"Using Truth-Preserving Reductions to Improve the Clarity of Kripke-Models.","venue":"CONCUR","pages":"361-375","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/KaivolaV91","doi":"10.1007/3-540-54430-5_100","ee":"https://doi.org/10.1007/3-540-54430-5_100","url":"https://dblp.org/rec/conf/concur/KaivolaV91"},
-"url":"URL#4159758"
+"url":"URL#4586952"
 },
 {
 "@score":"1",
-"@id":"4159759",
+"@id":"4586953",
 "info":{"authors":{"author":"Steven Klusener"},"title":"Completeness in Real Time Process Algebra.","venue":"CONCUR","pages":"376-392","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Klusener91","doi":"10.1007/3-540-54430-5_101","ee":"https://doi.org/10.1007/3-540-54430-5_101","url":"https://dblp.org/rec/conf/concur/Klusener91"},
-"url":"URL#4159759"
+"url":"URL#4586953"
 },
 {
 "@score":"1",
-"@id":"4159760",
+"@id":"4586954",
 "info":{"authors":{"author":"Padmanabhan Krishnan"},"title":"Distributed CCS.","venue":"CONCUR","pages":"393-407","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Krishnan91","doi":"10.1007/3-540-54430-5_102","ee":"https://doi.org/10.1007/3-540-54430-5_102","url":"https://dblp.org/rec/conf/concur/Krishnan91"},
-"url":"URL#4159760"
+"url":"URL#4586954"
 },
 {
 "@score":"1",
-"@id":"4159761",
+"@id":"4586955",
 "info":{"authors":{"author":["Michael Merritt","Francesmary Modugno","Marc R. Tuttle"]},"title":"Time-Constrained Automata (Extended Abstract)","venue":"CONCUR","pages":"408-423","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/MerrittMT91","doi":"10.1007/3-540-54430-5_103","ee":"https://doi.org/10.1007/3-540-54430-5_103","url":"https://dblp.org/rec/conf/concur/MerrittMT91"},
-"url":"URL#4159761"
+"url":"URL#4586955"
 },
 {
 "@score":"1",
-"@id":"4159762",
+"@id":"4586956",
 "info":{"authors":{"author":["Robin Milner","Joachim Parrow","David Walker"]},"title":"Modal Logics for Mobile Processes.","venue":"CONCUR","pages":"45-60","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/MilnerPW91","doi":"10.1007/3-540-54430-5_80","ee":"https://doi.org/10.1007/3-540-54430-5_80","url":"https://dblp.org/rec/conf/concur/MilnerPW91"},
-"url":"URL#4159762"
+"url":"URL#4586956"
 },
 {
 "@score":"1",
-"@id":"4159763",
+"@id":"4586957",
 "info":{"authors":{"author":["Faron Moller","Chris M. N. Tofts"]},"title":"Relating Processes With Respect to Speed.","venue":"CONCUR","pages":"424-438","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/MollerT91","doi":"10.1007/3-540-54430-5_104","ee":"https://doi.org/10.1007/3-540-54430-5_104","url":"https://dblp.org/rec/conf/concur/MollerT91"},
-"url":"URL#4159763"
+"url":"URL#4586957"
 },
 {
 "@score":"1",
-"@id":"4159764",
+"@id":"4586958",
 "info":{"authors":{"author":"David Murphy"},"title":"Testing, Betting and Timed True Concurrency.","venue":"CONCUR","pages":"439-454","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Murphy91","doi":"10.1007/3-540-54430-5_105","ee":"https://doi.org/10.1007/3-540-54430-5_105","url":"https://dblp.org/rec/conf/concur/Murphy91"},
-"url":"URL#4159764"
+"url":"URL#4586958"
 },
 {
 "@score":"1",
-"@id":"4159765",
+"@id":"4586959",
 "info":{"authors":{"author":"Rocco De Nicola"},"title":"Action and State-based Logics for Process Algebras.","venue":"CONCUR","pages":"20-22","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Nicola91","doi":"10.1007/3-540-54430-5_77","ee":"https://doi.org/10.1007/3-540-54430-5_77","url":"https://dblp.org/rec/conf/concur/Nicola91"},
-"url":"URL#4159765"
+"url":"URL#4586959"
+},
+{
+"@score":"1",
+"@id":"4586960",
+"info":{"authors":{"author":["Doris Nolte","Lutz Priese"]},"title":"Fairness in Models with True Concurrency.","venue":"CONCUR","pages":"455-469","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/NolteP91","doi":"10.1007/3-540-54430-5_106","ee":"https://doi.org/10.1007/3-540-54430-5_106","url":"https://dblp.org/rec/conf/concur/NolteP91"},
+"url":"URL#4586960"
+},
+{
+"@score":"1",
+"@id":"4586961",
+"info":{"authors":{"author":"Ernst-Rüdiger Olderog"},"title":"Towards a Design Calculus for Communicationg Programs.","venue":"CONCUR","pages":"61-77","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Olderog91","doi":"10.1007/3-540-54430-5_81","ee":"https://doi.org/10.1007/3-540-54430-5_81","url":"https://dblp.org/rec/conf/concur/Olderog91"},
+"url":"URL#4586961"
+},
+{
+"@score":"1",
+"@id":"4586962",
+"info":{"authors":{"author":"Huajun Quin"},"title":"Efficient Verification of Determinate Processes.","venue":"CONCUR","pages":"470-479","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Quin91","doi":"10.1007/3-540-54430-5_107","ee":"https://doi.org/10.1007/3-540-54430-5_107","url":"https://dblp.org/rec/conf/concur/Quin91"},
+"url":"URL#4586962"
+},
+{
+"@score":"1",
+"@id":"4586963",
+"info":{"authors":{"author":"Philippe Schnoebelen"},"title":"Experiments on Processes with Backtracking.","venue":"CONCUR","pages":"480-494","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Schnoebelen91","doi":"10.1007/3-540-54430-5_108","ee":"https://doi.org/10.1007/3-540-54430-5_108","url":"https://dblp.org/rec/conf/concur/Schnoebelen91"},
+"url":"URL#4586963"
+},
+{
+"@score":"1",
+"@id":"4586964",
+"info":{"authors":{"author":["Paul Spruit","Roel J. Wieringa"]},"title":"Some Finite-Graph Models for Process Algebra.","venue":"CONCUR","pages":"495-509","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/SpruitW91","doi":"10.1007/3-540-54430-5_109","ee":"https://doi.org/10.1007/3-540-54430-5_109","url":"https://dblp.org/rec/conf/concur/SpruitW91"},
+"url":"URL#4586964"
+},
+{
+"@score":"1",
+"@id":"4586965",
+"info":{"authors":{"author":"Ketil Stølen"},"title":"A Method for the Development of Totally Correct Shared-State Parallel Programs.","venue":"CONCUR","pages":"510-525","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/Stolen91","doi":"10.1007/3-540-54430-5_110","ee":"https://doi.org/10.1007/3-540-54430-5_110","url":"https://dblp.org/rec/conf/concur/Stolen91"},
+"url":"URL#4586965"
+},
+{
+"@score":"1",
+"@id":"4586966",
+"info":{"authors":{"author":["Antti Valmari","Matthew Clegg"]},"title":"Reduced Labelled Transition Systems Save Verification Effort.","venue":"CONCUR","pages":"526-540","year":"1991","type":"Conference and Workshop Papers","key":"conf/concur/ValmariC91","doi":"10.1007/3-540-54430-5_111","ee":"https://doi.org/10.1007/3-540-54430-5_111","url":"https://dblp.org/rec/conf/concur/ValmariC91"},
+"url":"URL#4586966"
+},
+{
+"@score":"1",
+"@id":"4598230",
+"info":{"authors":{"author":["Jos C. M. Baeten","Jan Friso Groote"]},"title":"CONCUR &apos;91, 2nd International Conference on Concurrency Theory, Amsterdam, The Netherlands, August 26-29, 1991, Proceedings","venue":["CONCUR","Lecture Notes in Computer Science"],"volume":"527","publisher":"Springer","year":"1991","type":"Editorship","key":"conf/concur/1991","doi":"10.1007/3-540-54430-5","ee":"https://doi.org/10.1007/3-540-54430-5","url":"https://dblp.org/rec/conf/concur/1991"},
+"url":"URL#4598230"
 }
 ]
 }

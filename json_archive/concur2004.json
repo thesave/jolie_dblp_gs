@@ -7,7 +7,7 @@
 },
 "time":{
 "@unit":"msecs",
-"text":"105.19"
+"text":"120.87"
 },
 "completions":{
 "@total":"1",
@@ -17,194 +17,218 @@
 "@sc":"34",
 "@dc":"34",
 "@oc":"34",
-"@id":"13631309",
+"@id":"15380635",
 "text":":facetid:toc:db/conf/concur/concur2004.bht"
 }
 },
 "hits":{
 "@total":"34",
 "@computed":"34",
-"@sent":"30",
+"@sent":"34",
 "@first":"0",
 "hit":[{
 "@score":"1",
-"@id":"3342177",
+"@id":"3755946",
 "info":{"authors":{"author":["Parosh Aziz Abdulla","Bengt Jonsson","Marcus Nilsson","Mayank Saksena"]},"title":"A Survey of Regular Model Checking.","venue":"CONCUR","pages":"35-48","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/AbdullaJNS04","doi":"10.1007/978-3-540-28644-8_3","ee":"https://doi.org/10.1007/978-3-540-28644-8_3","url":"https://dblp.org/rec/conf/concur/AbdullaJNS04"},
-"url":"URL#3342177"
+"url":"URL#3755946"
 },
 {
 "@score":"1",
-"@id":"3342178",
+"@id":"3755947",
 "info":{"authors":{"author":["Roberto M. Amadio","Silvano Dal-Zilio"]},"title":"Resource Control for Synchronous Cooperative Threads.","venue":"CONCUR","pages":"68-82","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/AmadioD04","doi":"10.1007/978-3-540-28644-8_5","ee":"https://doi.org/10.1007/978-3-540-28644-8_5","url":"https://dblp.org/rec/conf/concur/AmadioD04"},
-"url":"URL#3342178"
+"url":"URL#3755947"
 },
 {
 "@score":"1",
-"@id":"3342179",
+"@id":"3755948",
 "info":{"authors":{"author":["Tony Andrews","Shaz Qadeer","Sriram K. Rajamani","Yichen Xie"]},"title":"Zing - Exploiting Program Structure for Model Checking Concurrent Software.","venue":"CONCUR","pages":"1-15","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/AndrewsQRX04","doi":"10.1007/978-3-540-28644-8_1","ee":"https://doi.org/10.1007/978-3-540-28644-8_1","url":"https://dblp.org/rec/conf/concur/AndrewsQRX04"},
-"url":"URL#3342179"
+"url":"URL#3755948"
 },
 {
 "@score":"1",
-"@id":"3342180",
+"@id":"3755949",
 "info":{"authors":{"author":["Paolo Baldan","Andrea Corradini","Barbara König 0001"]},"title":"Verifying Finite-State Graph Grammars - An Unfolding-Based Approach.","venue":"CONCUR","pages":"83-98","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/BaldanCK04","doi":"10.1007/978-3-540-28644-8_6","ee":"https://doi.org/10.1007/978-3-540-28644-8_6","url":"https://dblp.org/rec/conf/concur/BaldanCK04"},
-"url":"URL#3342180"
+"url":"URL#3755949"
 },
 {
 "@score":"1",
-"@id":"3342181",
+"@id":"3755950",
 "info":{"authors":{"author":["Nicolas Baudru","Rémi Morin"]},"title":"The Pros and Cons of Netcharts.","venue":"CONCUR","pages":"99-114","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/BaudruM04","doi":"10.1007/978-3-540-28644-8_7","ee":"https://doi.org/10.1007/978-3-540-28644-8_7","url":"https://dblp.org/rec/conf/concur/BaudruM04"},
-"url":"URL#3342181"
+"url":"URL#3755950"
 },
 {
 "@score":"1",
-"@id":"3342182",
+"@id":"3755951",
 "info":{"authors":{"author":"Martin Berger"},"title":"Basic Theory of Reduction Congruence forTwo Timed Asynchronous pi-Calculi.","venue":"CONCUR","pages":"115-130","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/Berger04","doi":"10.1007/978-3-540-28644-8_8","ee":"https://doi.org/10.1007/978-3-540-28644-8_8","url":"https://dblp.org/rec/conf/concur/Berger04"},
-"url":"URL#3342182"
+"url":"URL#3755951"
 },
 {
 "@score":"1",
-"@id":"3342183",
+"@id":"3755952",
 "info":{"authors":{"author":["Mikolaj Bojanczyk","Igor Walukiewicz"]},"title":"Characterizing EF and EX Tree Logics.","venue":"CONCUR","pages":"131-145","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/BojanczykW04","doi":"10.1007/978-3-540-28644-8_9","ee":"https://doi.org/10.1007/978-3-540-28644-8_9","url":"https://dblp.org/rec/conf/concur/BojanczykW04"},
-"url":"URL#3342183"
+"url":"URL#3755952"
 },
 {
 "@score":"1",
-"@id":"3342184",
+"@id":"3755953",
 "info":{"authors":{"author":["Benedikt Bollig","Martin Leucker"]},"title":"Message-Passing Automata Are Expressively Equivalent to EMSO Logic.","venue":"CONCUR","pages":"146-160","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/BolligL04","doi":"10.1007/978-3-540-28644-8_10","ee":"https://doi.org/10.1007/978-3-540-28644-8_10","url":"https://dblp.org/rec/conf/concur/BolligL04"},
-"url":"URL#3342184"
+"url":"URL#3755953"
 },
 {
 "@score":"1",
-"@id":"3342185",
+"@id":"3755954",
 "info":{"authors":{"author":["Johannes Borgström","Sébastien Briais","Uwe Nestmann"]},"title":"Symbolic Bisimulation in the Spi Calculus.","venue":"CONCUR","pages":"161-176","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/BorgstromBN04","doi":"10.1007/978-3-540-28644-8_11","ee":"https://doi.org/10.1007/978-3-540-28644-8_11","url":"https://dblp.org/rec/conf/concur/BorgstromBN04"},
-"url":"URL#3342185"
+"url":"URL#3755954"
 },
 {
 "@score":"1",
-"@id":"3342186",
+"@id":"3755955",
 "info":{"authors":{"author":["Liana Bozga","Cristian Ene","Yassine Lakhnech"]},"title":"A Symbolic Decision Procedure for Cryptographic Protocols with Time Stamps (Extended Abstract).","venue":"CONCUR","pages":"177-192","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/BozgaEL04","doi":"10.1007/978-3-540-28644-8_12","ee":"https://doi.org/10.1007/978-3-540-28644-8_12","url":"https://dblp.org/rec/conf/concur/BozgaEL04"},
-"url":"URL#3342186"
+"url":"URL#3755955"
 },
 {
 "@score":"1",
-"@id":"3342187",
-"info":{"authors":{"author":["Tomás Brázdil","Antonín Kucera","Oldrich Strazovský"]},"title":"Deciding Probabilistic Bisimilarity Over Infinite-State Probabilistic Systems.","venue":"CONCUR","pages":"193-208","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/BrazdilKS04","doi":"10.1007/978-3-540-28644-8_13","ee":"https://doi.org/10.1007/978-3-540-28644-8_13","url":"https://dblp.org/rec/conf/concur/BrazdilKS04"},
-"url":"URL#3342187"
+"@id":"3755956",
+"info":{"authors":{"author":["Tomás Brázdil","Antonín Kucera 0001","Oldrich Strazovský"]},"title":"Deciding Probabilistic Bisimilarity Over Infinite-State Probabilistic Systems.","venue":"CONCUR","pages":"193-208","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/BrazdilKS04","doi":"10.1007/978-3-540-28644-8_13","ee":"https://doi.org/10.1007/978-3-540-28644-8_13","url":"https://dblp.org/rec/conf/concur/BrazdilKS04"},
+"url":"URL#3755956"
 },
 {
 "@score":"1",
-"@id":"3342188",
+"@id":"3755957",
 "info":{"authors":{"author":"Stephen D. Brookes"},"title":"A Semantics for Concurrent Separation Logic.","venue":"CONCUR","pages":"16-34","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/Brookes04","doi":"10.1007/978-3-540-28644-8_2","ee":"https://doi.org/10.1007/978-3-540-28644-8_2","url":"https://dblp.org/rec/conf/concur/Brookes04"},
-"url":"URL#3342188"
+"url":"URL#3755957"
 },
 {
 "@score":"1",
-"@id":"3342189",
+"@id":"3755958",
 "info":{"authors":{"author":["Glenn Bruns","Radha Jagadeesan","Alan Jeffrey","James Riely"]},"title":"µABC - A Minimal Aspect Calculus.","venue":"CONCUR","pages":"209-224","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/BrunsJJR04","doi":"10.1007/978-3-540-28644-8_14","ee":"https://doi.org/10.1007/978-3-540-28644-8_14","url":"https://dblp.org/rec/conf/concur/BrunsJJR04"},
-"url":"URL#3342189"
+"url":"URL#3755958"
 },
 {
 "@score":"1",
-"@id":"3342190",
+"@id":"3755959",
 "info":{"authors":{"author":["Michele Bugliesi","Dario Colazzo","Silvia Crafa"]},"title":"Type Based Discretionary Access Control.","venue":"CONCUR","pages":"225-239","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/BugliesiCC04","doi":"10.1007/978-3-540-28644-8_15","ee":"https://doi.org/10.1007/978-3-540-28644-8_15","url":"https://dblp.org/rec/conf/concur/BugliesiCC04"},
-"url":"URL#3342190"
+"url":"URL#3755959"
 },
 {
 "@score":"1",
-"@id":"3342191",
+"@id":"3755960",
 "info":{"authors":{"author":["Luís Caires","Étienne Lozes"]},"title":"Elimination of Quantifiers and Undecidability in Spatial Logics for Concurrency.","venue":"CONCUR","pages":"240-257","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/CairesL04","doi":"10.1007/978-3-540-28644-8_16","ee":"https://doi.org/10.1007/978-3-540-28644-8_16","url":"https://dblp.org/rec/conf/concur/CairesL04"},
-"url":"URL#3342191"
+"url":"URL#3755960"
 },
 {
 "@score":"1",
-"@id":"3342192",
+"@id":"3755961",
 "info":{"authors":{"author":["Corina Cîrstea","Dirk Pattinson"]},"title":"Modular Construction of Modal Logics.","venue":"CONCUR","pages":"258-275","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/CirsteaP04","doi":"10.1007/978-3-540-28644-8_17","ee":"https://doi.org/10.1007/978-3-540-28644-8_17","url":"https://dblp.org/rec/conf/concur/CirsteaP04"},
-"url":"URL#3342192"
+"url":"URL#3755961"
 },
 {
 "@score":"1",
-"@id":"3342193",
+"@id":"3755962",
 "info":{"authors":{"author":["Edmund M. Clarke","Muralidhar Talupur","Tayssir Touili","Helmut Veith"]},"title":"Verification by Network Decomposition.","venue":"CONCUR","pages":"276-291","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/ClarkeTTV04","doi":"10.1007/978-3-540-28644-8_18","ee":"https://doi.org/10.1007/978-3-540-28644-8_18","url":"https://dblp.org/rec/conf/concur/ClarkeTTV04"},
-"url":"URL#3342193"
+"url":"URL#3755962"
 },
 {
 "@score":"1",
-"@id":"3342194",
+"@id":"3755963",
 "info":{"authors":{"author":["Vincent Danos","Jean Krivine"]},"title":"Reversible Communicating Systems.","venue":"CONCUR","pages":"292-307","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/DanosK04","doi":"10.1007/978-3-540-28644-8_19","ee":"https://doi.org/10.1007/978-3-540-28644-8_19","url":"https://dblp.org/rec/conf/concur/DanosK04"},
-"url":"URL#3342194"
+"url":"URL#3755963"
 },
 {
 "@score":"1",
-"@id":"3342195",
+"@id":"3755964",
 "info":{"authors":{"author":["Jan Friso Groote","Tim A. C. Willemse"]},"title":"Parameterised Boolean Equation Systems (Extended Abstract).","venue":"CONCUR","pages":"308-324","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/GrooteW04","doi":"10.1007/978-3-540-28644-8_20","ee":"https://doi.org/10.1007/978-3-540-28644-8_20","url":"https://dblp.org/rec/conf/concur/GrooteW04"},
-"url":"URL#3342195"
+"url":"URL#3755964"
 },
 {
 "@score":"1",
-"@id":"3342196",
+"@id":"3755965",
 "info":{"authors":{"author":"Daniel Hirschkoff"},"title":"An Extensional Spatial Logic for Mobile Processes.","venue":"CONCUR","pages":"325-339","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/Hirschkoff04","doi":"10.1007/978-3-540-28644-8_21","ee":"https://doi.org/10.1007/978-3-540-28644-8_21","url":"https://dblp.org/rec/conf/concur/Hirschkoff04"},
-"url":"URL#3342196"
+"url":"URL#3755965"
 },
 {
 "@score":"1",
-"@id":"3342197",
+"@id":"3755966",
 "info":{"authors":{"author":["Pavel Krcál","Leonid Mokrushin","P. S. Thiagarajan","Wang Yi 0001"]},"title":"Timed vs. Time-Triggered Automata.","venue":"CONCUR","pages":"340-354","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/KrcalMTY04","doi":"10.1007/978-3-540-28644-8_22","ee":"https://doi.org/10.1007/978-3-540-28644-8_22","url":"https://dblp.org/rec/conf/concur/KrcalMTY04"},
-"url":"URL#3342197"
+"url":"URL#3755966"
 },
 {
 "@score":"1",
-"@id":"3342198",
+"@id":"3755967",
 "info":{"authors":{"author":["Mojmír Kretínský","Vojtech Rehák","Jan Strejcek"]},"title":"Extended Process Rewrite Systems - Expressiveness and Reachability.","venue":"CONCUR","pages":"355-370","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/KretinskyRS04","doi":"10.1007/978-3-540-28644-8_23","ee":"https://doi.org/10.1007/978-3-540-28644-8_23","url":"https://dblp.org/rec/conf/concur/KretinskyRS04"},
-"url":"URL#3342198"
+"url":"URL#3755967"
 },
 {
 "@score":"1",
-"@id":"3342199",
-"info":{"authors":{"author":["Antonín Kucera","Philippe Schnoebelen"]},"title":"A General Approach to Comparing Infinite-State Systems with Their Finite-State Specifications.","venue":"CONCUR","pages":"371-386","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/KuceraS04","doi":"10.1007/978-3-540-28644-8_24","ee":"https://doi.org/10.1007/978-3-540-28644-8_24","url":"https://dblp.org/rec/conf/concur/KuceraS04"},
-"url":"URL#3342199"
+"@id":"3755968",
+"info":{"authors":{"author":["Antonín Kucera 0001","Philippe Schnoebelen"]},"title":"A General Approach to Comparing Infinite-State Systems with Their Finite-State Specifications.","venue":"CONCUR","pages":"371-386","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/KuceraS04","doi":"10.1007/978-3-540-28644-8_24","ee":"https://doi.org/10.1007/978-3-540-28644-8_24","url":"https://dblp.org/rec/conf/concur/KuceraS04"},
+"url":"URL#3755968"
 },
 {
 "@score":"1",
-"@id":"3342200",
+"@id":"3755969",
 "info":{"authors":{"author":["François Laroussinie","Nicolas Markey","Philippe Schnoebelen"]},"title":"Model Checking Timed Automata with One or Two Clocks.","venue":"CONCUR","pages":"387-401","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/LaroussinieMS04","doi":"10.1007/978-3-540-28644-8_25","ee":"https://doi.org/10.1007/978-3-540-28644-8_25","url":"https://dblp.org/rec/conf/concur/LaroussinieMS04"},
-"url":"URL#3342200"
+"url":"URL#3755969"
 },
 {
 "@score":"1",
-"@id":"3342201",
+"@id":"3755970",
 "info":{"authors":{"author":["Jérôme Leroux","Grégoire Sutre"]},"title":"On Flatness for 2-Dimensional Vector Addition Systems with States.","venue":"CONCUR","pages":"402-416","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/LerouxS04","doi":"10.1007/978-3-540-28644-8_26","ee":"https://doi.org/10.1007/978-3-540-28644-8_26","url":"https://dblp.org/rec/conf/concur/LerouxS04"},
-"url":"URL#3342201"
+"url":"URL#3755970"
 },
 {
 "@score":"1",
-"@id":"3342202",
+"@id":"3755971",
 "info":{"authors":{"author":["Qin Ma 0002","Luc Maranget"]},"title":"Compiling Pattern Matching in Join-Patterns.","venue":"CONCUR","pages":"417-431","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/MaM04","doi":"10.1007/978-3-540-28644-8_27","ee":"https://doi.org/10.1007/978-3-540-28644-8_27","url":"https://dblp.org/rec/conf/concur/MaM04"},
-"url":"URL#3342202"
+"url":"URL#3755971"
 },
 {
 "@score":"1",
-"@id":"3342203",
+"@id":"3755972",
 "info":{"authors":{"author":["Nicolas Markey","Jean-François Raskin"]},"title":"Model Checking Restricted Sets of Timed Paths.","venue":"CONCUR","pages":"432-447","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/MarkeyR04","doi":"10.1007/978-3-540-28644-8_28","ee":"https://doi.org/10.1007/978-3-540-28644-8_28","url":"https://dblp.org/rec/conf/concur/MarkeyR04"},
-"url":"URL#3342203"
+"url":"URL#3755972"
 },
 {
 "@score":"1",
-"@id":"3342204",
+"@id":"3755973",
 "info":{"authors":{"author":"Paul-André Melliès"},"title":"Asynchronous Games 2 - The True Concurrency of Innocence.","venue":"CONCUR","pages":"448-465","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/Mellies04","doi":"10.1007/978-3-540-28644-8_29","ee":"https://doi.org/10.1007/978-3-540-28644-8_29","url":"https://dblp.org/rec/conf/concur/Mellies04"},
-"url":"URL#3342204"
+"url":"URL#3755973"
 },
 {
 "@score":"1",
-"@id":"3342205",
+"@id":"3755974",
 "info":{"authors":{"author":"Peter W. O&apos;Hearn"},"title":"Resources, Concurrency and Local Reasoning.","venue":"CONCUR","pages":"49-67","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/OHearn04","doi":"10.1007/978-3-540-28644-8_4","ee":"https://doi.org/10.1007/978-3-540-28644-8_4","url":"https://dblp.org/rec/conf/concur/OHearn04"},
-"url":"URL#3342205"
+"url":"URL#3755974"
 },
 {
 "@score":"1",
-"@id":"3342206",
+"@id":"3755975",
 "info":{"authors":{"author":"Paulo Tabuada"},"title":"Open Maps, Alternating Simulations and Control Synthesis.","venue":"CONCUR","pages":"466-480","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/Tabuada04","doi":"10.1007/978-3-540-28644-8_30","ee":"https://doi.org/10.1007/978-3-540-28644-8_30","url":"https://dblp.org/rec/conf/concur/Tabuada04"},
-"url":"URL#3342206"
+"url":"URL#3755975"
+},
+{
+"@score":"1",
+"@id":"3755976",
+"info":{"authors":{"author":["Daniele Varacca","Hagen Völzer","Glynn Winskel"]},"title":"Probabilistic Event Structures and Domains.","venue":"CONCUR","pages":"481-496","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/VaraccaVW04","doi":"10.1007/978-3-540-28644-8_31","ee":"https://doi.org/10.1007/978-3-540-28644-8_31","url":"https://dblp.org/rec/conf/concur/VaraccaVW04"},
+"url":"URL#3755976"
+},
+{
+"@score":"1",
+"@id":"3755977",
+"info":{"authors":{"author":["Vasco Thudichum Vasconcelos","António Ravara","Simon J. Gay"]},"title":"Session Types for Functional Multithreading.","venue":"CONCUR","pages":"497-511","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/VasconcelosRG04","doi":"10.1007/978-3-540-28644-8_32","ee":"https://doi.org/10.1007/978-3-540-28644-8_32","url":"https://dblp.org/rec/conf/concur/VasconcelosRG04"},
+"url":"URL#3755977"
+},
+{
+"@score":"1",
+"@id":"3755978",
+"info":{"authors":{"author":["Mahesh Viswanathan 0001","Ramesh Viswanathan"]},"title":"A Higher Order Modal Fixed Point Logic.","venue":"CONCUR","pages":"512-528","year":"2004","type":"Conference and Workshop Papers","key":"conf/concur/ViswanathanV04","doi":"10.1007/978-3-540-28644-8_33","ee":"https://doi.org/10.1007/978-3-540-28644-8_33","url":"https://dblp.org/rec/conf/concur/ViswanathanV04"},
+"url":"URL#3755978"
+},
+{
+"@score":"1",
+"@id":"3822918",
+"info":{"authors":{"author":["Philippa Gardner","Nobuko Yoshida"]},"title":"CONCUR 2004 - Concurrency Theory, 15th International Conference, London, UK, August 31 - September 3, 2004, Proceedings","venue":["CONCUR","Lecture Notes in Computer Science"],"volume":"3170","publisher":"Springer","year":"2004","type":"Editorship","key":"conf/concur/2004","doi":"10.1007/B100113","ee":"https://doi.org/10.1007/b100113","url":"https://dblp.org/rec/conf/concur/2004"},
+"url":"URL#3822918"
 }
 ]
 }

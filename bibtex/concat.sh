@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 from=1990
-to=2018
+to=2019
 root="archive"
 prefix="concur"
 ext=".bib"

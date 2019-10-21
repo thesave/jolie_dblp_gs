@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur2013\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"102.46"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"39",
+"@dc":"39",
+"@oc":"39",
+"@id":"13631318",
+"text":":facetid:toc:db/conf/concur/concur2013.bht"
+}
+},
+"hits":{
+"@total":"39",
+"@computed":"39",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1526785",
+"info":{"authors":{"author":["Parosh Aziz Abdulla","Richard Mayr","Arnaud Sangnier","Jeremy Sproston"]},"title":"Solving Parity Games on Integer Vectors.","venue":"CONCUR","pages":"106-120","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/AbdullaMSS13","doi":"10.1007/978-3-642-40184-8_9","ee":"https://doi.org/10.1007/978-3-642-40184-8_9","url":"https://dblp.org/rec/conf/concur/AbdullaMSS13"},
+"url":"URL#1526785"
+},
+{
+"@score":"1",
+"@id":"1526786",
+"info":{"authors":{"author":["Andreas Abel 0002","Florian Benz","Johannes Doerfert","Barbara Dörr","Sebastian Hahn 0001","Florian Haupenthal","Michael Jacobs 0002","Amir H. Moin","Jan Reineke","Bernhard Schommer","Reinhard Wilhelm"]},"title":"Impact of Resource Sharing on Performance and Performance Prediction - A Survey.","venue":"CONCUR","pages":"25-43","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/AbelBDDHHJMRSW13","doi":"10.1007/978-3-642-40184-8_3","ee":"https://doi.org/10.1007/978-3-642-40184-8_3","url":"https://dblp.org/rec/conf/concur/AbelBDDHHJMRSW13"},
+"url":"URL#1526786"
+},
+{
+"@score":"1",
+"@id":"1526787",
+"info":{"authors":{"author":["Lorenzo Alvisi","Edmund L. Wong"]},"title":"Reasoning with MAD Distributed Systems.","venue":"CONCUR","pages":"1-4","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/AlvisiW13","doi":"10.1007/978-3-642-40184-8_1","ee":"https://doi.org/10.1007/978-3-642-40184-8_1","url":"https://dblp.org/rec/conf/concur/AlvisiW13"},
+"url":"URL#1526787"
+},
+{
+"@score":"1",
+"@id":"1526788",
+"info":{"authors":{"author":["Shoham Ben-David","Marsha Chechik","Sebastián Uchitel"]},"title":"Merging Partial Behaviour Models with Different Vocabularies.","venue":"CONCUR","pages":"91-105","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/Ben-DavidCU13","doi":"10.1007/978-3-642-40184-8_8","ee":"https://doi.org/10.1007/978-3-642-40184-8_8","url":"https://dblp.org/rec/conf/concur/Ben-DavidCU13"},
+"url":"URL#1526788"
+},
+{
+"@score":"1",
+"@id":"1526789",
+"info":{"authors":{"author":["Nikola Benes","Benoît Delahaye","Uli Fahrenberg","Jan Kretínský","Axel Legay"]},"title":"Hennessy-Milner Logic with Greatest Fixed Points as a Complete Behavioural Specification Theory.","venue":"CONCUR","pages":"76-90","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/BenesDFKL13","doi":"10.1007/978-3-642-40184-8_7","ee":"https://doi.org/10.1007/978-3-642-40184-8_7","url":"https://dblp.org/rec/conf/concur/BenesDFKL13"},
+"url":"URL#1526789"
+},
+{
+"@score":"1",
+"@id":"1526790",
+"info":{"authors":{"author":["Giovanni Bernardi 0001","Matthew Hennessy"]},"title":"Mutually Testing Processes - (Extended Abstract).","venue":"CONCUR","pages":"61-75","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/BernardiH13","doi":"10.1007/978-3-642-40184-8_6","ee":"https://doi.org/10.1007/978-3-642-40184-8_6","url":"https://dblp.org/rec/conf/concur/BernardiH13"},
+"url":"URL#1526790"
+},
+{
+"@score":"1",
+"@id":"1526791",
+"info":{"authors":{"author":["Xiaojuan Cai","Mizuhito Ogawa"]},"title":"Well-Structured Pushdown Systems.","venue":"CONCUR","pages":"121-136","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/CaiO13","doi":"10.1007/978-3-642-40184-8_10","ee":"https://doi.org/10.1007/978-3-642-40184-8_10","url":"https://dblp.org/rec/conf/concur/CaiO13"},
+"url":"URL#1526791"
+},
+{
+"@score":"1",
+"@id":"1526792",
+"info":{"authors":{"author":["Claudia Carapelle","Alexander Kartzow","Markus Lohrey"]},"title":"Satisfiability of CTL* with Constraints.","venue":"CONCUR","pages":"455-469","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/CarapelleKL13","doi":"10.1007/978-3-642-40184-8_32","ee":"https://doi.org/10.1007/978-3-642-40184-8_32","url":"https://dblp.org/rec/conf/concur/CarapelleKL13"},
+"url":"URL#1526792"
+},
+{
+"@score":"1",
+"@id":"1526793",
+"info":{"authors":{"author":["Krishnendu Chatterjee","Yaron Velner"]},"title":"Hyperplane Separation Technique for Multidimensional Mean-Payoff Games.","venue":"CONCUR","pages":"500-515","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/ChatterjeeV13","doi":"10.1007/978-3-642-40184-8_35","ee":"https://doi.org/10.1007/978-3-642-40184-8_35","url":"https://dblp.org/rec/conf/concur/ChatterjeeV13"},
+"url":"URL#1526793"
+},
+{
+"@score":"1",
+"@id":"1526794",
+"info":{"authors":{"author":["Martin Churchill","Peter D. Mosses","Mohammad Reza Mousavi"]},"title":"Modular Semantics for Transition System Specifications with Negative Premises.","venue":"CONCUR","pages":"46-60","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/ChurchillMM13","doi":"10.1007/978-3-642-40184-8_5","ee":"https://doi.org/10.1007/978-3-642-40184-8_5","url":"https://dblp.org/rec/conf/concur/ChurchillMM13"},
+"url":"URL#1526794"
+},
+{
+"@score":"1",
+"@id":"1526795",
+"info":{"authors":{"author":["Sjoerd Cranen","Bas Luttik","Tim A. C. Willemse"]},"title":"Proof Graphs for Parameterised Boolean Equation Systems.","venue":"CONCUR","pages":"470-484","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/CranenLW13","doi":"10.1007/978-3-642-40184-8_33","ee":"https://doi.org/10.1007/978-3-642-40184-8_33","url":"https://dblp.org/rec/conf/concur/CranenLW13"},
+"url":"URL#1526795"
+},
+{
+"@score":"1",
+"@id":"1526796",
+"info":{"authors":{"author":"Vijay D&apos;Silva"},"title":"Generalizing Simulation to Abstract Domains.","venue":"CONCUR","pages":"485-499","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/DSilva13","doi":"10.1007/978-3-642-40184-8_34","ee":"https://doi.org/10.1007/978-3-642-40184-8_34","url":"https://dblp.org/rec/conf/concur/DSilva13"},
+"url":"URL#1526796"
+},
+{
+"@score":"1",
+"@id":"1526797",
+"info":{"authors":{"author":["Vincent Danos","Russ Harmer","Ricardo Honorato-Zimmer"]},"title":"Thermodynamic Graph-Rewriting.","venue":"CONCUR","pages":"380-394","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/DanosHH13","doi":"10.1007/978-3-642-40184-8_27","ee":"https://doi.org/10.1007/978-3-642-40184-8_27","url":"https://dblp.org/rec/conf/concur/DanosHH13"},
+"url":"URL#1526797"
+},
+{
+"@score":"1",
+"@id":"1526798",
+"info":{"authors":{"author":["Andrei Dorman","Damiano Mazza"]},"title":"A Hierarchy of Expressiveness in Concurrent Interaction Nets.","venue":"CONCUR","pages":"197-211","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/DormanM13","doi":"10.1007/978-3-642-40184-8_15","ee":"https://doi.org/10.1007/978-3-642-40184-8_15","url":"https://dblp.org/rec/conf/concur/DormanM13"},
+"url":"URL#1526798"
+},
+{
+"@score":"1",
+"@id":"1526799",
+"info":{"authors":{"author":["Javier Esparza","Jörg Desel"]},"title":"On Negotiation as Concurrency Primitive.","venue":"CONCUR","pages":"440-454","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/EsparzaD13","doi":"10.1007/978-3-642-40184-8_31","ee":"https://doi.org/10.1007/978-3-642-40184-8_31","url":"https://dblp.org/rec/conf/concur/EsparzaD13"},
+"url":"URL#1526799"
+},
+{
+"@score":"1",
+"@id":"1526800",
+"info":{"authors":{"author":["Klaus von Gleissenthall","Andrey Rybalchenko"]},"title":"An Epistemic Perspective on Consistency of Concurrent Computations.","venue":"CONCUR","pages":"212-226","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/GleissenthallR13","doi":"10.1007/978-3-642-40184-8_16","ee":"https://doi.org/10.1007/978-3-642-40184-8_16","url":"https://dblp.org/rec/conf/concur/GleissenthallR13"},
+"url":"URL#1526800"
+},
+{
+"@score":"1",
+"@id":"1526801",
+"info":{"authors":{"author":["Julian Gutierrez 0001","Glynn Winskel"]},"title":"Borel Determinacy of Concurrent Games.","venue":"CONCUR","pages":"516-530","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/GutierrezW13","doi":"10.1007/978-3-642-40184-8_36","ee":"https://doi.org/10.1007/978-3-642-40184-8_36","url":"https://dblp.org/rec/conf/concur/GutierrezW13"},
+"url":"URL#1526801"
+},
+{
+"@score":"1",
+"@id":"1526802",
+"info":{"authors":{"author":["Christoph Haase","Sylvain Schmitz","Philippe Schnoebelen"]},"title":"The Power of Priority Channel Systems.","venue":"CONCUR","pages":"319-333","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/HaaseSS13","doi":"10.1007/978-3-642-40184-8_23","ee":"https://doi.org/10.1007/978-3-642-40184-8_23","url":"https://dblp.org/rec/conf/concur/HaaseSS13"},
+"url":"URL#1526802"
+},
+{
+"@score":"1",
+"@id":"1526803",
+"info":{"authors":{"author":["Thomas Dueholm Hansen","Rasmus Ibsen-Jensen","Peter Bro Miltersen"]},"title":"A Faster Algorithm for Solving One-Clock Priced Timed Games.","venue":"CONCUR","pages":"531-545","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/HansenIM13","doi":"10.1007/978-3-642-40184-8_37","ee":"https://doi.org/10.1007/978-3-642-40184-8_37","url":"https://dblp.org/rec/conf/concur/HansenIM13"},
+"url":"URL#1526803"
+},
+{
+"@score":"1",
+"@id":"1526804",
+"info":{"authors":{"author":["Thomas A. Henzinger","Jan Otop"]},"title":"From Model Checking to Model Measuring.","venue":"CONCUR","pages":"273-287","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/HenzingerO13","doi":"10.1007/978-3-642-40184-8_20","ee":"https://doi.org/10.1007/978-3-642-40184-8_20","url":"https://dblp.org/rec/conf/concur/HenzingerO13"},
+"url":"URL#1526804"
+},
+{
+"@score":"1",
+"@id":"1526805",
+"info":{"authors":{"author":["Thomas A. Henzinger","Ali Sezgin","Viktor Vafeiadis"]},"title":"Aspect-Oriented Linearizability Proofs.","venue":"CONCUR","pages":"242-256","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/HenzingerSV13","doi":"10.1007/978-3-642-40184-8_18","ee":"https://doi.org/10.1007/978-3-642-40184-8_18","url":"https://dblp.org/rec/conf/concur/HenzingerSV13"},
+"url":"URL#1526805"
+},
+{
+"@score":"1",
+"@id":"1526806",
+"info":{"authors":{"author":["Holger Hermanns","Jan Krcál","Jan Kretínský"]},"title":"Compositional Verification and Optimization of Interactive Markov Chains.","venue":"CONCUR","pages":"364-379","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/HermannsKK13","doi":"10.1007/978-3-642-40184-8_26","ee":"https://doi.org/10.1007/978-3-642-40184-8_26","url":"https://dblp.org/rec/conf/concur/HermannsKK13"},
+"url":"URL#1526806"
+},
+{
+"@score":"1",
+"@id":"1526807",
+"info":{"authors":{"author":["Holger Hermanns","Andrea Turrini"]},"title":"Cost Preserving Bisimulations for Probabilistic Automata.","venue":"CONCUR","pages":"349-363","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/HermannsT13","doi":"10.1007/978-3-642-40184-8_25","ee":"https://doi.org/10.1007/978-3-642-40184-8_25","url":"https://dblp.org/rec/conf/concur/HermannsT13"},
+"url":"URL#1526807"
+},
+{
+"@score":"1",
+"@id":"1526808",
+"info":{"authors":{"author":["Reiner Hüchting","Rupak Majumdar","Roland Meyer"]},"title":"A Theory of Name Boundedness.","venue":"CONCUR","pages":"182-196","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/HuchtingMM13","doi":"10.1007/978-3-642-40184-8_14","ee":"https://doi.org/10.1007/978-3-642-40184-8_14","url":"https://dblp.org/rec/conf/concur/HuchtingMM13"},
+"url":"URL#1526808"
+},
+{
+"@score":"1",
+"@id":"1526809",
+"info":{"authors":{"author":"Joost-Pieter Katoen"},"title":"Concurrency Meets Probability - Theory and Practice - (Abstract).","venue":"CONCUR","pages":"44-45","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/Katoen13","doi":"10.1007/978-3-642-40184-8_4","ee":"https://doi.org/10.1007/978-3-642-40184-8_4","url":"https://dblp.org/rec/conf/concur/Katoen13"},
+"url":"URL#1526809"
+},
+{
+"@score":"1",
+"@id":"1526810",
+"info":{"authors":{"author":["Jonathan Kochems","C.-H. Luke Ong"]},"title":"Safety Verification of Asynchronous Pushdown Systems with Shaped Stacks.","venue":"CONCUR","pages":"288-302","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/KochemsO13","doi":"10.1007/978-3-642-40184-8_21","ee":"https://doi.org/10.1007/978-3-642-40184-8_21","url":"https://dblp.org/rec/conf/concur/KochemsO13"},
+"url":"URL#1526810"
+},
+{
+"@score":"1",
+"@id":"1526811",
+"info":{"authors":{"author":["Vasileios Koutavas","Matthew Hennessy"]},"title":"Symbolic Bisimulation for a Higher-Order Distributed Language with Passivation - (Extended Abstract).","venue":"CONCUR","pages":"167-181","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/KoutavasH13","doi":"10.1007/978-3-642-40184-8_13","ee":"https://doi.org/10.1007/978-3-642-40184-8_13","url":"https://dblp.org/rec/conf/concur/KoutavasH13"},
+"url":"URL#1526811"
+},
+{
+"@score":"1",
+"@id":"1526812",
+"info":{"authors":{"author":["Dimitrios Kouzapas","Nobuko Yoshida"]},"title":"Globally Governed Session Semantics.","venue":"CONCUR","pages":"395-409","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/KouzapasY13","doi":"10.1007/978-3-642-40184-8_28","ee":"https://doi.org/10.1007/978-3-642-40184-8_28","url":"https://dblp.org/rec/conf/concur/KouzapasY13"},
+"url":"URL#1526812"
+},
+{
+"@score":"1",
+"@id":"1526813",
+"info":{"authors":{"author":["Andrey Kupriyanov","Bernd Finkbeiner"]},"title":"Causality-Based Verification of Multi-threaded Programs.","venue":"CONCUR","pages":"257-272","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/KupriyanovF13","doi":"10.1007/978-3-642-40184-8_19","ee":"https://doi.org/10.1007/978-3-642-40184-8_19","url":"https://dblp.org/rec/conf/concur/KupriyanovF13"},
+"url":"URL#1526813"
+},
+{
+"@score":"1",
+"@id":"1526814",
+"info":{"authors":{"author":["Jérôme Leroux","M. Praveen","Grégoire Sutre"]},"title":"A Relational Trace Logic for Vector Addition Systems with Application to Context-Freeness.","venue":"CONCUR","pages":"137-151","year":"2013","type":"Conference and Workshop Papers","key":"conf/concur/LerouxPS13","doi":"10.1007/978-3-642-40184-8_11","ee":"https://doi.org/10.1007/978-3-642-40184-8_11","url":"https://dblp.org/rec/conf/concur/LerouxPS13"},
+"url":"URL#1526814"
+}
+]
+}
+}
+}

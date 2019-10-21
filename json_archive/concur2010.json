@@ -7,7 +7,7 @@
 },
 "time":{
 "@unit":"msecs",
-"text":"107.21"
+"text":"120.56"
 },
 "completions":{
 "@total":"1",
@@ -17,194 +17,260 @@
 "@sc":"41",
 "@dc":"41",
 "@oc":"41",
-"@id":"13631315",
+"@id":"15380641",
 "text":":facetid:toc:db/conf/concur/concur2010.bht"
 }
 },
 "hits":{
 "@total":"41",
 "@computed":"41",
-"@sent":"30",
+"@sent":"41",
 "@first":"0",
 "hit":[{
 "@score":"1",
-"@id":"2262093",
+"@id":"2663000",
 "info":{"authors":{"author":["Fides Aarts","Frits W. Vaandrager"]},"title":"Learning I/O Automata.","venue":"CONCUR","pages":"71-85","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/AartsV10","doi":"10.1007/978-3-642-15375-4_6","ee":"https://doi.org/10.1007/978-3-642-15375-4_6","url":"https://dblp.org/rec/conf/concur/AartsV10"},
-"url":"URL#2262093"
+"url":"URL#2663000"
 },
 {
 "@score":"1",
-"@id":"2262094",
+"@id":"2663001",
 "info":{"authors":{"author":["Parosh Aziz Abdulla","Yu-Fang Chen","Giorgio Delzanno","Frédéric Haziza","Chih-Duo Hong","Ahmed Rezine"]},"title":"Constrained Monotonic Abstraction - A CEGAR for Parameterized Verification.","venue":"CONCUR","pages":"86-101","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/AbdullaCDHHR10","doi":"10.1007/978-3-642-15375-4_7","ee":"https://doi.org/10.1007/978-3-642-15375-4_7","url":"https://dblp.org/rec/conf/concur/AbdullaCDHHR10"},
-"url":"URL#2262094"
+"url":"URL#2663001"
 },
 {
 "@score":"1",
-"@id":"2262095",
+"@id":"2663002",
 "info":{"authors":{"author":["Mário S. Alvim","Miguel E. Andrés","Catuscia Palamidessi"]},"title":"Information Flow in Interactive Systems.","venue":"CONCUR","pages":"102-116","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/AlvimAP10","doi":"10.1007/978-3-642-15375-4_8","ee":"https://doi.org/10.1007/978-3-642-15375-4_8","url":"https://dblp.org/rec/conf/concur/AlvimAP10"},
-"url":"URL#2262095"
+"url":"URL#2663002"
 },
 {
 "@score":"1",
-"@id":"2262096",
+"@id":"2663003",
 "info":{"authors":{"author":"Mohamed Faouzi Atig"},"title":"From Multi to Single Stack Automata.","venue":"CONCUR","pages":"117-131","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/Atig10","doi":"10.1007/978-3-642-15375-4_9","ee":"https://doi.org/10.1007/978-3-642-15375-4_9","url":"https://dblp.org/rec/conf/concur/Atig10"},
-"url":"URL#2262096"
+"url":"URL#2663003"
 },
 {
 "@score":"1",
-"@id":"2262097",
+"@id":"2663004",
 "info":{"authors":{"author":["Thibaut Balabonski","Emmanuel Haucourt"]},"title":"A Geometric Approach to the Problem of Unique Decomposition of Processes.","venue":"CONCUR","pages":"132-146","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/BalabonskiH10","doi":"10.1007/978-3-642-15375-4_10","ee":"https://doi.org/10.1007/978-3-642-15375-4_10","url":"https://dblp.org/rec/conf/concur/BalabonskiH10"},
-"url":"URL#2262097"
+"url":"URL#2663004"
 },
 {
 "@score":"1",
-"@id":"2262098",
+"@id":"2663005",
 "info":{"authors":{"author":["Paolo Baldan","Silvia Crafa"]},"title":"A Logic for True Concurrency.","venue":"CONCUR","pages":"147-161","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/BaldanC10","doi":"10.1007/978-3-642-15375-4_11","ee":"https://doi.org/10.1007/978-3-642-15375-4_11","url":"https://dblp.org/rec/conf/concur/BaldanC10"},
-"url":"URL#2262098"
+"url":"URL#2663005"
 },
 {
 "@score":"1",
-"@id":"2262099",
+"@id":"2663006",
 "info":{"authors":{"author":["Laura Bocchi","Kohei Honda","Emilio Tuosto","Nobuko Yoshida"]},"title":"A Theory of Design-by-Contract for Distributed Multiparty Interactions.","venue":"CONCUR","pages":"162-176","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/BocchiHTY10","doi":"10.1007/978-3-642-15375-4_12","ee":"https://doi.org/10.1007/978-3-642-15375-4_12","url":"https://dblp.org/rec/conf/concur/BocchiHTY10"},
-"url":"URL#2262099"
+"url":"URL#2663006"
 },
 {
 "@score":"1",
-"@id":"2262100",
+"@id":"2663007",
 "info":{"authors":{"author":["Frank S. de Boer","Mohammad Mahdi Jaghoori","Einar Broch Johnsen"]},"title":"Dating Concurrent Objects - Real-Time Modeling and Schedulability Analysis.","venue":"CONCUR","pages":"1-18","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/BoerJJ10","doi":"10.1007/978-3-642-15375-4_1","ee":"https://doi.org/10.1007/978-3-642-15375-4_1","url":"https://dblp.org/rec/conf/concur/BoerJJ10"},
-"url":"URL#2262100"
+"url":"URL#2663007"
 },
 {
 "@score":"1",
-"@id":"2262101",
+"@id":"2663008",
 "info":{"authors":{"author":["Stanislav Böhm","Stefan Göller","Petr Jancar"]},"title":"Bisimilarity of One-Counter Processes Is PSPACE-Complete.","venue":"CONCUR","pages":"177-191","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/BohmGJ10","doi":"10.1007/978-3-642-15375-4_13","ee":"https://doi.org/10.1007/978-3-642-15375-4_13","url":"https://dblp.org/rec/conf/concur/BohmGJ10"},
-"url":"URL#2262101"
+"url":"URL#2663008"
 },
 {
 "@score":"1",
-"@id":"2262102",
+"@id":"2663009",
 "info":{"authors":{"author":["Patricia Bouyer","Romain Brenguier","Nicolas Markey"]},"title":"Nash Equilibria for Reachability Objectives in Multi-player Timed Games.","venue":"CONCUR","pages":"192-206","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/BouyerBM10","doi":"10.1007/978-3-642-15375-4_14","ee":"https://doi.org/10.1007/978-3-642-15375-4_14","url":"https://dblp.org/rec/conf/concur/BouyerBM10"},
-"url":"URL#2262102"
+"url":"URL#2663009"
 },
 {
 "@score":"1",
-"@id":"2262103",
-"info":{"authors":{"author":["Tomás Brázdil","Jan Krcál","Jan Kretínský","Antonín Kucera","Vojtech Rehák"]},"title":"Stochastic Real-Time Games with Qualitative Timed Automata Objectives.","venue":"CONCUR","pages":"207-221","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/BrazdilKKKR10","doi":"10.1007/978-3-642-15375-4_15","ee":"https://doi.org/10.1007/978-3-642-15375-4_15","url":"https://dblp.org/rec/conf/concur/BrazdilKKKR10"},
-"url":"URL#2262103"
+"@id":"2663010",
+"info":{"authors":{"author":["Tomás Brázdil","Jan Krcál","Jan Kretínský","Antonín Kucera 0001","Vojtech Rehák"]},"title":"Stochastic Real-Time Games with Qualitative Timed Automata Objectives.","venue":"CONCUR","pages":"207-221","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/BrazdilKKKR10","doi":"10.1007/978-3-642-15375-4_15","ee":"https://doi.org/10.1007/978-3-642-15375-4_15","url":"https://dblp.org/rec/conf/concur/BrazdilKKKR10"},
+"url":"URL#2663010"
 },
 {
 "@score":"1",
-"@id":"2262104",
+"@id":"2663011",
 "info":{"authors":{"author":["Luís Caires","Frank Pfenning"]},"title":"Session Types as Intuitionistic Linear Propositions.","venue":"CONCUR","pages":"222-236","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/CairesP10","doi":"10.1007/978-3-642-15375-4_16","ee":"https://doi.org/10.1007/978-3-642-15375-4_16","url":"https://dblp.org/rec/conf/concur/CairesP10"},
-"url":"URL#2262104"
+"url":"URL#2663011"
 },
 {
 "@score":"1",
-"@id":"2262105",
+"@id":"2663012",
 "info":{"authors":{"author":["Sara Capecchi","Ilaria Castellani","Mariangiola Dezani-Ciancaglini","Tamara Rezk"]},"title":"Session Types for Access and Information Flow Control.","venue":"CONCUR","pages":"237-252","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/CapecchiCDR10","doi":"10.1007/978-3-642-15375-4_17","ee":"https://doi.org/10.1007/978-3-642-15375-4_17","url":"https://dblp.org/rec/conf/concur/CapecchiCDR10"},
-"url":"URL#2262105"
+"url":"URL#2663012"
 },
 {
 "@score":"1",
-"@id":"2262106",
+"@id":"2663013",
 "info":{"authors":{"author":["Pavol Cerný","Thomas A. Henzinger","Arjun Radhakrishna"]},"title":"Simulation Distances.","venue":"CONCUR","pages":"253-268","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/CernyHR10","doi":"10.1007/978-3-642-15375-4_18","ee":"https://doi.org/10.1007/978-3-642-15375-4_18","url":"https://dblp.org/rec/conf/concur/CernyHR10"},
-"url":"URL#2262106"
+"url":"URL#2663013"
 },
 {
 "@score":"1",
-"@id":"2262107",
+"@id":"2663014",
 "info":{"authors":{"author":["Krishnendu Chatterjee","Laurent Doyen 0001","Herbert Edelsbrunner","Thomas A. Henzinger","Philippe Rannou"]},"title":"Mean-Payoff Automaton Expressions.","venue":"CONCUR","pages":"269-283","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/ChatterjeeDEHR10","doi":"10.1007/978-3-642-15375-4_19","ee":"https://doi.org/10.1007/978-3-642-15375-4_19","url":"https://dblp.org/rec/conf/concur/ChatterjeeDEHR10"},
-"url":"URL#2262107"
+"url":"URL#2663014"
 },
 {
 "@score":"1",
-"@id":"2262108",
+"@id":"2663015",
 "info":{"authors":{"author":["Krishnendu Chatterjee","Florian Horn","Christof Löding"]},"title":"Obliging Games.","venue":"CONCUR","pages":"284-296","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/ChatterjeeHL10","doi":"10.1007/978-3-642-15375-4_20","ee":"https://doi.org/10.1007/978-3-642-15375-4_20","url":"https://dblp.org/rec/conf/concur/ChatterjeeHL10"},
-"url":"URL#2262108"
+"url":"URL#2663015"
 },
 {
 "@score":"1",
-"@id":"2262109",
+"@id":"2663016",
 "info":{"authors":{"author":["Lorenzo Clemente","Richard Mayr"]},"title":"Multipebble Simulations for Alternating Automata - (Extended Abstract).","venue":"CONCUR","pages":"297-312","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/ClementeM10","doi":"10.1007/978-3-642-15375-4_21","ee":"https://doi.org/10.1007/978-3-642-15375-4_21","url":"https://dblp.org/rec/conf/concur/ClementeM10"},
-"url":"URL#2262109"
+"url":"URL#2663016"
 },
 {
 "@score":"1",
-"@id":"2262110",
+"@id":"2663017",
 "info":{"authors":{"author":["Giorgio Delzanno","Arnaud Sangnier","Gianluigi Zavattaro"]},"title":"Parameterized Verification of Ad Hoc Networks.","venue":"CONCUR","pages":"313-327","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/DelzannoSZ10","doi":"10.1007/978-3-642-15375-4_22","ee":"https://doi.org/10.1007/978-3-642-15375-4_22","url":"https://dblp.org/rec/conf/concur/DelzannoSZ10"},
-"url":"URL#2262110"
+"url":"URL#2663017"
 },
 {
 "@score":"1",
-"@id":"2262111",
+"@id":"2663018",
 "info":{"authors":{"author":["Romain Demangeon","Daniel Hirschkoff","Davide Sangiorgi"]},"title":"Termination in Impure Concurrent Languages.","venue":"CONCUR","pages":"328-342","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/DemangeonHS10","doi":"10.1007/978-3-642-15375-4_23","ee":"https://doi.org/10.1007/978-3-642-15375-4_23","url":"https://dblp.org/rec/conf/concur/DemangeonHS10"},
-"url":"URL#2262111"
+"url":"URL#2663018"
 },
 {
 "@score":"1",
-"@id":"2262112",
+"@id":"2663019",
 "info":{"authors":{"author":["Pierre-Malo Deniélou","Nobuko Yoshida"]},"title":"Buffered Communication Analysis in Distributed Multiparty Sessions.","venue":"CONCUR","pages":"343-357","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/DenielouY10","doi":"10.1007/978-3-642-15375-4_24","ee":"https://doi.org/10.1007/978-3-642-15375-4_24","url":"https://dblp.org/rec/conf/concur/DenielouY10"},
-"url":"URL#2262112"
+"url":"URL#2663019"
 },
 {
 "@score":"1",
-"@id":"2262113",
+"@id":"2663020",
 "info":{"authors":{"author":["Antoine Durand-Gasselin","Peter Habermehl"]},"title":"On the Use of Non-deterministic Automata for Presburger Arithmetic.","venue":"CONCUR","pages":"373-387","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/Durand-GasselinH10","doi":"10.1007/978-3-642-15375-4_26","ee":"https://doi.org/10.1007/978-3-642-15375-4_26","url":"https://dblp.org/rec/conf/concur/Durand-GasselinH10"},
-"url":"URL#2262113"
+"url":"URL#2663020"
 },
 {
 "@score":"1",
-"@id":"2262114",
+"@id":"2663021",
 "info":{"authors":{"author":["Christian Eisentraut","Holger Hermanns","Lijun Zhang 0001"]},"title":"Concurrency and Composition in a Stochastic World.","venue":"CONCUR","pages":"21-39","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/EisentrautHZ10","doi":"10.1007/978-3-642-15375-4_3","ee":"https://doi.org/10.1007/978-3-642-15375-4_3","url":"https://dblp.org/rec/conf/concur/EisentrautHZ10"},
-"url":"URL#2262114"
+"url":"URL#2663021"
 },
 {
 "@score":"1",
-"@id":"2262115",
+"@id":"2663022",
 "info":{"authors":{"author":"Yuxi Fu"},"title":"Theory by Process.","venue":"CONCUR","pages":"403-416","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/Fu10","doi":"10.1007/978-3-642-15375-4_28","ee":"https://doi.org/10.1007/978-3-642-15375-4_28","url":"https://dblp.org/rec/conf/concur/Fu10"},
-"url":"URL#2262115"
+"url":"URL#2663022"
 },
 {
 "@score":"1",
-"@id":"2262116",
+"@id":"2663023",
 "info":{"authors":{"author":["Ming Fu","Yong Li","Xinyu Feng","Zhong Shao","Yu Zhang"]},"title":"Reasoning about Optimistic Concurrency Using a Program Logic for History.","venue":"CONCUR","pages":"388-402","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/FuLFSZ10","doi":"10.1007/978-3-642-15375-4_27","ee":"https://doi.org/10.1007/978-3-642-15375-4_27","url":"https://dblp.org/rec/conf/concur/FuLFSZ10"},
-"url":"URL#2262116"
+"url":"URL#2663023"
 },
 {
 "@score":"1",
-"@id":"2262117",
+"@id":"2663024",
 "info":{"authors":{"author":["Dan R. Ghica","Mohamed Nabih Menaa"]},"title":"On the Compositionality of Round Abstraction.","venue":"CONCUR","pages":"417-431","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/GhicaM10","doi":"10.1007/978-3-642-15375-4_29","ee":"https://doi.org/10.1007/978-3-642-15375-4_29","url":"https://dblp.org/rec/conf/concur/GhicaM10"},
-"url":"URL#2262117"
+"url":"URL#2663024"
 },
 {
 "@score":"1",
-"@id":"2262118",
+"@id":"2663025",
 "info":{"authors":{"author":["Pietro Di Gianantonio","Svetlana Jaksic","Marina Lenisa"]},"title":"Efficient Bisimilarities from Second-Order Reaction Semantics for pi-Calculus.","venue":"CONCUR","pages":"358-372","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/GianantonioJL10","doi":"10.1007/978-3-642-15375-4_25","ee":"https://doi.org/10.1007/978-3-642-15375-4_25","url":"https://dblp.org/rec/conf/concur/GianantonioJL10"},
-"url":"URL#2262118"
+"url":"URL#2663025"
 },
 {
 "@score":"1",
-"@id":"2262119",
+"@id":"2663026",
 "info":{"authors":{"author":["Marco Giunti","Vasco Thudichum Vasconcelos"]},"title":"A Linear Account of Session Types in the Pi Calculus.","venue":"CONCUR","pages":"432-446","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/GiuntiV10","doi":"10.1007/978-3-642-15375-4_30","ee":"https://doi.org/10.1007/978-3-642-15375-4_30","url":"https://dblp.org/rec/conf/concur/GiuntiV10"},
-"url":"URL#2262119"
+"url":"URL#2663026"
 },
 {
 "@score":"1",
-"@id":"2262120",
+"@id":"2663027",
 "info":{"authors":{"author":"Ichiro Hasuo"},"title":"Generic Forward and Backward Simulations II - Probabilistic Simulation.","venue":"CONCUR","pages":"447-461","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/Hasuo10","doi":"10.1007/978-3-642-15375-4_31","ee":"https://doi.org/10.1007/978-3-642-15375-4_31","url":"https://dblp.org/rec/conf/concur/Hasuo10"},
-"url":"URL#2262120"
+"url":"URL#2663027"
 },
 {
 "@score":"1",
-"@id":"2262121",
+"@id":"2663028",
 "info":{"authors":{"author":"Maurice Herlihy"},"title":"Applications of Shellable Complexes to Distributed Computing - (Invited Talk).","venue":"CONCUR","pages":"19-20","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/Herlihy10","doi":"10.1007/978-3-642-15375-4_2","ee":"https://doi.org/10.1007/978-3-642-15375-4_2","url":"https://dblp.org/rec/conf/concur/Herlihy10"},
-"url":"URL#2262121"
+"url":"URL#2663028"
 },
 {
 "@score":"1",
-"@id":"2262122",
-"info":{"authors":{"author":["Jochen Hoenicke","Roland Meyer","Ernst-Rüdiger Olderog"]},"title":"Kleene, Rabin, and Scott Are Available.","venue":"CONCUR","pages":"462-477","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/HoenickeMO10","doi":"10.1007/978-3-642-15375-4_32","ee":"https://doi.org/10.1007/978-3-642-15375-4_32","url":"https://dblp.org/rec/conf/concur/HoenickeMO10"},
-"url":"URL#2262122"
+"@id":"2663029",
+"info":{"authors":{"author":["Jochen Hoenicke","Roland Meyer 0001","Ernst-Rüdiger Olderog"]},"title":"Kleene, Rabin, and Scott Are Available.","venue":"CONCUR","pages":"462-477","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/HoenickeMO10","doi":"10.1007/978-3-642-15375-4_32","ee":"https://doi.org/10.1007/978-3-642-15375-4_32","url":"https://dblp.org/rec/conf/concur/HoenickeMO10"},
+"url":"URL#2663029"
+},
+{
+"@score":"1",
+"@id":"2663030",
+"info":{"authors":{"author":["Ivan Lanese","Claudio Antares Mezzina","Jean-Bernard Stefani"]},"title":"Reversing Higher-Order Pi.","venue":"CONCUR","pages":"478-493","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/LaneseMS10","doi":"10.1007/978-3-642-15375-4_33","ee":"https://doi.org/10.1007/978-3-642-15375-4_33","url":"https://dblp.org/rec/conf/concur/LaneseMS10"},
+"url":"URL#2663030"
+},
+{
+"@score":"1",
+"@id":"2663031",
+"info":{"authors":{"author":"Anca Muscholl"},"title":"Taming Distributed Asynchronous Systems.","venue":"CONCUR","pages":"40-47","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/Muscholl10","doi":"10.1007/978-3-642-15375-4_4","ee":"https://doi.org/10.1007/978-3-642-15375-4_4","url":"https://dblp.org/rec/conf/concur/Muscholl10"},
+"url":"URL#2663031"
+},
+{
+"@score":"1",
+"@id":"2663032",
+"info":{"authors":{"author":"Cristian Prisacariu"},"title":"Modal Logic over Higher Dimensional Automata.","venue":"CONCUR","pages":"494-508","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/Prisacariu10","doi":"10.1007/978-3-642-15375-4_34","ee":"https://doi.org/10.1007/978-3-642-15375-4_34","url":"https://dblp.org/rec/conf/concur/Prisacariu10"},
+"url":"URL#2663032"
+},
+{
+"@score":"1",
+"@id":"2663033",
+"info":{"authors":{"author":["Ramaswamy Ramanujam","Sunil Easaw Simon"]},"title":"A Communication Based Model for Games of Imperfect Information.","venue":"CONCUR","pages":"509-523","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/RamanujamS10","doi":"10.1007/978-3-642-15375-4_35","ee":"https://doi.org/10.1007/978-3-642-15375-4_35","url":"https://dblp.org/rec/conf/concur/RamanujamS10"},
+"url":"URL#2663033"
+},
+{
+"@score":"1",
+"@id":"2663034",
+"info":{"authors":{"author":["Vladimiro Sassone","Sardaouna Hamadou","Mu Yang"]},"title":"Trust in Anonymity Networks.","venue":"CONCUR","pages":"48-70","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/SassoneHY10","doi":"10.1007/978-3-642-15375-4_5","ee":"https://doi.org/10.1007/978-3-642-15375-4_5","url":"https://dblp.org/rec/conf/concur/SassoneHY10"},
+"url":"URL#2663034"
+},
+{
+"@score":"1",
+"@id":"2663035",
+"info":{"authors":{"author":["Lutz Schröder","Yde Venema"]},"title":"Flat Coalgebraic Fixed Point Logics.","venue":"CONCUR","pages":"524-538","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/SchroderV10","doi":"10.1007/978-3-642-15375-4_36","ee":"https://doi.org/10.1007/978-3-642-15375-4_36","url":"https://dblp.org/rec/conf/concur/SchroderV10"},
+"url":"URL#2663035"
+},
+{
+"@score":"1",
+"@id":"2663036",
+"info":{"authors":{"author":["Roberto Segala","Andrea Turrini"]},"title":"Conditional Automata - A Tool for Safe Removal of Negligible Events.","venue":"CONCUR","pages":"539-553","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/SegalaT10","doi":"10.1007/978-3-642-15375-4_37","ee":"https://doi.org/10.1007/978-3-642-15375-4_37","url":"https://dblp.org/rec/conf/concur/SegalaT10"},
+"url":"URL#2663036"
+},
+{
+"@score":"1",
+"@id":"2663037",
+"info":{"authors":{"author":"Pawel Sobocinski"},"title":"Representations of Petri Net Interactions.","venue":"CONCUR","pages":"554-568","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/Sobocinski10","doi":"10.1007/978-3-642-15375-4_38","ee":"https://doi.org/10.1007/978-3-642-15375-4_38","url":"https://dblp.org/rec/conf/concur/Sobocinski10"},
+"url":"URL#2663037"
+},
+{
+"@score":"1",
+"@id":"2663038",
+"info":{"authors":{"author":["Edsko de Vries","Vasileios Koutavas","Matthew Hennessy"]},"title":"Communicating Transactions - (Extended Abstract).","venue":"CONCUR","pages":"569-583","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/VriesKH10","doi":"10.1007/978-3-642-15375-4_39","ee":"https://doi.org/10.1007/978-3-642-15375-4_39","url":"https://dblp.org/rec/conf/concur/VriesKH10"},
+"url":"URL#2663038"
+},
+{
+"@score":"1",
+"@id":"2663039",
+"info":{"authors":{"author":"Tim A. C. Willemse"},"title":"Consistent Correlations for Parameterised Boolean Equation Systems with Applications in Correctness Proofs for Manipulations.","venue":"CONCUR","pages":"584-598","year":"2010","type":"Conference and Workshop Papers","key":"conf/concur/Willemse10","doi":"10.1007/978-3-642-15375-4_40","ee":"https://doi.org/10.1007/978-3-642-15375-4_40","url":"https://dblp.org/rec/conf/concur/Willemse10"},
+"url":"URL#2663039"
+},
+{
+"@score":"1",
+"@id":"2766132",
+"info":{"authors":{"author":["Paul Gastin","François Laroussinie"]},"title":"CONCUR 2010 - Concurrency Theory, 21th International Conference, CONCUR 2010, Paris, France, August 31-September 3, 2010. Proceedings","venue":["CONCUR","Lecture Notes in Computer Science"],"volume":"6269","publisher":"Springer","year":"2010","type":"Editorship","key":"conf/concur/2010","doi":"10.1007/978-3-642-15375-4","ee":"https://doi.org/10.1007/978-3-642-15375-4","url":"https://dblp.org/rec/conf/concur/2010"},
+"url":"URL#2766132"
 }
 ]
 }

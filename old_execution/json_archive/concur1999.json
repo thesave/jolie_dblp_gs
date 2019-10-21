@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur1999\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"103.67"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"39",
+"@dc":"39",
+"@oc":"39",
+"@id":"13631304",
+"text":":facetid:toc:db/conf/concur/concur1999.bht"
+}
+},
+"hits":{
+"@total":"39",
+"@computed":"39",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3795877",
+"info":{"authors":{"author":"Luca de Alfaro"},"title":"Computing Minimum and Maximum Reachability Times in Probabilistic Systems.","venue":"CONCUR","pages":"66-81","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/Alfaro99","doi":"10.1007/3-540-48320-9_7","ee":"https://doi.org/10.1007/3-540-48320-9_7","url":"https://dblp.org/rec/conf/concur/Alfaro99"},
+"url":"URL#3795877"
+},
+{
+"@score":"1",
+"@id":"3795878",
+"info":{"authors":{"author":["Rajeev Alur","Luca de Alfaro","Thomas A. Henzinger","Freddy Y. C. Mang"]},"title":"Automating Modular Verification.","venue":"CONCUR","pages":"82-97","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/AlurAHM99","doi":"10.1007/3-540-48320-9_8","ee":"https://doi.org/10.1007/3-540-48320-9_8","url":"https://dblp.org/rec/conf/concur/AlurAHM99"},
+"url":"URL#3795878"
+},
+{
+"@score":"1",
+"@id":"3795879",
+"info":{"authors":{"author":["Rajeev Alur","Bow-Yaw Wang"]},"title":"&quot;Next&quot; Heuristic for On-the-Fly Model Checking.","venue":"CONCUR","pages":"98-113","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/AlurW99","doi":"10.1007/3-540-48320-9_9","ee":"https://doi.org/10.1007/3-540-48320-9_9","url":"https://dblp.org/rec/conf/concur/AlurW99"},
+"url":"URL#3795879"
+},
+{
+"@score":"1",
+"@id":"3795880",
+"info":{"authors":{"author":["Rajeev Alur","Mihalis Yannakakis"]},"title":"Model Checking of Message Sequence Charts.","venue":"CONCUR","pages":"114-129","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/AlurY99","doi":"10.1007/3-540-48320-9_10","ee":"https://doi.org/10.1007/3-540-48320-9_10","url":"https://dblp.org/rec/conf/concur/AlurY99"},
+"url":"URL#3795880"
+},
+{
+"@score":"1",
+"@id":"3795881",
+"info":{"authors":{"author":"Paul C. Attie"},"title":"Synthesis of Large Concurrent Programs via Pairwise Composition.","venue":"CONCUR","pages":"130-145","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/Attie99","doi":"10.1007/3-540-48320-9_11","ee":"https://doi.org/10.1007/3-540-48320-9_11","url":"https://dblp.org/rec/conf/concur/Attie99"},
+"url":"URL#3795881"
+},
+{
+"@score":"1",
+"@id":"3795882",
+"info":{"authors":{"author":["Christel Baier","Joost-Pieter Katoen","Holger Hermanns"]},"title":"Approximate Symbolic Model Checking of Continuous-Time Markov Chains.","venue":"CONCUR","pages":"146-161","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/BaierKH99","doi":"10.1007/3-540-48320-9_12","ee":"https://doi.org/10.1007/3-540-48320-9_12","url":"https://dblp.org/rec/conf/concur/BaierKH99"},
+"url":"URL#3795882"
+},
+{
+"@score":"1",
+"@id":"3795883",
+"info":{"authors":{"author":["Albert Benveniste","Benoît Caillaud","Paul Le Guernic"]},"title":"From Synchrony to Asynchrony.","venue":"CONCUR","pages":"162-177","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/BenvenisteCG99","doi":"10.1007/3-540-48320-9_13","ee":"https://doi.org/10.1007/3-540-48320-9_13","url":"https://dblp.org/rec/conf/concur/BenvenisteCG99"},
+"url":"URL#3795883"
+},
+{
+"@score":"1",
+"@id":"3795884",
+"info":{"authors":{"author":["Béatrice Bérard","Laurent Fribourg"]},"title":"Reachability Analysis of (Timed) Petri Nets Using Real Arithmetic.","venue":"CONCUR","pages":"178-193","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/BerardF99","doi":"10.1007/3-540-48320-9_14","ee":"https://doi.org/10.1007/3-540-48320-9_14","url":"https://dblp.org/rec/conf/concur/BerardF99"},
+"url":"URL#3795884"
+},
+{
+"@score":"1",
+"@id":"3795885",
+"info":{"authors":{"author":["Eike Best","Alexander Lavrov"]},"title":"Weak and Strong Composition of High-Level Petri-Nets.","venue":"CONCUR","pages":"194-209","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/BestL99","doi":"10.1007/3-540-48320-9_15","ee":"https://doi.org/10.1007/3-540-48320-9_15","url":"https://dblp.org/rec/conf/concur/BestL99"},
+"url":"URL#3795885"
+},
+{
+"@score":"1",
+"@id":"3795886",
+"info":{"authors":{"author":["Burkhard Bieber","Hans Fleischhack"]},"title":"Model Checking of Time Petri Nets Based on Partial Order Semantics.","venue":"CONCUR","pages":"210-225","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/BieberF99","doi":"10.1007/3-540-48320-9_16","ee":"https://doi.org/10.1007/3-540-48320-9_16","url":"https://dblp.org/rec/conf/concur/BieberF99"},
+"url":"URL#3795886"
+},
+{
+"@score":"1",
+"@id":"3795887",
+"info":{"authors":{"author":["Frank S. de Boer","Gianluigi Zavattaro"]},"title":"Generic Process Algebras for Asynchronous Communication.","venue":"CONCUR","pages":"226-241","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/BoerZ99","doi":"10.1007/3-540-48320-9_17","ee":"https://doi.org/10.1007/3-540-48320-9_17","url":"https://dblp.org/rec/conf/concur/BoerZ99"},
+"url":"URL#3795887"
+},
+{
+"@score":"1",
+"@id":"3795888",
+"info":{"authors":{"author":"Rance Cleaveland"},"title":"Temporal Process Logic (Abstract).","venue":"CONCUR","pages":"1","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/Cleaveland99","doi":"10.1007/3-540-48320-9_1","ee":"https://doi.org/10.1007/3-540-48320-9_1","url":"https://dblp.org/rec/conf/concur/Cleaveland99"},
+"url":"URL#3795888"
+},
+{
+"@score":"1",
+"@id":"3795889",
+"info":{"authors":{"author":["Hubert Comon","Yan Jurski"]},"title":"Timed Automata and the Theory of Real Numbers.","venue":"CONCUR","pages":"242-257","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/ComonJ99","doi":"10.1007/3-540-48320-9_18","ee":"https://doi.org/10.1007/3-540-48320-9_18","url":"https://dblp.org/rec/conf/concur/ComonJ99"},
+"url":"URL#3795889"
+},
+{
+"@score":"1",
+"@id":"3795890",
+"info":{"authors":{"author":["Josee Desharnais","Vineet Gupta 0001","Radha Jagadeesan","Prakash Panangaden"]},"title":"Metrics for Labeled Markov Systems.","venue":"CONCUR","pages":"258-273","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/DesharnaisGJP99","doi":"10.1007/3-540-48320-9_19","ee":"https://doi.org/10.1007/3-540-48320-9_19","url":"https://dblp.org/rec/conf/concur/DesharnaisGJP99"},
+"url":"URL#3795890"
+},
+{
+"@score":"1",
+"@id":"3795891",
+"info":{"authors":{"author":["Javier Esparza","Stefan Römer"]},"title":"An Unfolding Algorithm for Synchronous Products of Transition Systems.","venue":"CONCUR","pages":"2-20","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/EsparzaR99","doi":"10.1007/3-540-48320-9_2","ee":"https://doi.org/10.1007/3-540-48320-9_2","url":"https://dblp.org/rec/conf/concur/EsparzaR99"},
+"url":"URL#3795891"
+},
+{
+"@score":"1",
+"@id":"3795892",
+"info":{"authors":{"author":["Arkadi Estrin","Michael Kaminski"]},"title":"The Expressive Power of Temporal Logic of Actions (Extended Abstract).","venue":"CONCUR","pages":"274-287","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/EstrinK99","doi":"10.1007/3-540-48320-9_20","ee":"https://doi.org/10.1007/3-540-48320-9_20","url":"https://dblp.org/rec/conf/concur/EstrinK99"},
+"url":"URL#3795892"
+},
+{
+"@score":"1",
+"@id":"3795893",
+"info":{"authors":{"author":["Cormac Flanagan","Martín Abadi"]},"title":"Object Types against Races.","venue":"CONCUR","pages":"288-303","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/FlanaganA99","doi":"10.1007/3-540-48320-9_21","ee":"https://doi.org/10.1007/3-540-48320-9_21","url":"https://dblp.org/rec/conf/concur/FlanaganA99"},
+"url":"URL#3795893"
+},
+{
+"@score":"1",
+"@id":"3795894",
+"info":{"authors":{"author":"Yuxi Fu"},"title":"Open Bisimulations on Chi Processes.","venue":"CONCUR","pages":"304-319","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/Fu99","doi":"10.1007/3-540-48320-9_22","ee":"https://doi.org/10.1007/3-540-48320-9_22","url":"https://dblp.org/rec/conf/concur/Fu99"},
+"url":"URL#3795894"
+},
+{
+"@score":"1",
+"@id":"3795895",
+"info":{"authors":{"author":"Rob J. van Glabbeek"},"title":"Petri Nets, Configuration Structures and Higher Dimensional Automata.","venue":"CONCUR","pages":"21-27","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/Glabbeek99","doi":"10.1007/3-540-48320-9_3","ee":"https://doi.org/10.1007/3-540-48320-9_3","url":"https://dblp.org/rec/conf/concur/Glabbeek99"},
+"url":"URL#3795895"
+},
+{
+"@score":"1",
+"@id":"3795896",
+"info":{"authors":{"author":["Thomas A. Henzinger","Benjamin Horowitz","Rupak Majumdar"]},"title":"Rectangular Hybrid Games.","venue":"CONCUR","pages":"320-335","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/HenzingerHM99","doi":"10.1007/3-540-48320-9_23","ee":"https://doi.org/10.1007/3-540-48320-9_23","url":"https://dblp.org/rec/conf/concur/HenzingerHM99"},
+"url":"URL#3795896"
+},
+{
+"@score":"1",
+"@id":"3795897",
+"info":{"authors":{"author":["Petr Jancar","Faron Moller"]},"title":"Techniques for Decidability and Undecidability of Bisimilarity.","venue":"CONCUR","pages":"30-45","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/JancarM99","doi":"10.1007/3-540-48320-9_5","ee":"https://doi.org/10.1007/3-540-48320-9_5","url":"https://dblp.org/rec/conf/concur/JancarM99"},
+"url":"URL#3795897"
+},
+{
+"@score":"1",
+"@id":"3795898",
+"info":{"authors":{"author":"Yuh-Jzer Joung"},"title":"Localizability of Fairness Constraints and Their Distributed Implementations.","venue":"CONCUR","pages":"336-351","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/Joung99","doi":"10.1007/3-540-48320-9_24","ee":"https://doi.org/10.1007/3-540-48320-9_24","url":"https://dblp.org/rec/conf/concur/Joung99"},
+"url":"URL#3795898"
+},
+{
+"@score":"1",
+"@id":"3795899",
+"info":{"authors":{"author":"Barbara König 0001"},"title":"Generating Type Systems for Process Graphs.","venue":"CONCUR","pages":"352-367","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/Konig99","doi":"10.1007/3-540-48320-9_25","ee":"https://doi.org/10.1007/3-540-48320-9_25","url":"https://dblp.org/rec/conf/concur/Konig99"},
+"url":"URL#3795899"
+},
+{
+"@score":"1",
+"@id":"3795900",
+"info":{"authors":{"author":["Antonín Kucera","Richard Mayr"]},"title":"Weak Bisimilarity with Infinite-State Systems Can Be Decided in Polynomial Time.","venue":"CONCUR","pages":"368-382","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/KuceraM99","doi":"10.1007/3-540-48320-9_26","ee":"https://doi.org/10.1007/3-540-48320-9_26","url":"https://dblp.org/rec/conf/concur/KuceraM99"},
+"url":"URL#3795900"
+},
+{
+"@score":"1",
+"@id":"3795901",
+"info":{"authors":{"author":["Orna Kupferman","Moshe Y. Vardi"]},"title":"Robust Satisfaction.","venue":"CONCUR","pages":"383-398","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/KupfermanV99","doi":"10.1007/3-540-48320-9_27","ee":"https://doi.org/10.1007/3-540-48320-9_27","url":"https://dblp.org/rec/conf/concur/KupfermanV99"},
+"url":"URL#3795901"
+},
+{
+"@score":"1",
+"@id":"3795902",
+"info":{"authors":{"author":["Gerald Lüttgen","Michael von der Beeck","Rance Cleaveland"]},"title":"Statecharts Via Process Algebra.","venue":"CONCUR","pages":"399-414","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/LuttgenBC99","doi":"10.1007/3-540-48320-9_28","ee":"https://doi.org/10.1007/3-540-48320-9_28","url":"https://dblp.org/rec/conf/concur/LuttgenBC99"},
+"url":"URL#3795902"
+},
+{
+"@score":"1",
+"@id":"3795903",
+"info":{"authors":{"author":["José Meseguer","Carolyn L. Talcott"]},"title":"A Partial Order Event Model for Concurrent Objects.","venue":"CONCUR","pages":"415-430","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/MeseguerT99","doi":"10.1007/3-540-48320-9_29","ee":"https://doi.org/10.1007/3-540-48320-9_29","url":"https://dblp.org/rec/conf/concur/MeseguerT99"},
+"url":"URL#3795903"
+},
+{
+"@score":"1",
+"@id":"3795904",
+"info":{"authors":{"author":"Marius Minea"},"title":"Partial Order Reduction for Model Checking of Timed Automata.","venue":"CONCUR","pages":"431-446","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/Minea99","doi":"10.1007/3-540-48320-9_30","ee":"https://doi.org/10.1007/3-540-48320-9_30","url":"https://dblp.org/rec/conf/concur/Minea99"},
+"url":"URL#3795904"
+},
+{
+"@score":"1",
+"@id":"3795905",
+"info":{"authors":{"author":["Rémi Morin","Brigitte Rozoy"]},"title":"On the Semantics of Place/Transition Nets.","venue":"CONCUR","pages":"447-462","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/MorinR99","doi":"10.1007/3-540-48320-9_31","ee":"https://doi.org/10.1007/3-540-48320-9_31","url":"https://dblp.org/rec/conf/concur/MorinR99"},
+"url":"URL#3795905"
+},
+{
+"@score":"1",
+"@id":"3795906",
+"info":{"authors":{"author":["Flemming Nielson","Hanne Riis Nielson","René Rydhof Hansen","Jacob Grydholt Jensen"]},"title":"Validating Firewalls in Mobile Ambients.","venue":"CONCUR","pages":"463-477","year":"1999","type":"Conference and Workshop Papers","key":"conf/concur/NielsonNHJ99","doi":"10.1007/3-540-48320-9_32","ee":"https://doi.org/10.1007/3-540-48320-9_32","url":"https://dblp.org/rec/conf/concur/NielsonNHJ99"},
+"url":"URL#3795906"
+}
+]
+}
+}
+}

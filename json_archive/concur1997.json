@@ -7,7 +7,7 @@
 },
 "time":{
 "@unit":"msecs",
-"text":"105.08"
+"text":"121.37"
 },
 "completions":{
 "@total":"1",
@@ -17,7 +17,7 @@
 "@sc":"29",
 "@dc":"29",
 "@oc":"29",
-"@id":"13631302",
+"@id":"15380628",
 "text":":facetid:toc:db/conf/concur/concur1997.bht"
 }
 },
@@ -28,177 +28,177 @@
 "@first":"0",
 "hit":[{
 "@score":"1",
-"@id":"3916592",
+"@id":"4337466",
 "info":{"authors":{"author":["Martín Abadi","Andrew D. Gordon"]},"title":"Reasoning about Cryptographic Protocols in the Spi Calculus.","venue":"CONCUR","pages":"59-73","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/AbadiG97","doi":"10.1007/3-540-63141-0_5","ee":"https://doi.org/10.1007/3-540-63141-0_5","url":"https://dblp.org/rec/conf/concur/AbadiG97"},
-"url":"URL#3916592"
+"url":"URL#4337466"
 },
 {
 "@score":"1",
-"@id":"3916593",
+"@id":"4337467",
 "info":{"authors":{"author":["Rajeev Alur","Thomas A. Henzinger"]},"title":"Modularity for Timed and Hybrid Systems.","venue":"CONCUR","pages":"74-88","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/AlurH97","doi":"10.1007/3-540-63141-0_6","ee":"https://doi.org/10.1007/3-540-63141-0_6","url":"https://dblp.org/rec/conf/concur/AlurH97"},
-"url":"URL#3916593"
+"url":"URL#4337467"
 },
 {
 "@score":"1",
-"@id":"3916594",
+"@id":"4337468",
 "info":{"authors":{"author":["Henrik Reif Andersen","Simon Mørk","Morten Ulrik Sørensen"]},"title":"A Universal Reactive Machine.","venue":"CONCUR","pages":"89-103","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/AndersenMS97","doi":"10.1007/3-540-63141-0_7","ee":"https://doi.org/10.1007/3-540-63141-0_7","url":"https://dblp.org/rec/conf/concur/AndersenMS97"},
-"url":"URL#3916594"
+"url":"URL#4337468"
 },
 {
 "@score":"1",
-"@id":"3916595",
+"@id":"4337469",
 "info":{"authors":{"author":["Jos C. M. Baeten","Jan A. Bergstra"]},"title":"Bounded Stacks, Bags and Queues.","venue":"CONCUR","pages":"104-118","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/BaetenB97","doi":"10.1007/3-540-63141-0_8","ee":"https://doi.org/10.1007/3-540-63141-0_8","url":"https://dblp.org/rec/conf/concur/BaetenB97"},
-"url":"URL#3916595"
+"url":"URL#4337469"
 },
 {
 "@score":"1",
-"@id":"3916596",
+"@id":"4337470",
 "info":{"authors":{"author":["Girish Bhat","Doron A. Peled"]},"title":"Adding Partial Orders to Linear Temporal Logic.","venue":"CONCUR","pages":"119-134","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/BhatP97","doi":"10.1007/3-540-63141-0_9","ee":"https://doi.org/10.1007/3-540-63141-0_9","url":"https://dblp.org/rec/conf/concur/BhatP97"},
-"url":"URL#3916596"
+"url":"URL#4337470"
 },
 {
 "@score":"1",
-"@id":"3916597",
+"@id":"4337471",
 "info":{"authors":{"author":["Ahmed Bouajjani","Javier Esparza","Oded Maler"]},"title":"Reachability Analysis of Pushdown Automata - Application to Model-Checking.","venue":"CONCUR","pages":"135-150","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/BouajjaniEM97","doi":"10.1007/3-540-63141-0_10","ee":"https://doi.org/10.1007/3-540-63141-0_10","url":"https://dblp.org/rec/conf/concur/BouajjaniEM97"},
-"url":"URL#3916597"
+"url":"URL#4337471"
 },
 {
 "@score":"1",
-"@id":"3916598",
+"@id":"4337472",
 "info":{"authors":{"author":["Nadia Busi","G. Michele Pinna"]},"title":"Synthesis of Nets with Inhibitor Arcs.","venue":"CONCUR","pages":"151-165","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/BusiP97","doi":"10.1007/3-540-63141-0_11","ee":"https://doi.org/10.1007/3-540-63141-0_11","url":"https://dblp.org/rec/conf/concur/BusiP97"},
-"url":"URL#3916598"
+"url":"URL#4337472"
 },
 {
 "@score":"1",
-"@id":"3916599",
+"@id":"4337473",
 "info":{"authors":{"author":["Rance Cleaveland","Gerald Lüttgen","Michael Mendler"]},"title":"An Algebraic Theory of Multiple Clocks.","venue":"CONCUR","pages":"166-180","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/CleavelandLM97","doi":"10.1007/3-540-63141-0_12","ee":"https://doi.org/10.1007/3-540-63141-0_12","url":"https://dblp.org/rec/conf/concur/CleavelandLM97"},
-"url":"URL#3916599"
+"url":"URL#4337473"
 },
 {
 "@score":"1",
-"@id":"3916600",
+"@id":"4337474",
 "info":{"authors":{"author":["Hartmut Ehrig","Robert Geisler","Marcus Klar","Julia Padberg"]},"title":"Horizontal and Vertical Structuring Techniques for Statecharts.","venue":"CONCUR","pages":"181-195","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/EhrigGKP97","doi":"10.1007/3-540-63141-0_13","ee":"https://doi.org/10.1007/3-540-63141-0_13","url":"https://dblp.org/rec/conf/concur/EhrigGKP97"},
-"url":"URL#3916600"
+"url":"URL#4337474"
 },
 {
 "@score":"1",
-"@id":"3916601",
+"@id":"4337475",
 "info":{"authors":{"author":["Cédric Fournet","Cosimo Laneve","Luc Maranget","Didier Rémy"]},"title":"Implicit Typing à la ML for the Join-Calculus.","venue":"CONCUR","pages":"196-212","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/FournetLMR97","doi":"10.1007/3-540-63141-0_14","ee":"https://doi.org/10.1007/3-540-63141-0_14","url":"https://dblp.org/rec/conf/concur/FournetLMR97"},
-"url":"URL#3916601"
+"url":"URL#4337475"
 },
 {
 "@score":"1",
-"@id":"3916602",
+"@id":"4337476",
 "info":{"authors":{"author":["Laurent Fribourg","Hans Olsén"]},"title":"Proving Safety Properties of Infinite State Systems by Compilation into Presburger Arithmetic.","venue":"CONCUR","pages":"213-227","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/FribourgO97","doi":"10.1007/3-540-63141-0_15","ee":"https://doi.org/10.1007/3-540-63141-0_15","url":"https://dblp.org/rec/conf/concur/FribourgO97"},
-"url":"URL#3916602"
+"url":"URL#4337476"
 },
 {
 "@score":"1",
-"@id":"3916603",
+"@id":"4337477",
 "info":{"authors":{"author":"Rob J. van Glabbeek"},"title":"Axiomatizing Flat Iteration.","venue":"CONCUR","pages":"228-242","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/Glabbeek97","doi":"10.1007/3-540-63141-0_16","ee":"https://doi.org/10.1007/3-540-63141-0_16","url":"https://dblp.org/rec/conf/concur/Glabbeek97"},
-"url":"URL#3916603"
+"url":"URL#4337477"
 },
 {
 "@score":"1",
-"@id":"3916604",
+"@id":"4337478",
 "info":{"authors":{"author":"Jeremy Gunawardena"},"title":"Recent Developments in the Mathematics of Reactive Systems (Extended Abstract).","venue":"CONCUR","pages":"1-4","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/Gunawardena97","doi":"10.1007/3-540-63141-0_1","ee":"https://doi.org/10.1007/3-540-63141-0_1","url":"https://dblp.org/rec/conf/concur/Gunawardena97"},
-"url":"URL#3916604"
+"url":"URL#4337478"
 },
 {
 "@score":"1",
-"@id":"3916605",
+"@id":"4337479",
 "info":{"authors":{"author":["Vineet Gupta 0001","Radha Jagadeesan","Vijay A. Saraswat"]},"title":"Probabilistic Concurrent Constraint Programming.","venue":"CONCUR","pages":"243-257","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/GuptaJS97","doi":"10.1007/3-540-63141-0_17","ee":"https://doi.org/10.1007/3-540-63141-0_17","url":"https://dblp.org/rec/conf/concur/GuptaJS97"},
-"url":"URL#3916605"
+"url":"URL#4337479"
 },
 {
 "@score":"1",
-"@id":"3916606",
+"@id":"4337480",
 "info":{"authors":{"author":["David Harel","Orna Kupferman","Moshe Y. Vardi"]},"title":"On the Complexity of Verifying Concurrent Transition Systems.","venue":"CONCUR","pages":"258-272","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/HarelKV97","doi":"10.1007/3-540-63141-0_18","ee":"https://doi.org/10.1007/3-540-63141-0_18","url":"https://dblp.org/rec/conf/concur/HarelKV97"},
-"url":"URL#3916606"
+"url":"URL#4337480"
 },
 {
 "@score":"1",
-"@id":"3916607",
+"@id":"4337481",
 "info":{"authors":{"author":["Jesper G. Henriksen","P. S. Thiagarajan"]},"title":"A Product Version of Dynamic Linear Time Temporal Logic.","venue":"CONCUR","pages":"45-58","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/HenriksenT97","doi":"10.1007/3-540-63141-0_4","ee":"https://doi.org/10.1007/3-540-63141-0_4","url":"https://dblp.org/rec/conf/concur/HenriksenT97"},
-"url":"URL#3916607"
+"url":"URL#4337481"
 },
 {
 "@score":"1",
-"@id":"3916608",
+"@id":"4337482",
 "info":{"authors":{"author":["Thomas A. Henzinger","Orna Kupferman","Sriram K. Rajamani"]},"title":"Fair Simulation.","venue":"CONCUR","pages":"273-287","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/HenzingerKR97","doi":"10.1007/3-540-63141-0_19","ee":"https://doi.org/10.1007/3-540-63141-0_19","url":"https://dblp.org/rec/conf/concur/HenzingerKR97"},
-"url":"URL#3916608"
+"url":"URL#4337482"
 },
 {
 "@score":"1",
-"@id":"3916609",
+"@id":"4337483",
 "info":{"authors":{"author":["Hanna Klaudel","Robert-C. Riemann"]},"title":"High Level Expressions with their SOS Semantics (Extended Abstract).","venue":"CONCUR","pages":"288-301","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/KlaudelR97","doi":"10.1007/3-540-63141-0_20","ee":"https://doi.org/10.1007/3-540-63141-0_20","url":"https://dblp.org/rec/conf/concur/KlaudelR97"},
-"url":"URL#3916609"
+"url":"URL#4337483"
 },
 {
 "@score":"1",
-"@id":"3916610",
-"info":{"authors":{"author":"Antonín Kucera"},"title":"How to Parallelize Sequential Processes.","venue":"CONCUR","pages":"302-316","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/Kucera97","doi":"10.1007/3-540-63141-0_21","ee":"https://doi.org/10.1007/3-540-63141-0_21","url":"https://dblp.org/rec/conf/concur/Kucera97"},
-"url":"URL#3916610"
+"@id":"4337484",
+"info":{"authors":{"author":"Antonín Kucera 0001"},"title":"How to Parallelize Sequential Processes.","venue":"CONCUR","pages":"302-316","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/Kucera97","doi":"10.1007/3-540-63141-0_21","ee":"https://doi.org/10.1007/3-540-63141-0_21","url":"https://dblp.org/rec/conf/concur/Kucera97"},
+"url":"URL#4337484"
 },
 {
 "@score":"1",
-"@id":"3916611",
+"@id":"4337485",
 "info":{"authors":{"author":["Rom Langerak","Ed Brinksma","Joost-Pieter Katoen"]},"title":"Causal Ambiguity and Partial Orders in Event Structures.","venue":"CONCUR","pages":"317-331","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/LangerakBK97","doi":"10.1007/3-540-63141-0_22","ee":"https://doi.org/10.1007/3-540-63141-0_22","url":"https://dblp.org/rec/conf/concur/LangerakBK97"},
-"url":"URL#3916611"
+"url":"URL#4337485"
 },
 {
 "@score":"1",
-"@id":"3916612",
+"@id":"4337486",
 "info":{"authors":{"author":"Richard Mayr"},"title":"Model Checking PA-Processes.","venue":"CONCUR","pages":"332-346","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/Mayr97","doi":"10.1007/3-540-63141-0_23","ee":"https://doi.org/10.1007/3-540-63141-0_23","url":"https://dblp.org/rec/conf/concur/Mayr97"},
-"url":"URL#3916612"
+"url":"URL#4337486"
 },
 {
 "@score":"1",
-"@id":"3916613",
+"@id":"4337487",
 "info":{"authors":{"author":"Anna Patterson"},"title":"Bisimulation and Propositional Intuitionistic Logic.","venue":"CONCUR","pages":"347-360","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/Patterson97","doi":"10.1007/3-540-63141-0_24","ee":"https://doi.org/10.1007/3-540-63141-0_24","url":"https://dblp.org/rec/conf/concur/Patterson97"},
-"url":"URL#3916613"
+"url":"URL#4337487"
 },
 {
 "@score":"1",
-"@id":"3916614",
+"@id":"4337488",
 "info":{"authors":{"author":["Anna Philippou","David Walker"]},"title":"A Rigorous Analysis of Concurrent Operations on B-Trees.","venue":"CONCUR","pages":"361-375","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/PhilippouW97","doi":"10.1007/3-540-63141-0_25","ee":"https://doi.org/10.1007/3-540-63141-0_25","url":"https://dblp.org/rec/conf/concur/PhilippouW97"},
-"url":"URL#3916614"
+"url":"URL#4337488"
 },
 {
 "@score":"1",
-"@id":"3916615",
+"@id":"4337489",
 "info":{"authors":{"author":["Y. S. Ramakrishna","Scott A. Smolka"]},"title":"Partial-Order Reduction in the Weak Modal Mu-Calculus.","venue":"CONCUR","pages":"5-24","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/RamakrishnaS97","doi":"10.1007/3-540-63141-0_2","ee":"https://doi.org/10.1007/3-540-63141-0_2","url":"https://dblp.org/rec/conf/concur/RamakrishnaS97"},
-"url":"URL#3916615"
+"url":"URL#4337489"
 },
 {
 "@score":"1",
-"@id":"3916616",
+"@id":"4337490",
 "info":{"authors":{"author":"Peter Selinger"},"title":"First-Order Axioms for Asynchrony.","venue":"CONCUR","pages":"376-390","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/Selinger97","doi":"10.1007/3-540-63141-0_26","ee":"https://doi.org/10.1007/3-540-63141-0_26","url":"https://dblp.org/rec/conf/concur/Selinger97"},
-"url":"URL#3916616"
+"url":"URL#4337490"
 },
 {
 "@score":"1",
-"@id":"3916617",
+"@id":"4337491",
 "info":{"authors":{"author":"Peter Sewell"},"title":"On Implementations and Semantics of a Concurrent Programming Language.","venue":"CONCUR","pages":"391-405","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/Sewell97","doi":"10.1007/3-540-63141-0_27","ee":"https://doi.org/10.1007/3-540-63141-0_27","url":"https://dblp.org/rec/conf/concur/Sewell97"},
-"url":"URL#3916617"
+"url":"URL#4337491"
 },
 {
 "@score":"1",
-"@id":"3916618",
+"@id":"4337492",
 "info":{"authors":{"author":"M. W. Shields"},"title":"Cyclic Vector Languages.","venue":"CONCUR","pages":"25-44","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/Shields97","doi":"10.1007/3-540-63141-0_3","ee":"https://doi.org/10.1007/3-540-63141-0_3","url":"https://dblp.org/rec/conf/concur/Shields97"},
-"url":"URL#3916618"
+"url":"URL#4337492"
 },
 {
 "@score":"1",
-"@id":"3916619",
+"@id":"4337493",
 "info":{"authors":{"author":["Harro Wimmel","Lutz Priese"]},"title":"Algebraic Characterization of Petri Net Pomset Semantics.","venue":"CONCUR","pages":"406-420","year":"1997","type":"Conference and Workshop Papers","key":"conf/concur/WimmelP97","doi":"10.1007/3-540-63141-0_28","ee":"https://doi.org/10.1007/3-540-63141-0_28","url":"https://dblp.org/rec/conf/concur/WimmelP97"},
-"url":"URL#3916619"
+"url":"URL#4337493"
 },
 {
 "@score":"1",
-"@id":"3939138",
+"@id":"4361036",
 "info":{"authors":{"author":["Antoni W. Mazurkiewicz","Józef Winkowski"]},"title":"CONCUR &apos;97 - Concurrency Theory, 8th International Conference, Warsaw, Poland, July 1-4, 1997, Proceedings","venue":["CONCUR","Lecture Notes in Computer Science"],"volume":"1243","publisher":"Springer","year":"1997","type":"Editorship","key":"conf/concur/1997","doi":"10.1007/3-540-63141-0","ee":"https://doi.org/10.1007/3-540-63141-0","url":"https://dblp.org/rec/conf/concur/1997"},
-"url":"URL#3939138"
+"url":"URL#4361036"
 }
 ]
 }

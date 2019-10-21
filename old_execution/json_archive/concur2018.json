@@ -1,0 +1,212 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur2018\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"101.00"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"43",
+"@dc":"43",
+"@oc":"43",
+"@id":"13631323",
+"text":":facetid:toc:db/conf/concur/concur2018.bht"
+}
+},
+"hits":{
+"@total":"43",
+"@computed":"43",
+"@sent":"30",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"128478",
+"info":{"authors":{"author":["Sergey Goncharov 0001","Julian Jakob","Renato Neves"]},"title":"A Semantics for Hybrid Iteration.","venue":"CONCUR","pages":"22:1-22:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/0001JN18","doi":"10.4230/LIPICS.CONCUR.2018.22","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.22","url":"https://dblp.org/rec/conf/concur/0001JN18"},
+"url":"URL#128478"
+},
+{
+"@score":"1",
+"@id":"128479",
+"info":{"authors":{"author":["Parosh Aziz Abdulla","Mohamed Faouzi Atig","Radu Ciobanu","Richard Mayr","Patrick Totzke"]},"title":"Universal Safety for Timed Petri Nets is PSPACE-complete.","venue":"CONCUR","pages":"6:1-6:15","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/AbdullaACMT18","doi":"10.4230/LIPICS.CONCUR.2018.6","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.6","url":"https://dblp.org/rec/conf/concur/AbdullaACMT18"},
+"url":"URL#128479"
+},
+{
+"@score":"1",
+"@id":"128480",
+"info":{"authors":{"author":["Luca Aceto","Ian Cassar","Adrian Francalanza","Anna Ingólfsdóttir"]},"title":"On Runtime Enforcement via Suppressions.","venue":"CONCUR","pages":"34:1-34:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/AcetoCFI18","doi":"10.4230/LIPICS.CONCUR.2018.34","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.34","url":"https://dblp.org/rec/conf/concur/AcetoCFI18"},
+"url":"URL#128480"
+},
+{
+"@score":"1",
+"@id":"128481",
+"info":{"authors":{"author":["Shaull Almagor","Brynmor Chapman","Mehran Hosseini","Joël Ouaknine","James Worrell 0001"]},"title":"Effective Divergence Analysis for Linear Recurrence Sequences.","venue":"CONCUR","pages":"42:1-42:15","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/AlmagorCHO018","doi":"10.4230/LIPICS.CONCUR.2018.42","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.42","url":"https://dblp.org/rec/conf/concur/AlmagorCHO018"},
+"url":"URL#128481"
+},
+{
+"@score":"1",
+"@id":"128482",
+"info":{"authors":{"author":["Mohamed Faouzi Atig","Ahmed Bouajjani","K. Narayan Kumar","Prakash Saivasan"]},"title":"Verifying Quantitative Temporal Properties of Procedural Programs.","venue":"CONCUR","pages":"15:1-15:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/AtigBKS18","doi":"10.4230/LIPICS.CONCUR.2018.15","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.15","url":"https://dblp.org/rec/conf/concur/AtigBKS18"},
+"url":"URL#128482"
+},
+{
+"@score":"1",
+"@id":"128483",
+"info":{"authors":{"author":["Stephanie Balzer","Frank Pfenning","Bernardo Toninho"]},"title":"A Universal Session Type for Untyped Asynchronous Communication.","venue":"CONCUR","pages":"30:1-30:18","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/BalzerPT18","doi":"10.4230/LIPICS.CONCUR.2018.30","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.30","url":"https://dblp.org/rec/conf/concur/BalzerPT18"},
+"url":"URL#128483"
+},
+{
+"@score":"1",
+"@id":"128484",
+"info":{"authors":{"author":["Massimo Bartoletti","Laura Bocchi","Maurizio Murgia"]},"title":"Progress-Preserving Refinements of CTA.","venue":"CONCUR","pages":"40:1-40:19","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/BartolettiBM18","doi":"10.4230/LIPICS.CONCUR.2018.40","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.40","url":"https://dblp.org/rec/conf/concur/BartolettiBM18"},
+"url":"URL#128484"
+},
+{
+"@score":"1",
+"@id":"128485",
+"info":{"authors":{"author":["Michael Blondin","Javier Esparza","Antonín Kucera"]},"title":"Automatic Analysis of Expected Termination Time for Population Protocols.","venue":"CONCUR","pages":"33:1-33:16","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/BlondinEK18","doi":"10.4230/LIPICS.CONCUR.2018.33","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.33","url":"https://dblp.org/rec/conf/concur/BlondinEK18"},
+"url":"URL#128485"
+},
+{
+"@score":"1",
+"@id":"128486",
+"info":{"authors":{"author":["Michael Blondin","Christoph Haase","Filip Mazowiecki"]},"title":"Affine Extensions of Integer Vector Addition Systems with States.","venue":"CONCUR","pages":"14:1-14:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/BlondinHM18","doi":"10.4230/LIPICS.CONCUR.2018.14","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.14","url":"https://dblp.org/rec/conf/concur/BlondinHM18"},
+"url":"URL#128486"
+},
+{
+"@score":"1",
+"@id":"128487",
+"info":{"authors":{"author":["Benedikt Bollig","Marie Fortin","Paul Gastin"]},"title":"It Is Easy to Be Wise After the Event - Communicating Finite-State Machines Capture First-Order Logic with &quot;Happened Before&quot;.","venue":"CONCUR","pages":"7:1-7:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/BolligFG18","doi":"10.4230/LIPICS.CONCUR.2018.7","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.7","url":"https://dblp.org/rec/conf/concur/BolligFG18"},
+"url":"URL#128487"
+},
+{
+"@score":"1",
+"@id":"128488",
+"info":{"authors":{"author":["Filippo Bonchi","Barbara König 0001","Daniela Petrisan"]},"title":"Up-To Techniques for Behavioural Metrics via Fibrations.","venue":"CONCUR","pages":"17:1-17:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/Bonchi0P18","doi":"10.4230/LIPICS.CONCUR.2018.17","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.17","url":"https://dblp.org/rec/conf/concur/Bonchi0P18"},
+"url":"URL#128488"
+},
+{
+"@score":"1",
+"@id":"128489",
+"info":{"authors":{"author":"Tomasz Brengos"},"title":"A Coalgebraic Take on Regular and omega-Regular Behaviour for Systems with Internal Moves.","venue":"CONCUR","pages":"25:1-25:18","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/Brengos18","doi":"10.4230/LIPICS.CONCUR.2018.25","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.25","url":"https://dblp.org/rec/conf/concur/Brengos18"},
+"url":"URL#128489"
+},
+{
+"@score":"1",
+"@id":"128490",
+"info":{"authors":{"author":["Véronique Bruyère","Quentin Hautem","Jean-François Raskin"]},"title":"Parameterized complexity of games with monotonically ordered omega-regular objectives.","venue":"CONCUR","pages":"29:1-29:16","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/BruyereHR18","doi":"10.4230/LIPICS.CONCUR.2018.29","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.29","url":"https://dblp.org/rec/conf/concur/BruyereHR18"},
+"url":"URL#128490"
+},
+{
+"@score":"1",
+"@id":"128491",
+"info":{"authors":{"author":["Benjamin Cabrera","Tobias Heindel","Reiko Heckel","Barbara König 0001"]},"title":"Updating Probabilistic Knowledge on Condition/Event Nets using Bayesian Networks.","venue":"CONCUR","pages":"27:1-27:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/CabreraHH018","doi":"10.4230/LIPICS.CONCUR.2018.27","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.27","url":"https://dblp.org/rec/conf/concur/CabreraHH018"},
+"url":"URL#128491"
+},
+{
+"@score":"1",
+"@id":"128492",
+"info":{"authors":{"author":["Krishnendu Chatterjee","Amir Kafshdar Goharshady","Rasmus Ibsen-Jensen","Yaron Velner"]},"title":"Ergodic Mean-Payoff Games for the Analysis of Attacks in Crypto-Currencies.","venue":"CONCUR","pages":"11:1-11:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/ChatterjeeGIV18","doi":"10.4230/LIPICS.CONCUR.2018.11","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.11","url":"https://dblp.org/rec/conf/concur/ChatterjeeGIV18"},
+"url":"URL#128492"
+},
+{
+"@score":"1",
+"@id":"128493",
+"info":{"authors":{"author":["Rodica Condurache","Youssouf Oualhadj","Nicolas Troquard"]},"title":"The Complexity of Rational Synthesis for Concurrent Games.","venue":"CONCUR","pages":"38:1-38:15","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/ConduracheOT18","doi":"10.4230/LIPICS.CONCUR.2018.38","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.38","url":"https://dblp.org/rec/conf/concur/ConduracheOT18"},
+"url":"URL#128493"
+},
+{
+"@score":"1",
+"@id":"128494",
+"info":{"authors":{"author":["Wojciech Czerwinski","Slawomir Lasota","Roland Meyer","Sebastian Muskalla","K. Narayan Kumar","Prakash Saivasan"]},"title":"Regular Separability of Well-Structured Transition Systems.","venue":"CONCUR","pages":"35:1-35:18","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/CzerwinskiLMMKS18","doi":"10.4230/LIPICS.CONCUR.2018.35","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.35","url":"https://dblp.org/rec/conf/concur/CzerwinskiLMMKS18"},
+"url":"URL#128494"
+},
+{
+"@score":"1",
+"@id":"128495",
+"info":{"authors":{"author":"Yuxin Deng"},"title":"Bisimulations for Probabilistic and Quantum Processes (Invited Paper).","venue":"CONCUR","pages":"2:1-2:14","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/Deng18","doi":"10.4230/LIPICS.CONCUR.2018.2","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.2","url":"https://dblp.org/rec/conf/concur/Deng18"},
+"url":"URL#128495"
+},
+{
+"@score":"1",
+"@id":"128496",
+"info":{"authors":{"author":["Amina Doumane","Damien Pous"]},"title":"Completeness for Identity-free Kleene Lattices.","venue":"CONCUR","pages":"18:1-18:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/DoumaneP18","doi":"10.4230/LIPICS.CONCUR.2018.18","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.18","url":"https://dblp.org/rec/conf/concur/DoumaneP18"},
+"url":"URL#128496"
+},
+{
+"@score":"1",
+"@id":"128497",
+"info":{"authors":{"author":["Javier Esparza","Pierre Ganty","Rupak Majumdar","Chana Weil-Kennedy"]},"title":"Verification of Immediate Observation Population Protocols.","venue":"CONCUR","pages":"31:1-31:16","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/EsparzaGMW18","doi":"10.4230/LIPICS.CONCUR.2018.31","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.31","url":"https://dblp.org/rec/conf/concur/EsparzaGMW18"},
+"url":"URL#128497"
+},
+{
+"@score":"1",
+"@id":"128498",
+"info":{"authors":{"author":["Paulin Fournier","Hugo Gimbert"]},"title":"Alternating Nonzero Automata.","venue":"CONCUR","pages":"13:1-13:16","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/FournierG18","doi":"10.4230/LIPICS.CONCUR.2018.13","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.13","url":"https://dblp.org/rec/conf/concur/FournierG18"},
+"url":"URL#128498"
+},
+{
+"@score":"1",
+"@id":"128499",
+"info":{"authors":{"author":["Paul Gastin","Sayan Mukherjee","B. Srivathsan"]},"title":"Reachability in Timed Automata with Diagonal Constraints.","venue":"CONCUR","pages":"28:1-28:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/GastinMS18","doi":"10.4230/LIPICS.CONCUR.2018.28","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.28","url":"https://dblp.org/rec/conf/concur/GastinMS18"},
+"url":"URL#128499"
+},
+{
+"@score":"1",
+"@id":"128500",
+"info":{"authors":{"author":"Rob van Glabbeek"},"title":"Is Speed-Independent Mutual Exclusion Implementable? (Invited Talk).","venue":"CONCUR","pages":"3:1-3:1","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/Glabbeek18","doi":"10.4230/LIPICS.CONCUR.2018.3","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.3","url":"https://dblp.org/rec/conf/concur/Glabbeek18"},
+"url":"URL#128500"
+},
+{
+"@score":"1",
+"@id":"128501",
+"info":{"authors":{"author":["Andrey Gorlin","C. R. Ramakrishnan"]},"title":"Separable GPL - Decidable Model Checking with More Non-Determinism.","venue":"CONCUR","pages":"36:1-36:16","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/GorlinR18","doi":"10.4230/LIPICS.CONCUR.2018.36","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.36","url":"https://dblp.org/rec/conf/concur/GorlinR18"},
+"url":"URL#128501"
+},
+{
+"@score":"1",
+"@id":"128502",
+"info":{"authors":{"author":["Radu Grigore","Stefan Kiefer"]},"title":"Selective Monitoring.","venue":"CONCUR","pages":"20:1-20:16","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/GrigoreK18","doi":"10.4230/LIPICS.CONCUR.2018.20","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.20","url":"https://dblp.org/rec/conf/concur/GrigoreK18"},
+"url":"URL#128502"
+},
+{
+"@score":"1",
+"@id":"128503",
+"info":{"authors":{"author":"Ichiro Hasuo"},"title":"Coalgebraic Theory of Büchi and Parity Automata - Fixed-Point Specifications, Categorically (Invited Tutorial).","venue":"CONCUR","pages":"5:1-5:2","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/Hasuo18","doi":"10.4230/LIPICS.CONCUR.2018.5","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.5","url":"https://dblp.org/rec/conf/concur/Hasuo18"},
+"url":"URL#128503"
+},
+{
+"@score":"1",
+"@id":"128504",
+"info":{"authors":{"author":["Piotr Hofman","Slawomir Lasota"]},"title":"Linear Equations with Ordered Data.","venue":"CONCUR","pages":"24:1-24:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/HofmanL18","doi":"10.4230/LIPICS.CONCUR.2018.24","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.24","url":"https://dblp.org/rec/conf/concur/HofmanL18"},
+"url":"URL#128504"
+},
+{
+"@score":"1",
+"@id":"128505",
+"info":{"authors":{"author":["Barbara König 0001","Christina Mika-Michalski"]},"title":"(Metric) Bisimulation Games and Real-Valued Modal Logics for Coalgebras.","venue":"CONCUR","pages":"37:1-37:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/KonigM18","doi":"10.4230/LIPICS.CONCUR.2018.37","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.37","url":"https://dblp.org/rec/conf/concur/KonigM18"},
+"url":"URL#128505"
+},
+{
+"@score":"1",
+"@id":"128506",
+"info":{"authors":{"author":["Bernhard Kragl","Shaz Qadeer","Thomas A. Henzinger"]},"title":"Synchronizing the Asynchronous.","venue":"CONCUR","pages":"21:1-21:17","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/KraglQH18","doi":"10.4230/LIPICS.CONCUR.2018.21","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.21","url":"https://dblp.org/rec/conf/concur/KraglQH18"},
+"url":"URL#128506"
+},
+{
+"@score":"1",
+"@id":"128507",
+"info":{"authors":{"author":["Jan Kretínský","Guillermo A. Pérez","Jean-François Raskin"]},"title":"Learning-Based Mean-Payoff Optimization in an Unknown MDP under Omega-Regular Constraints.","venue":"CONCUR","pages":"8:1-8:18","year":"2018","type":"Conference and Workshop Papers","key":"conf/concur/KretinskyPR18","doi":"10.4230/LIPICS.CONCUR.2018.8","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2018.8","url":"https://dblp.org/rec/conf/concur/KretinskyPR18"},
+"url":"URL#128507"
+}
+]
+}
+}
+}

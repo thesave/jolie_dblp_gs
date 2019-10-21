@@ -1,0 +1,290 @@
+{
+"result":{
+"query":":facetid:toc:db\"/\"conf\"/\"concur\"/\"concur2019\".\"bht",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"122.97"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"43",
+"@dc":"43",
+"@oc":"43",
+"@id":"15380650",
+"text":":facetid:toc:db/conf/concur/concur2019.bht"
+}
+},
+"hits":{
+"@total":"43",
+"@computed":"43",
+"@sent":"43",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"134758",
+"info":{"authors":{"author":["Milad Aghajohari","Guy Avni","Thomas A. Henzinger"]},"title":"Determinacy in Discrete-Bidding Infinite-Duration Games.","venue":"CONCUR","pages":"20:1-20:17","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/AghajohariAH19","doi":"10.4230/LIPICS.CONCUR.2019.20","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.20","url":"https://dblp.org/rec/conf/concur/AghajohariAH19"},
+"url":"URL#134758"
+},
+{
+"@score":"1",
+"@id":"134759",
+"info":{"authors":{"author":["Giorgio Bacci","Giovanni Bacci 0001","Kim G. Larsen","Radu Mardare","Qiyi Tang","Franck van Breugel"]},"title":"Computing Probabilistic Bisimilarity Distances for Probabilistic Automata.","venue":"CONCUR","pages":"9:1-9:17","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BacciBLMTB19","doi":"10.4230/LIPICS.CONCUR.2019.9","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.9","url":"https://dblp.org/rec/conf/concur/BacciBLMTB19"},
+"url":"URL#134759"
+},
+{
+"@score":"1",
+"@id":"134760",
+"info":{"authors":{"author":["Sidi Mohamed Beillahi","Ahmed Bouajjani","Constantin Enea"]},"title":"Robustness Against Transactional Causal Consistency.","venue":"CONCUR","pages":"30:1-30:18","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BeillahiBE19","doi":"10.4230/LIPICS.CONCUR.2019.30","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.30","url":"https://dblp.org/rec/conf/concur/BeillahiBE19"},
+"url":"URL#134760"
+},
+{
+"@score":"1",
+"@id":"134761",
+"info":{"authors":{"author":["Nathalie Bertrand 0001","Patricia Bouyer","Anirban Majumdar 0002"]},"title":"Reconfiguration and Message Losses in Parameterized Broadcast Networks.","venue":"CONCUR","pages":"32:1-32:15","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BertrandBM19","doi":"10.4230/LIPICS.CONCUR.2019.32","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.32","url":"https://dblp.org/rec/conf/concur/BertrandBM19"},
+"url":"URL#134761"
+},
+{
+"@score":"1",
+"@id":"134762",
+"info":{"authors":{"author":["Nathalie Bertrand 0001","Igor Konnov 0001","Marijana Lazic","Josef Widder"]},"title":"Verification of Randomized Consensus Algorithms Under Round-Rigid Adversaries.","venue":"CONCUR","pages":"33:1-33:15","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BertrandKLW19","doi":"10.4230/LIPICS.CONCUR.2019.33","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.33","url":"https://dblp.org/rec/conf/concur/BertrandKLW19"},
+"url":"URL#134762"
+},
+{
+"@score":"1",
+"@id":"134763",
+"info":{"authors":{"author":["Raven Beutner","Bernd Finkbeiner","Jesko Hecking-Harbusch"]},"title":"Translating Asynchronous Games for Distributed Synthesis.","venue":"CONCUR","pages":"26:1-26:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BeutnerFH19","doi":"10.4230/LIPICS.CONCUR.2019.26","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.26","url":"https://dblp.org/rec/conf/concur/BeutnerFH19"},
+"url":"URL#134763"
+},
+{
+"@score":"1",
+"@id":"134764",
+"info":{"authors":{"author":["Michael Blondin","Javier Esparza","Stefan Jaax"]},"title":"Expressive Power of Broadcast Consensus Protocols.","venue":"CONCUR","pages":"31:1-31:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BlondinEJ19","doi":"10.4230/LIPICS.CONCUR.2019.31","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.31","url":"https://dblp.org/rec/conf/concur/BlondinEJ19"},
+"url":"URL#134764"
+},
+{
+"@score":"1",
+"@id":"134765",
+"info":{"authors":{"author":["Udi Boker","Karoliina Lehtinen"]},"title":"Good for Games Automata - From Nondeterminism to Alternation.","venue":"CONCUR","pages":"19:1-19:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BokerL19","doi":"10.4230/LIPICS.CONCUR.2019.19","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.19","url":"https://dblp.org/rec/conf/concur/BokerL19"},
+"url":"URL#134765"
+},
+{
+"@score":"1",
+"@id":"134766",
+"info":{"authors":{"author":["Filippo Bonchi","Robin Piedeleu","Pawel Sobocinski","Fabio Zanasi"]},"title":"Bialgebraic Semantics for String Diagrams.","venue":"CONCUR","pages":"37:1-37:17","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BonchiPSZ19","doi":"10.4230/LIPICS.CONCUR.2019.37","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.37","url":"https://dblp.org/rec/conf/concur/BonchiPSZ19"},
+"url":"URL#134766"
+},
+{
+"@score":"1",
+"@id":"134767",
+"info":{"authors":{"author":["Frederik M. Bønneland","Peter Gjøl Jensen","Kim G. Larsen","Marco Muñiz","Jirí Srba"]},"title":"Partial Order Reduction for Reachability Games.","venue":"CONCUR","pages":"23:1-23:15","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BonnelandJLMS19","doi":"10.4230/LIPICS.CONCUR.2019.23","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.23","url":"https://dblp.org/rec/conf/concur/BonnelandJLMS19"},
+"url":"URL#134767"
+},
+{
+"@score":"1",
+"@id":"134768",
+"info":{"authors":{"author":["Mario Bravetti","Marco Carbone","Julien Lange","Nobuko Yoshida","Gianluigi Zavattaro"]},"title":"A Sound Algorithm for Asynchronous Session Subtyping.","venue":"CONCUR","pages":"38:1-38:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BravettiCLYZ19","doi":"10.4230/LIPICS.CONCUR.2019.38","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.38","url":"https://dblp.org/rec/conf/concur/BravettiCLYZ19"},
+"url":"URL#134768"
+},
+{
+"@score":"1",
+"@id":"134769",
+"info":{"authors":{"author":["Thomas Brihaye","Véronique Bruyère","Aline Goeminne","Jean-François Raskin","Marie van den Bogaard"]},"title":"The Complexity of Subgame Perfect Equilibria in Quantitative Reachability Games.","venue":"CONCUR","pages":"13:1-13:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BrihayeBGRB19","doi":"10.4230/LIPICS.CONCUR.2019.13","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.13","url":"https://dblp.org/rec/conf/concur/BrihayeBGRB19"},
+"url":"URL#134769"
+},
+{
+"@score":"1",
+"@id":"134770",
+"info":{"authors":{"author":["Thomas Brihaye","Florent Delgrange","Youssouf Oualhadj","Mickael Randour"]},"title":"Life Is Random, Time Is Not - Markov Decision Processes with Window Objectives.","venue":"CONCUR","pages":"8:1-8:18","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BrihayeDOR19","doi":"10.4230/LIPICS.CONCUR.2019.8","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.8","url":"https://dblp.org/rec/conf/concur/BrihayeDOR19"},
+"url":"URL#134770"
+},
+{
+"@score":"1",
+"@id":"134771",
+"info":{"authors":{"author":["Véronique Bruyère","Quentin Hautem","Mickael Randour","Jean-François Raskin"]},"title":"Energy Mean-Payoff Games.","venue":"CONCUR","pages":"21:1-21:17","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/BruyereHRR19","doi":"10.4230/LIPICS.CONCUR.2019.21","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.21","url":"https://dblp.org/rec/conf/concur/BruyereHRR19"},
+"url":"URL#134771"
+},
+{
+"@score":"1",
+"@id":"134772",
+"info":{"authors":{"author":["Luís Caires","Jorge A. Pérez","Frank Pfenning","Bernardo Toninho"]},"title":"Domain-Aware Session Types.","venue":"CONCUR","pages":"39:1-39:17","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/CairesPPT19","doi":"10.4230/LIPICS.CONCUR.2019.39","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.39","url":"https://dblp.org/rec/conf/concur/CairesPPT19"},
+"url":"URL#134772"
+},
+{
+"@score":"1",
+"@id":"134773",
+"info":{"authors":{"author":["Krishnendu Chatterjee","Wolfgang Dvorák","Monika Henzinger","Alexander Svozil"]},"title":"Near-Linear Time Algorithms for Streett Objectives in Graphs and MDPs.","venue":"CONCUR","pages":"7:1-7:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/ChatterjeeDHS19","doi":"10.4230/LIPICS.CONCUR.2019.7","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.7","url":"https://dblp.org/rec/conf/concur/ChatterjeeDHS19"},
+"url":"URL#134773"
+},
+{
+"@score":"1",
+"@id":"134774",
+"info":{"authors":{"author":["Krishnendu Chatterjee","Thomas A. Henzinger","Jan Otop"]},"title":"Long-Run Average Behavior of Vector Addition Systems with States.","venue":"CONCUR","pages":"27:1-27:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/ChatterjeeHO19","doi":"10.4230/LIPICS.CONCUR.2019.27","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.27","url":"https://dblp.org/rec/conf/concur/ChatterjeeHO19"},
+"url":"URL#134774"
+},
+{
+"@score":"1",
+"@id":"134775",
+"info":{"authors":{"author":["Krishnendu Chatterjee","Nir Piterman"]},"title":"Combinations of Qualitative Winning for Stochastic Parity Games.","venue":"CONCUR","pages":"6:1-6:17","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/ChatterjeeP19","doi":"10.4230/LIPICS.CONCUR.2019.6","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.6","url":"https://dblp.org/rec/conf/concur/ChatterjeeP19"},
+"url":"URL#134775"
+},
+{
+"@score":"1",
+"@id":"134776",
+"info":{"authors":{"author":["Dmitry Chistikov","Andrzej S. Murawski","David Purser"]},"title":"Asymmetric Distances for Approximate Differential Privacy.","venue":"CONCUR","pages":"10:1-10:17","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/ChistikovMP19","doi":"10.4230/LIPICS.CONCUR.2019.10","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.10","url":"https://dblp.org/rec/conf/concur/ChistikovMP19"},
+"url":"URL#134776"
+},
+{
+"@score":"1",
+"@id":"134777",
+"info":{"authors":{"author":["Lorenzo Clemente","Piotr Hofman","Patrick Totzke"]},"title":"Timed Basic Parallel Processes.","venue":"CONCUR","pages":"15:1-15:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/ClementeHT19","doi":"10.4230/LIPICS.CONCUR.2019.15","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.15","url":"https://dblp.org/rec/conf/concur/ClementeHT19"},
+"url":"URL#134777"
+},
+{
+"@score":"1",
+"@id":"134778",
+"info":{"authors":{"author":["Laure Daviaud","Marcin Jurdzinski","Karoliina Lehtinen"]},"title":"Alternating Weak Automata from Universal Trees.","venue":"CONCUR","pages":"18:1-18:14","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/DaviaudJL19","doi":"10.4230/LIPICS.CONCUR.2019.18","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.18","url":"https://dblp.org/rec/conf/concur/DaviaudJL19"},
+"url":"URL#134778"
+},
+{
+"@score":"1",
+"@id":"134779",
+"info":{"authors":{"author":["Ulrich Dorsch","Stefan Milius","Lutz Schröder"]},"title":"Graded Monads and Graded Logics for the Linear Time - Branching Time Spectrum.","venue":"CONCUR","pages":"36:1-36:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/DorschMS19","doi":"10.4230/LIPICS.CONCUR.2019.36","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.36","url":"https://dblp.org/rec/conf/concur/DorschMS19"},
+"url":"URL#134779"
+},
+{
+"@score":"1",
+"@id":"134780",
+"info":{"authors":{"author":["Léo Exibard","Emmanuel Filiot","Pierre-Alain Reynier"]},"title":"Synthesis of Data Word Transducers.","venue":"CONCUR","pages":"24:1-24:15","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/ExibardFR19","doi":"10.4230/LIPICS.CONCUR.2019.24","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.24","url":"https://dblp.org/rec/conf/concur/ExibardFR19"},
+"url":"URL#134780"
+},
+{
+"@score":"1",
+"@id":"134781",
+"info":{"authors":{"author":["Alain Finkel","M. Praveen"]},"title":"Verification of Flat FIFO Systems.","venue":"CONCUR","pages":"12:1-12:17","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/FinkelP19","doi":"10.4230/LIPICS.CONCUR.2019.12","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.12","url":"https://dblp.org/rec/conf/concur/FinkelP19"},
+"url":"URL#134781"
+},
+{
+"@score":"1",
+"@id":"134782",
+"info":{"authors":{"author":["R. Govind","Frédéric Herbreteau","B. Srivathsan","Igor Walukiewicz"]},"title":"Revisiting Local Time Semantics for Networks of Timed Automata.","venue":"CONCUR","pages":"16:1-16:15","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/GovindHSW19","doi":"10.4230/LIPICS.CONCUR.2019.16","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.16","url":"https://dblp.org/rec/conf/concur/GovindHSW19"},
+"url":"URL#134782"
+},
+{
+"@score":"1",
+"@id":"134783",
+"info":{"authors":{"author":["Julian Gutierrez 0001","Muhammad Najib","Giuseppe Perelli","Michael J. Wooldridge"]},"title":"Equilibrium Design for Concurrent Games.","venue":"CONCUR","pages":"22:1-22:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/GutierrezNPW19","doi":"10.4230/LIPICS.CONCUR.2019.22","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.22","url":"https://dblp.org/rec/conf/concur/GutierrezNPW19"},
+"url":"URL#134783"
+},
+{
+"@score":"1",
+"@id":"134784",
+"info":{"authors":{"author":["Michell Guzmán","Sophia Knight","Santiago Quintero","Sergio Ramírez","Camilo Rueda","Frank Valencia"]},"title":"Reasoning About Distributed Knowledge of Groups with Infinitely Many Agents.","venue":"CONCUR","pages":"29:1-29:15","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/GuzmanKQRRV19","doi":"10.4230/LIPICS.CONCUR.2019.29","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.29","url":"https://dblp.org/rec/conf/concur/GuzmanKQRRV19"},
+"url":"URL#134784"
+},
+{
+"@score":"1",
+"@id":"134785",
+"info":{"authors":{"author":["Daniel Hausmann","Lutz Schröder"]},"title":"Game-Based Local Model Checking for the Coalgebraic mu-Calculus.","venue":"CONCUR","pages":"35:1-35:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/HausmannS19","doi":"10.4230/LIPICS.CONCUR.2019.35","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.35","url":"https://dblp.org/rec/conf/concur/HausmannS19"},
+"url":"URL#134785"
+},
+{
+"@score":"1",
+"@id":"134786",
+"info":{"authors":{"author":["Tobias Kappé","Paul Brunet","Jurriaan Rot","Alexandra Silva 0001","Jana Wagemaker","Fabio Zanasi"]},"title":"Kleene Algebra with Observations.","venue":"CONCUR","pages":"41:1-41:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/KappeBRSWZ19","doi":"10.4230/LIPICS.CONCUR.2019.41","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.41","url":"https://dblp.org/rec/conf/concur/KappeBRSWZ19"},
+"url":"URL#134786"
+},
+{
+"@score":"1",
+"@id":"134787",
+"info":{"authors":{"author":["Ayrat Khalimov","Orna Kupferman"]},"title":"Register-Bounded Synthesis.","venue":"CONCUR","pages":"25:1-25:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/KhalimovK19","doi":"10.4230/LIPICS.CONCUR.2019.25","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.25","url":"https://dblp.org/rec/conf/concur/KhalimovK19"},
+"url":"URL#134787"
+},
+{
+"@score":"1",
+"@id":"134788",
+"info":{"authors":{"author":["Jan Kretínský","Tobias Meggendorfer"]},"title":"Of Cores - A Partial-Exploration Framework for Markov Decision Processes.","venue":"CONCUR","pages":"5:1-5:17","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/KretinskyM19","doi":"10.4230/LIPICS.CONCUR.2019.5","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.5","url":"https://dblp.org/rec/conf/concur/KretinskyM19"},
+"url":"URL#134788"
+},
+{
+"@score":"1",
+"@id":"134789",
+"info":{"authors":{"author":"Marta Z. Kwiatkowska"},"title":"Safety Verification for Deep Neural Networks with Provable Guarantees (Invited Paper).","venue":"CONCUR","pages":"1:1-1:5","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/Kwiatkowska19","doi":"10.4230/LIPICS.CONCUR.2019.1","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.1","url":"https://dblp.org/rec/conf/concur/Kwiatkowska19"},
+"url":"URL#134789"
+},
+{
+"@score":"1",
+"@id":"134790",
+"info":{"authors":{"author":"Kim G. Larsen"},"title":"Synthesis of Safe, Optimal and Compact Strategies for Stochastic Hybrid Games (Invited Paper).","venue":"CONCUR","pages":"2:1-2:5","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/Larsen19","doi":"10.4230/LIPICS.CONCUR.2019.2","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.2","url":"https://dblp.org/rec/conf/concur/Larsen19"},
+"url":"URL#134790"
+},
+{
+"@score":"1",
+"@id":"134791",
+"info":{"authors":{"author":["Jérémy Ledent","Samuel Mimram"]},"title":"A Sound Foundation for the Topological Approach to Task Solvability.","venue":"CONCUR","pages":"34:1-34:15","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/LedentM19","doi":"10.4230/LIPICS.CONCUR.2019.34","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.34","url":"https://dblp.org/rec/conf/concur/LedentM19"},
+"url":"URL#134791"
+},
+{
+"@score":"1",
+"@id":"134792",
+"info":{"authors":{"author":["Hendrik Maarand","Tarmo Uustalu"]},"title":"Reordering Derivatives of Trace Closures of Regular Languages.","venue":"CONCUR","pages":"40:1-40:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/MaarandU19","doi":"10.4230/LIPICS.CONCUR.2019.40","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.40","url":"https://dblp.org/rec/conf/concur/MaarandU19"},
+"url":"URL#134792"
+},
+{
+"@score":"1",
+"@id":"134793",
+"info":{"authors":{"author":["Filip Mazowiecki","Michal Pilipczuk"]},"title":"Reachability for Bounded Branching VASS.","venue":"CONCUR","pages":"28:1-28:13","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/MazowieckiP19","doi":"10.4230/LIPICS.CONCUR.2019.28","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.28","url":"https://dblp.org/rec/conf/concur/MazowieckiP19"},
+"url":"URL#134793"
+},
+{
+"@score":"1",
+"@id":"134794",
+"info":{"authors":{"author":["Jakub Michaliszyn","Jan Otop"]},"title":"Approximate Learning of Limit-Average Automata.","venue":"CONCUR","pages":"17:1-17:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/MichaliszynO19","doi":"10.4230/LIPICS.CONCUR.2019.17","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.17","url":"https://dblp.org/rec/conf/concur/MichaliszynO19"},
+"url":"URL#134794"
+},
+{
+"@score":"1",
+"@id":"134795",
+"info":{"authors":{"author":"Joël Ouaknine"},"title":"Program Invariants (Invited Talk).","venue":"CONCUR","pages":"3:1-3:1","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/Ouaknine19","doi":"10.4230/LIPICS.CONCUR.2019.3","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.3","url":"https://dblp.org/rec/conf/concur/Ouaknine19"},
+"url":"URL#134795"
+},
+{
+"@score":"1",
+"@id":"134796",
+"info":{"authors":{"author":"Jaco van de Pol"},"title":"Concurrent Algorithms and Data Structures for Model Checking (Invited Talk).","venue":"CONCUR","pages":"4:1-4:1","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/Pol19","doi":"10.4230/LIPICS.CONCUR.2019.4","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.4","url":"https://dblp.org/rec/conf/concur/Pol19"},
+"url":"URL#134796"
+},
+{
+"@score":"1",
+"@id":"134797",
+"info":{"authors":{"author":"Marc de Visme"},"title":"Event Structures for Mixed Choice.","venue":"CONCUR","pages":"11:1-11:16","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/Visme19","doi":"10.4230/LIPICS.CONCUR.2019.11","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.11","url":"https://dblp.org/rec/conf/concur/Visme19"},
+"url":"URL#134797"
+},
+{
+"@score":"1",
+"@id":"134798",
+"info":{"authors":{"author":["Tobias Winkler","Sebastian Junges","Guillermo A. Pérez","Joost-Pieter Katoen"]},"title":"On the Complexity of Reachability in Parametric Markov Decision Processes.","venue":"CONCUR","pages":"14:1-14:17","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/WinklerJPK19","doi":"10.4230/LIPICS.CONCUR.2019.14","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.14","url":"https://dblp.org/rec/conf/concur/WinklerJPK19"},
+"url":"URL#134798"
+},
+{
+"@score":"1",
+"@id":"134799",
+"info":{"title":"Front Matter, Table of Contents, Preface, Conference Organization.","venue":"CONCUR","pages":"0:1-0:14","year":"2019","type":"Conference and Workshop Papers","key":"conf/concur/X19","doi":"10.4230/LIPICS.CONCUR.2019.0","ee":"https://doi.org/10.4230/LIPIcs.CONCUR.2019.0","url":"https://dblp.org/rec/conf/concur/X19"},
+"url":"URL#134799"
+},
+{
+"@score":"1",
+"@id":"208226",
+"info":{"authors":{"author":["Wan Fokkink","Rob van Glabbeek"]},"title":"30th International Conference on Concurrency Theory, CONCUR 2019, August 27-30, 2019, Amsterdam, the Netherlands.","venue":["CONCUR","LIPIcs"],"volume":"140","publisher":"Schloss Dagstuhl - Leibniz-Zentrum für Informatik","year":"2019","type":"Editorship","key":"conf/concur/2019","ee":"http://www.dagstuhl.de/dagpub/978-3-95977-121-4","url":"https://dblp.org/rec/conf/concur/2019"},
+"url":"URL#208226"
+}
+]
+}
+}
+}

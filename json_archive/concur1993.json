@@ -7,7 +7,7 @@
 },
 "time":{
 "@unit":"msecs",
-"text":"101.13"
+"text":"122.45"
 },
 "completions":{
 "@total":"1",
@@ -17,194 +17,242 @@
 "@sc":"38",
 "@dc":"38",
 "@oc":"38",
-"@id":"13631298",
+"@id":"15380624",
 "text":":facetid:toc:db/conf/concur/concur1993.bht"
 }
 },
 "hits":{
 "@total":"38",
 "@computed":"38",
-"@sent":"30",
+"@sent":"38",
 "@first":"0",
 "hit":[{
 "@score":"1",
-"@id":"4095323",
+"@id":"4520045",
 "info":{"authors":{"author":["Luca Aceto","David Murphy"]},"title":"On the Ill-Timed but Well-Caused.","venue":"CONCUR","pages":"97-111","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/AcetoM93","doi":"10.1007/3-540-57208-2_8","ee":"https://doi.org/10.1007/3-540-57208-2_8","url":"https://dblp.org/rec/conf/concur/AcetoM93"},
-"url":"URL#4095323"
+"url":"URL#4520045"
 },
 {
 "@score":"1",
-"@id":"4095324",
+"@id":"4520046",
 "info":{"authors":{"author":"Roberto M. Amadio"},"title":"On the Reduction of Chocs Bisimulation to pi-Calculus Bisimulation.","venue":"CONCUR","pages":"112-126","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Amadio93","doi":"10.1007/3-540-57208-2_9","ee":"https://doi.org/10.1007/3-540-57208-2_9","url":"https://dblp.org/rec/conf/concur/Amadio93"},
-"url":"URL#4095324"
+"url":"URL#4520046"
 },
 {
 "@score":"1",
-"@id":"4095325",
+"@id":"4520047",
 "info":{"authors":{"author":["Jos C. M. Baeten","Jan A. Bergstra"]},"title":"Non Interleaving Process Algebra.","venue":"CONCUR","pages":"308-323","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/BaetenB93","doi":"10.1007/3-540-57208-2_22","ee":"https://doi.org/10.1007/3-540-57208-2_22","url":"https://dblp.org/rec/conf/concur/BaetenB93"},
-"url":"URL#4095325"
+"url":"URL#4520047"
 },
 {
 "@score":"1",
-"@id":"4095326",
+"@id":"4520048",
 "info":{"authors":{"author":["Jos C. M. Baeten","Chris Verhoef"]},"title":"A Congruence Theorem for Structured Operational Semantics with Predicates.","venue":"CONCUR","pages":"477-492","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/BaetenV93","doi":"10.1007/3-540-57208-2_33","ee":"https://doi.org/10.1007/3-540-57208-2_33","url":"https://dblp.org/rec/conf/concur/BaetenV93"},
-"url":"URL#4095326"
+"url":"URL#4520048"
 },
 {
 "@score":"1",
-"@id":"4095327",
+"@id":"4520049",
 "info":{"authors":{"author":["Orna Bernholtz","Orna Grumberg"]},"title":"Branching Time Temporal Logic and Amorphous Tree Automata.","venue":"CONCUR","pages":"262-277","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/BernholtzG93","doi":"10.1007/3-540-57208-2_19","ee":"https://doi.org/10.1007/3-540-57208-2_19","url":"https://dblp.org/rec/conf/concur/BernholtzG93"},
-"url":"URL#4095327"
+"url":"URL#4520049"
 },
 {
 "@score":"1",
-"@id":"4095328",
+"@id":"4520050",
 "info":{"authors":{"author":"Bard Bloom"},"title":"Structured Operational Sematics for Process Algebras and Equational Axiom Systems.","venue":"CONCUR","pages":"539-540","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Bloom93","doi":"10.1007/3-540-57208-2_37","ee":"https://doi.org/10.1007/3-540-57208-2_37","url":"https://dblp.org/rec/conf/concur/Bloom93"},
-"url":"URL#4095328"
+"url":"URL#4520050"
 },
 {
 "@score":"1",
-"@id":"4095329",
+"@id":"4520051",
 "info":{"authors":{"author":"Gérard Boudol"},"title":"The Lambda-Calculus with Multiplicities (Abstract).","venue":"CONCUR","pages":"1-6","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Boudol93","doi":"10.1007/3-540-57208-2_1","ee":"https://doi.org/10.1007/3-540-57208-2_1","url":"https://dblp.org/rec/conf/concur/Boudol93"},
-"url":"URL#4095329"
+"url":"URL#4520051"
 },
 {
 "@score":"1",
-"@id":"4095330",
+"@id":"4520052",
 "info":{"authors":{"author":["Patrice Brémond-Grégoire","Insup Lee","Richard Gerber"]},"title":"ACSR - An Algebra of Communicating Shared Resources with Dense Time and Priorities.","venue":"CONCUR","pages":"417-431","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Bremond-GregoireLG93","doi":"10.1007/3-540-57208-2_29","ee":"https://doi.org/10.1007/3-540-57208-2_29","url":"https://dblp.org/rec/conf/concur/Bremond-GregoireLG93"},
-"url":"URL#4095330"
+"url":"URL#4520052"
 },
 {
 "@score":"1",
-"@id":"4095331",
+"@id":"4520053",
 "info":{"authors":{"author":"Glenn Bruns"},"title":"A Practical Technique for Process Abstraction.","venue":"CONCUR","pages":"37-49","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Bruns93","doi":"10.1007/3-540-57208-2_4","ee":"https://doi.org/10.1007/3-540-57208-2_4","url":"https://dblp.org/rec/conf/concur/Bruns93"},
-"url":"URL#4095331"
+"url":"URL#4520053"
 },
 {
 "@score":"1",
-"@id":"4095332",
+"@id":"4520054",
 "info":{"authors":{"author":"Michael J. Butler"},"title":"Refinement and Decomposition of Value-Passing Action Systems.","venue":"CONCUR","pages":"217-232","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Butler93","doi":"10.1007/3-540-57208-2_16","ee":"https://doi.org/10.1007/3-540-57208-2_16","url":"https://dblp.org/rec/conf/concur/Butler93"},
-"url":"URL#4095332"
+"url":"URL#4520054"
 },
 {
 "@score":"1",
-"@id":"4095333",
+"@id":"4520055",
 "info":{"authors":{"author":["Søren Christensen","Yoram Hirshfeld","Faron Moller"]},"title":"Bisimulation Equivalence is Decidable for Basic Parallel Processes.","venue":"CONCUR","pages":"143-157","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/ChristensenHM93","doi":"10.1007/3-540-57208-2_11","ee":"https://doi.org/10.1007/3-540-57208-2_11","url":"https://dblp.org/rec/conf/concur/ChristensenHM93"},
-"url":"URL#4095333"
+"url":"URL#4520055"
 },
 {
 "@score":"1",
-"@id":"4095334",
+"@id":"4520056",
 "info":{"authors":{"author":["Marija Cubric","Prakash Panangaden"]},"title":"Minimal Memory Schedules for Dataflow Networks.","venue":"CONCUR","pages":"368-383","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/CubricP93","doi":"10.1007/3-540-57208-2_26","ee":"https://doi.org/10.1007/3-540-57208-2_26","url":"https://dblp.org/rec/conf/concur/CubricP93"},
-"url":"URL#4095334"
+"url":"URL#4520056"
 },
 {
 "@score":"1",
-"@id":"4095335",
+"@id":"4520057",
 "info":{"authors":{"author":"Mads Dam"},"title":"Model Checking Mobile Processes.","venue":"CONCUR","pages":"22-36","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Dam93","doi":"10.1007/3-540-57208-2_3","ee":"https://doi.org/10.1007/3-540-57208-2_3","url":"https://dblp.org/rec/conf/concur/Dam93"},
-"url":"URL#4095335"
+"url":"URL#4520057"
 },
 {
 "@score":"1",
-"@id":"4095336",
+"@id":"4520058",
 "info":{"authors":{"author":"Joost Engelfriet"},"title":"A Multiset Semantics for the pi-Calculus with Replication.","venue":"CONCUR","pages":"7-21","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Engelfriet93","doi":"10.1007/3-540-57208-2_2","ee":"https://doi.org/10.1007/3-540-57208-2_2","url":"https://dblp.org/rec/conf/concur/Engelfriet93"},
-"url":"URL#4095336"
+"url":"URL#4520058"
 },
 {
 "@score":"1",
-"@id":"4095337",
+"@id":"4520059",
 "info":{"authors":{"author":["Maarten M. Fokkinga","Mannes Poel","Job Zwiers"]},"title":"Modular Completeness for Communication Closed Layers.","venue":"CONCUR","pages":"50-65","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/FokkingaPZ93","doi":"10.1007/3-540-57208-2_5","ee":"https://doi.org/10.1007/3-540-57208-2_5","url":"https://dblp.org/rec/conf/concur/FokkingaPZ93"},
-"url":"URL#4095337"
+"url":"URL#4520059"
 },
 {
 "@score":"1",
-"@id":"4095338",
+"@id":"4520060",
 "info":{"authors":{"author":"Wan Fokkink"},"title":"An Elimination Theorem for Regular Behaviours with Integration.","venue":"CONCUR","pages":"432-446","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Fokkink93","doi":"10.1007/3-540-57208-2_30","ee":"https://doi.org/10.1007/3-540-57208-2_30","url":"https://dblp.org/rec/conf/concur/Fokkink93"},
-"url":"URL#4095338"
+"url":"URL#4520060"
 },
 {
 "@score":"1",
-"@id":"4095339",
+"@id":"4520061",
 "info":{"authors":{"author":"Rob J. van Glabbeek"},"title":"The Linear Time - Branching Time Spectrum II.","venue":"CONCUR","pages":"66-81","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Glabbeek93","doi":"10.1007/3-540-57208-2_6","ee":"https://doi.org/10.1007/3-540-57208-2_6","url":"https://dblp.org/rec/conf/concur/Glabbeek93"},
-"url":"URL#4095339"
+"url":"URL#4520061"
 },
 {
 "@score":"1",
-"@id":"4095340",
+"@id":"4520062",
 "info":{"authors":{"author":"Eric Goubault"},"title":"Domains of Higher-Dimensional Automata.","venue":"CONCUR","pages":"293-307","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Goubault93","doi":"10.1007/3-540-57208-2_21","ee":"https://doi.org/10.1007/3-540-57208-2_21","url":"https://dblp.org/rec/conf/concur/Goubault93"},
-"url":"URL#4095340"
+"url":"URL#4520062"
 },
 {
 "@score":"1",
-"@id":"4095341",
+"@id":"4520063",
 "info":{"authors":{"author":"Jeremy Gunawardena"},"title":"A Generalized Event Structure for the Muller Unfolding of a Safe Net.","venue":"CONCUR","pages":"278-292","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Gunawardena93","doi":"10.1007/3-540-57208-2_20","ee":"https://doi.org/10.1007/3-540-57208-2_20","url":"https://dblp.org/rec/conf/concur/Gunawardena93"},
-"url":"URL#4095341"
+"url":"URL#4520063"
 },
 {
 "@score":"1",
-"@id":"4095342",
+"@id":"4520064",
 "info":{"authors":{"author":["Matthew Hennessy","Huimin Lin"]},"title":"Proof Systems for Message-Passing Process Algebras.","venue":"CONCUR","pages":"202-216","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/HennessyL93","doi":"10.1007/3-540-57208-2_15","ee":"https://doi.org/10.1007/3-540-57208-2_15","url":"https://dblp.org/rec/conf/concur/HennessyL93"},
-"url":"URL#4095342"
+"url":"URL#4520064"
 },
 {
 "@score":"1",
-"@id":"4095343",
+"@id":"4520065",
 "info":{"authors":{"author":"Uno Holmer"},"title":"Interpreting Broadcast Communication in SCCS.","venue":"CONCUR","pages":"188-201","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Holmer93","doi":"10.1007/3-540-57208-2_14","ee":"https://doi.org/10.1007/3-540-57208-2_14","url":"https://dblp.org/rec/conf/concur/Holmer93"},
-"url":"URL#4095343"
+"url":"URL#4520065"
 },
 {
 "@score":"1",
-"@id":"4095344",
+"@id":"4520066",
 "info":{"authors":{"author":"Kohei Honda"},"title":"Types for Dyadic Interaction.","venue":"CONCUR","pages":"509-523","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Honda93","doi":"10.1007/3-540-57208-2_35","ee":"https://doi.org/10.1007/3-540-57208-2_35","url":"https://dblp.org/rec/conf/concur/Honda93"},
-"url":"URL#4095344"
+"url":"URL#4520066"
 },
 {
 "@score":"1",
-"@id":"4095345",
+"@id":"4520067",
 "info":{"authors":{"author":["P. W. Hoogers","H. C. M. Kleijn","P. S. Thiagarajan"]},"title":"Local Event Structures and Petri Nets.","venue":"CONCUR","pages":"462-476","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/HoogersKT93","doi":"10.1007/3-540-57208-2_32","ee":"https://doi.org/10.1007/3-540-57208-2_32","url":"https://dblp.org/rec/conf/concur/HoogersKT93"},
-"url":"URL#4095345"
+"url":"URL#4520067"
 },
 {
 "@score":"1",
-"@id":"4095346",
+"@id":"4520068",
 "info":{"authors":{"author":["Ole Høgh Jensen","Jarl Tuxen Lang","Christian Jeppesen","Kim Guldstrand Larsen"]},"title":"Model Construction for Implicit Specifications in Model Logic.","venue":"CONCUR","pages":"247-261","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/JensenLJL93","doi":"10.1007/3-540-57208-2_18","ee":"https://doi.org/10.1007/3-540-57208-2_18","url":"https://dblp.org/rec/conf/concur/JensenLJL93"},
-"url":"URL#4095346"
+"url":"URL#4520068"
 },
 {
 "@score":"1",
-"@id":"4095347",
+"@id":"4520069",
 "info":{"authors":{"author":"Cliff B. Jones"},"title":"A pi-Calculus Semantics for an Object-Based Design Notation.","venue":"CONCUR","pages":"158-172","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Jones93","doi":"10.1007/3-540-57208-2_12","ee":"https://doi.org/10.1007/3-540-57208-2_12","url":"https://dblp.org/rec/conf/concur/Jones93"},
-"url":"URL#4095347"
+"url":"URL#4520069"
 },
 {
 "@score":"1",
-"@id":"4095348",
+"@id":"4520070",
 "info":{"authors":{"author":"Christian Lengauer"},"title":"Loop Parallelization in the Polytope Model.","venue":"CONCUR","pages":"398-416","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Lengauer93","doi":"10.1007/3-540-57208-2_28","ee":"https://doi.org/10.1007/3-540-57208-2_28","url":"https://dblp.org/rec/conf/concur/Lengauer93"},
-"url":"URL#4095348"
+"url":"URL#4520070"
 },
 {
 "@score":"1",
-"@id":"4095349",
+"@id":"4520071",
 "info":{"authors":{"author":["Flemming Nielson","Hanne Riis Nielson"]},"title":"From CML to Process Algebras (Extended Abstract).","venue":"CONCUR","pages":"493-508","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/NielsonN93","doi":"10.1007/3-540-57208-2_34","ee":"https://doi.org/10.1007/3-540-57208-2_34","url":"https://dblp.org/rec/conf/concur/NielsonN93"},
-"url":"URL#4095349"
+"url":"URL#4520071"
 },
 {
 "@score":"1",
-"@id":"4095350",
+"@id":"4520072",
 "info":{"authors":{"author":"K. V. S. Prasad"},"title":"Programming with Broadcasts.","venue":"CONCUR","pages":"173-187","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Prasad93","doi":"10.1007/3-540-57208-2_13","ee":"https://doi.org/10.1007/3-540-57208-2_13","url":"https://dblp.org/rec/conf/concur/Prasad93"},
-"url":"URL#4095350"
+"url":"URL#4520072"
 },
 {
 "@score":"1",
-"@id":"4095351",
+"@id":"4520073",
 "info":{"authors":{"author":"Davide Sangiorgi"},"title":"A Theory of Bisimulation for the pi-Calculus.","venue":"CONCUR","pages":"127-142","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Sangiori93","doi":"10.1007/3-540-57208-2_10","ee":"https://doi.org/10.1007/3-540-57208-2_10","url":"https://dblp.org/rec/conf/concur/Sangiori93"},
-"url":"URL#4095351"
+"url":"URL#4520073"
 },
 {
 "@score":"1",
-"@id":"4095352",
+"@id":"4520074",
 "info":{"authors":{"author":["Vladimiro Sassone","Mogens Nielsen","Glynn Winskel"]},"title":"A Classification of Models for Concurrency.","venue":"CONCUR","pages":"82-96","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/SassoneNW93","doi":"10.1007/3-540-57208-2_7","ee":"https://doi.org/10.1007/3-540-57208-2_7","url":"https://dblp.org/rec/conf/concur/SassoneNW93"},
-"url":"URL#4095352"
+"url":"URL#4520074"
+},
+{
+"@score":"1",
+"@id":"4520075",
+"info":{"authors":{"author":"Roberto Segala"},"title":"Quiescence, Fairness, Testing, and the Notion of Implementation (Extended Abstract).","venue":"CONCUR","pages":"324-338","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Segala93","doi":"10.1007/3-540-57208-2_23","ee":"https://doi.org/10.1007/3-540-57208-2_23","url":"https://dblp.org/rec/conf/concur/Segala93"},
+"url":"URL#4520075"
+},
+{
+"@score":"1",
+"@id":"4520076",
+"info":{"authors":{"author":["Rob T. Udink","Joost N. Kok"]},"title":"Two Fully Abstract Models for UNITY.","venue":"CONCUR","pages":"339-352","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/UdinkK93","doi":"10.1007/3-540-57208-2_24","ee":"https://doi.org/10.1007/3-540-57208-2_24","url":"https://dblp.org/rec/conf/concur/UdinkK93"},
+"url":"URL#4520076"
+},
+{
+"@score":"1",
+"@id":"4520077",
+"info":{"authors":{"author":["Vasco Thudichum Vasconcelos","Kohei Honda"]},"title":"Principal Typing Schemes in a Polyadic pi-Calculus.","venue":"CONCUR","pages":"524-538","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/VasconcelosH93","doi":"10.1007/3-540-57208-2_36","ee":"https://doi.org/10.1007/3-540-57208-2_36","url":"https://dblp.org/rec/conf/concur/VasconcelosH93"},
+"url":"URL#4520077"
+},
+{
+"@score":"1",
+"@id":"4520078",
+"info":{"authors":{"author":["Bart Vergauwen","Johan Lewi"]},"title":"A Linear Local Model Checking Algorithm for CTL.","venue":"CONCUR","pages":"447-461","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/VergauwenL93","doi":"10.1007/3-540-57208-2_31","ee":"https://doi.org/10.1007/3-540-57208-2_31","url":"https://dblp.org/rec/conf/concur/VergauwenL93"},
+"url":"URL#4520078"
+},
+{
+"@score":"1",
+"@id":"4520079",
+"info":{"authors":{"author":["Pierre Wolper","Patrice Godefroid"]},"title":"Partial-Order Methods for Temporal Verification.","venue":"CONCUR","pages":"233-246","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/WolperG93","doi":"10.1007/3-540-57208-2_17","ee":"https://doi.org/10.1007/3-540-57208-2_17","url":"https://dblp.org/rec/conf/concur/WolperG93"},
+"url":"URL#4520079"
+},
+{
+"@score":"1",
+"@id":"4520080",
+"info":{"authors":{"author":"Robert Kim Yates"},"title":"Networks of Real-Time Processes.","venue":"CONCUR","pages":"384-397","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/Yates93","doi":"10.1007/3-540-57208-2_27","ee":"https://doi.org/10.1007/3-540-57208-2_27","url":"https://dblp.org/rec/conf/concur/Yates93"},
+"url":"URL#4520080"
+},
+{
+"@score":"1",
+"@id":"4520081",
+"info":{"authors":{"author":["Shengzong Zhou","Rob Gerth","Ruurd Kuiper"]},"title":"Transformations Preserving Properties and Properties Preserved by Transformations in Fair Transition Systems (Extended Abstract).","venue":"CONCUR","pages":"353-367","year":"1993","type":"Conference and Workshop Papers","key":"conf/concur/ZhouGK93","doi":"10.1007/3-540-57208-2_25","ee":"https://doi.org/10.1007/3-540-57208-2_25","url":"https://dblp.org/rec/conf/concur/ZhouGK93"},
+"url":"URL#4520081"
+},
+{
+"@score":"1",
+"@id":"4537604",
+"info":{"authors":{"author":"Eike Best"},"title":"CONCUR &apos;93, 4th International Conference on Concurrency Theory, Hildesheim, Germany, August 23-26, 1993, Proceedings","venue":["CONCUR","Lecture Notes in Computer Science"],"volume":"715","publisher":"Springer","year":"1993","type":"Editorship","key":"conf/concur/1993","doi":"10.1007/3-540-57208-2","ee":"https://doi.org/10.1007/3-540-57208-2","url":"https://dblp.org/rec/conf/concur/1993"},
+"url":"URL#4537604"
 }
 ]
 }

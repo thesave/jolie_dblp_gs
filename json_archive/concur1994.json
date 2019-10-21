@@ -7,7 +7,7 @@
 },
 "time":{
 "@unit":"msecs",
-"text":"105.83"
+"text":"120.84"
 },
 "completions":{
 "@total":"1",
@@ -17,194 +17,242 @@
 "@sc":"38",
 "@dc":"38",
 "@oc":"38",
-"@id":"13631299",
+"@id":"15380625",
 "text":":facetid:toc:db/conf/concur/concur1994.bht"
 }
 },
 "hits":{
 "@total":"38",
 "@computed":"38",
-"@sent":"30",
+"@sent":"38",
 "@first":"0",
 "hit":[{
 "@score":"1",
-"@id":"4055555",
+"@id":"4479836",
 "info":{"authors":{"author":"Luca Aceto"},"title":"Deriving Complete Inference Systems for a Class of GSOS Languages Generation Regular Behaviours.","venue":"CONCUR","pages":"449-464","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Aceto94","doi":"10.1007/978-3-540-48654-1_33","ee":"https://doi.org/10.1007/978-3-540-48654-1_33","url":"https://dblp.org/rec/conf/concur/Aceto94"},
-"url":"URL#4055555"
+"url":"URL#4479836"
 },
 {
 "@score":"1",
-"@id":"4055556",
+"@id":"4479837",
 "info":{"authors":{"author":["Rajeev Alur","Costas Courcoubetis","Thomas A. Henzinger"]},"title":"The Observational Power of Clocks.","venue":"CONCUR","pages":"162-177","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/AlurCH94","doi":"10.1007/978-3-540-48654-1_16","ee":"https://doi.org/10.1007/978-3-540-48654-1_16","url":"https://dblp.org/rec/conf/concur/AlurCH94"},
-"url":"URL#4055556"
+"url":"URL#4479837"
 },
 {
 "@score":"1",
-"@id":"4055557",
+"@id":"4479838",
 "info":{"authors":{"author":["Ralph-Johan Back","Joakim von Wright"]},"title":"Trace Refinement of Action Systems.","venue":"CONCUR","pages":"367-384","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/BackW94","doi":"10.1007/978-3-540-48654-1_28","ee":"https://doi.org/10.1007/978-3-540-48654-1_28","url":"https://dblp.org/rec/conf/concur/BackW94"},
-"url":"URL#4055557"
+"url":"URL#4479838"
 },
 {
 "@score":"1",
-"@id":"4055558",
+"@id":"4479839",
 "info":{"authors":{"author":["Jos C. M. Baeten","Jan A. Bergstra"]},"title":"Process Algebra with Partial Choice.","venue":"CONCUR","pages":"465-480","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/BaetenB94","doi":"10.1007/978-3-540-48654-1_34","ee":"https://doi.org/10.1007/978-3-540-48654-1_34","url":"https://dblp.org/rec/conf/concur/BaetenB94"},
-"url":"URL#4055558"
+"url":"URL#4479839"
 },
 {
 "@score":"1",
-"@id":"4055559",
+"@id":"4479840",
 "info":{"authors":{"author":["Marc Bezem","Jan Friso Groote"]},"title":"Invariants in Process Algebra with Data.","venue":"CONCUR","pages":"401-416","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/BezemG94","doi":"10.1007/978-3-540-48654-1_30","ee":"https://doi.org/10.1007/978-3-540-48654-1_30","url":"https://dblp.org/rec/conf/concur/BezemG94"},
-"url":"URL#4055559"
+"url":"URL#4479840"
 },
 {
 "@score":"1",
-"@id":"4055560",
+"@id":"4479841",
 "info":{"authors":{"author":["Michele Boreale","Rocco De Nicola"]},"title":"A Symbolic Semantics for the pi-calculus (Extended Abstract).","venue":"CONCUR","pages":"299-314","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/BorealeN94","doi":"10.1007/978-3-540-48654-1_24","ee":"https://doi.org/10.1007/978-3-540-48654-1_24","url":"https://dblp.org/rec/conf/concur/BorealeN94"},
-"url":"URL#4055560"
+"url":"URL#4479841"
 },
 {
 "@score":"1",
-"@id":"4055561",
+"@id":"4479842",
 "info":{"authors":{"author":["Ahmed Bouajjani","Rachid Echahed","Riadh Robbana"]},"title":"Verification of Nonregular Temporal Properties for Context-Free Processes.","venue":"CONCUR","pages":"81-97","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/BouajjaniER94","doi":"10.1007/978-3-540-48654-1_8","ee":"https://doi.org/10.1007/978-3-540-48654-1_8","url":"https://dblp.org/rec/conf/concur/BouajjaniER94"},
-"url":"URL#4055561"
+"url":"URL#4479842"
 },
 {
 "@score":"1",
-"@id":"4055562",
+"@id":"4479843",
 "info":{"authors":{"author":["Olaf Burkart","Bernhard Steffen"]},"title":"Pushdown Processes - Parallel Composition and Model Checking.","venue":"CONCUR","pages":"98-113","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/BurkartS94","doi":"10.1007/978-3-540-48654-1_9","ee":"https://doi.org/10.1007/978-3-540-48654-1_9","url":"https://dblp.org/rec/conf/concur/BurkartS94"},
-"url":"URL#4055562"
+"url":"URL#4479843"
 },
 {
 "@score":"1",
-"@id":"4055563",
+"@id":"4479844",
 "info":{"authors":{"author":["Rance Cleaveland","James Riely"]},"title":"Testing-Based Abstractions for Value-Passing Systems.","venue":"CONCUR","pages":"417-432","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/CleavelandR94","doi":"10.1007/978-3-540-48654-1_31","ee":"https://doi.org/10.1007/978-3-540-48654-1_31","url":"https://dblp.org/rec/conf/concur/CleavelandR94"},
-"url":"URL#4055563"
+"url":"URL#4479844"
 },
 {
 "@score":"1",
-"@id":"4055564",
+"@id":"4479845",
 "info":{"authors":{"author":["J. Robin B. Cockett","David A. Spooner"]},"title":"SProc Categorically.","venue":"CONCUR","pages":"146-159","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/CockettS94","doi":"10.1007/978-3-540-48654-1_13","ee":"https://doi.org/10.1007/978-3-540-48654-1_13","url":"https://dblp.org/rec/conf/concur/CockettS94"},
-"url":"URL#4055564"
+"url":"URL#4479845"
 },
 {
 "@score":"1",
-"@id":"4055565",
+"@id":"4479846",
 "info":{"authors":{"author":"Costas Courcoubetis"},"title":"From Timed Graphs to Hybrid Automata (Abstract).","venue":"CONCUR","pages":"160","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Courcoubetis94","doi":"10.1007/978-3-540-48654-1_14","ee":"https://doi.org/10.1007/978-3-540-48654-1_14","url":"https://dblp.org/rec/conf/concur/Courcoubetis94"},
-"url":"URL#4055565"
+"url":"URL#4479846"
 },
 {
 "@score":"1",
-"@id":"4055566",
+"@id":"4479847",
 "info":{"authors":{"author":"David L. Dill"},"title":"Hierarchical Models of Synchronous Circuits (Abstract).","venue":"CONCUR","pages":"161","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Dill94","doi":"10.1007/978-3-540-48654-1_15","ee":"https://doi.org/10.1007/978-3-540-48654-1_15","url":"https://dblp.org/rec/conf/concur/Dill94"},
-"url":"URL#4055566"
+"url":"URL#4479847"
 },
 {
 "@score":"1",
-"@id":"4055567",
+"@id":"4479848",
 "info":{"authors":{"author":["Jean-Claude Fernandez","Joseph Sifakis","Robert de Simone"]},"title":"Model-Based Verification Methods and Tools (Abstract).","venue":"CONCUR","pages":"64","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/FernandezSS94","doi":"10.1007/978-3-540-48654-1_6","ee":"https://doi.org/10.1007/978-3-540-48654-1_6","url":"https://dblp.org/rec/conf/concur/FernandezSS94"},
-"url":"URL#4055567"
+"url":"URL#4479848"
 },
 {
 "@score":"1",
-"@id":"4055568",
+"@id":"4479849",
 "info":{"authors":{"author":["Pietro Di Gianantonio","Furio Honsell","Silvia Liani","Gordon D. Plotkin"]},"title":"Countable Non-Determinism and Uncountable Limits.","venue":"CONCUR","pages":"130-145","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/GianantonioHLP94","doi":"10.1007/978-3-540-48654-1_12","ee":"https://doi.org/10.1007/978-3-540-48654-1_12","url":"https://dblp.org/rec/conf/concur/GianantonioHLP94"},
-"url":"URL#4055568"
+"url":"URL#4479849"
 },
 {
 "@score":"1",
-"@id":"4055569",
+"@id":"4479850",
 "info":{"authors":{"author":"Jean-Yves Girard 0001"},"title":"Geometry of Interaction (Abstract).","venue":"CONCUR","pages":"1","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Girard94","doi":"10.1007/978-3-540-48654-1_1","ee":"https://doi.org/10.1007/978-3-540-48654-1_1","url":"https://dblp.org/rec/conf/concur/Girard94"},
-"url":"URL#4055569"
+"url":"URL#4479850"
 },
 {
 "@score":"1",
-"@id":"4055570",
+"@id":"4479851",
 "info":{"authors":{"author":["Mahesh Girkar","Robert Moll"]},"title":"New Results on the Analysis of Concurrent Systems with an Infinite Number of Processes.","venue":"CONCUR","pages":"65-80","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/GirkarM94","doi":"10.1007/978-3-540-48654-1_7","ee":"https://doi.org/10.1007/978-3-540-48654-1_7","url":"https://dblp.org/rec/conf/concur/GirkarM94"},
-"url":"URL#4055570"
+"url":"URL#4479851"
 },
 {
 "@score":"1",
-"@id":"4055571",
+"@id":"4479852",
 "info":{"authors":{"author":"Jeremy Gunawardena"},"title":"A Dynamic Approach to Timed Behaviour.","venue":"CONCUR","pages":"178-193","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Gunawardena94","doi":"10.1007/978-3-540-48654-1_17","ee":"https://doi.org/10.1007/978-3-540-48654-1_17","url":"https://dblp.org/rec/conf/concur/Gunawardena94"},
-"url":"URL#4055571"
+"url":"URL#4479852"
 },
 {
 "@score":"1",
-"@id":"4055572",
+"@id":"4479853",
 "info":{"authors":{"author":["Yoram Hirshfeld","Faron Moller"]},"title":"A Fast Algorithm for Deciding Bisimilarity of Normed Context-Free Processes.","venue":"CONCUR","pages":"48-63","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/HirshfeldM94","doi":"10.1007/978-3-540-48654-1_5","ee":"https://doi.org/10.1007/978-3-540-48654-1_5","url":"https://dblp.org/rec/conf/concur/HirshfeldM94"},
-"url":"URL#4055572"
+"url":"URL#4479853"
 },
 {
 "@score":"1",
-"@id":"4055573",
+"@id":"4479854",
 "info":{"authors":{"author":"Hardi Hungar"},"title":"Local Model Checking for Parallel Compositions of Context-Free Processes.","venue":"CONCUR","pages":"114-128","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Hungar94","doi":"10.1007/978-3-540-48654-1_10","ee":"https://doi.org/10.1007/978-3-540-48654-1_10","url":"https://dblp.org/rec/conf/concur/Hungar94"},
-"url":"URL#4055573"
+"url":"URL#4479854"
 },
 {
 "@score":"1",
-"@id":"4055574",
+"@id":"4479855",
 "info":{"authors":{"author":["Paris C. Kanellakis","Dimitrios Michailidis","Alexander A. Shvartsman"]},"title":"Efficient Parallelism vs Reliable Distribution - A Trade-off for Concurrent Computations.","venue":"CONCUR","pages":"242-266","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/KanellakisMS94","doi":"10.1007/978-3-540-48654-1_21","ee":"https://doi.org/10.1007/978-3-540-48654-1_21","url":"https://dblp.org/rec/conf/concur/KanellakisMS94"},
-"url":"URL#4055574"
+"url":"URL#4479855"
 },
 {
 "@score":"1",
-"@id":"4055575",
+"@id":"4479856",
 "info":{"authors":{"author":"Astrid Kiehn"},"title":"On the Decidability of Non-Interleaving Process Equivalences.","venue":"CONCUR","pages":"18-33","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Kiehn94","doi":"10.1007/978-3-540-48654-1_3","ee":"https://doi.org/10.1007/978-3-540-48654-1_3","url":"https://dblp.org/rec/conf/concur/Kiehn94"},
-"url":"URL#4055575"
+"url":"URL#4479856"
 },
 {
 "@score":"1",
-"@id":"4055576",
+"@id":"4479857",
 "info":{"authors":{"author":"Nils Klarlund"},"title":"The Limit View of Infinite Computations.","venue":"CONCUR","pages":"351-366","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Klarlund94","doi":"10.1007/978-3-540-48654-1_27","ee":"https://doi.org/10.1007/978-3-540-48654-1_27","url":"https://dblp.org/rec/conf/concur/Klarlund94"},
-"url":"URL#4055576"
+"url":"URL#4479857"
 },
 {
 "@score":"1",
-"@id":"4055577",
+"@id":"4479858",
 "info":{"authors":{"author":["Maciej Koutny","Javier Esparza","Eike Best"]},"title":"Operational Semantics for the Petri Box Calculus.","venue":"CONCUR","pages":"210-225","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/KoutnyEB94","doi":"10.1007/978-3-540-48654-1_19","ee":"https://doi.org/10.1007/978-3-540-48654-1_19","url":"https://dblp.org/rec/conf/concur/KoutnyEB94"},
-"url":"URL#4055577"
+"url":"URL#4479858"
 },
 {
 "@score":"1",
-"@id":"4055578",
+"@id":"4479859",
 "info":{"authors":{"author":"Xinxin Liu"},"title":"Characterizing Bisimulation Congruence in the pi-Calculus (Extended Abstract).","venue":"CONCUR","pages":"331-350","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Liu94","doi":"10.1007/978-3-540-48654-1_26","ee":"https://doi.org/10.1007/978-3-540-48654-1_26","url":"https://dblp.org/rec/conf/concur/Liu94"},
-"url":"URL#4055578"
+"url":"URL#4479859"
 },
 {
 "@score":"1",
-"@id":"4055579",
+"@id":"4479860",
 "info":{"authors":{"author":["Sjouke Mauw","Hans Mulder"]},"title":"Regularity of BPA-Systems is Decidable.","venue":"CONCUR","pages":"34-47","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/MauwM94","doi":"10.1007/978-3-540-48654-1_4","ee":"https://doi.org/10.1007/978-3-540-48654-1_4","url":"https://dblp.org/rec/conf/concur/MauwM94"},
-"url":"URL#4055579"
+"url":"URL#4479860"
 },
 {
 "@score":"1",
-"@id":"4055580",
+"@id":"4479861",
 "info":{"authors":{"author":["Mogens Nielsen","Christian Clausen"]},"title":"Bisimulation for Models in Concurrency.","venue":"CONCUR","pages":"385-400","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/NielsenC94","doi":"10.1007/978-3-540-48654-1_29","ee":"https://doi.org/10.1007/978-3-540-48654-1_29","url":"https://dblp.org/rec/conf/concur/NielsenC94"},
-"url":"URL#4055580"
+"url":"URL#4479861"
 },
 {
 "@score":"1",
-"@id":"4055581",
+"@id":"4479862",
 "info":{"authors":{"author":"Prakash Panangaden"},"title":"The Logical Structure of Concurrent Constraint Programming Languages (Abstract).","venue":"CONCUR","pages":"129","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Panangaden94","doi":"10.1007/978-3-540-48654-1_11","ee":"https://doi.org/10.1007/978-3-540-48654-1_11","url":"https://dblp.org/rec/conf/concur/Panangaden94"},
-"url":"URL#4055581"
+"url":"URL#4479862"
 },
 {
 "@score":"1",
-"@id":"4055582",
+"@id":"4479863",
 "info":{"authors":{"author":["Arend Rensink","Heike Wehrheim"]},"title":"Weak Sequential Composition in Process Algebras.","venue":"CONCUR","pages":"226-241","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/RensinkW94","doi":"10.1007/978-3-540-48654-1_20","ee":"https://doi.org/10.1007/978-3-540-48654-1_20","url":"https://dblp.org/rec/conf/concur/RensinkW94"},
-"url":"URL#4055582"
+"url":"URL#4479863"
 },
 {
 "@score":"1",
-"@id":"4055583",
+"@id":"4479864",
 "info":{"authors":{"author":["Roberto Segala","Nancy A. Lynch"]},"title":"Probabilistic Simulations for Probabilistic Processes.","venue":"CONCUR","pages":"481-496","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/SegalaL94","doi":"10.1007/978-3-540-48654-1_35","ee":"https://doi.org/10.1007/978-3-540-48654-1_35","url":"https://dblp.org/rec/conf/concur/SegalaL94"},
-"url":"URL#4055583"
+"url":"URL#4479864"
 },
 {
 "@score":"1",
-"@id":"4055584",
+"@id":"4479865",
 "info":{"authors":{"author":"Jens U. Skakkebæk"},"title":"Liveness and Fairness in Duration Calculus.","venue":"CONCUR","pages":"283-298","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Skakkebaek94","doi":"10.1007/978-3-540-48654-1_23","ee":"https://doi.org/10.1007/978-3-540-48654-1_23","url":"https://dblp.org/rec/conf/concur/Skakkebaek94"},
-"url":"URL#4055584"
+"url":"URL#4479865"
+},
+{
+"@score":"1",
+"@id":"4479866",
+"info":{"authors":{"author":["Andrew C. Uselton","Scott A. Smolka"]},"title":"A Compositional Semantics for Statecharts using Labeled Transition Systems.","venue":"CONCUR","pages":"2-17","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/UseltonS94","doi":"10.1007/978-3-540-48654-1_2","ee":"https://doi.org/10.1007/978-3-540-48654-1_2","url":"https://dblp.org/rec/conf/concur/UseltonS94"},
+"url":"URL#4479866"
+},
+{
+"@score":"1",
+"@id":"4479867",
+"info":{"authors":{"author":"Chris Verhoef"},"title":"A Congruence Theorem for Structured Operational Semantics with Predicates and Negative Premises.","venue":"CONCUR","pages":"433-448","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Verhoef94","doi":"10.1007/978-3-540-48654-1_32","ee":"https://doi.org/10.1007/978-3-540-48654-1_32","url":"https://dblp.org/rec/conf/concur/Verhoef94"},
+"url":"URL#4479867"
+},
+{
+"@score":"1",
+"@id":"4479868",
+"info":{"authors":{"author":"David Walker"},"title":"On Bisimulation in the pi-calculus.","venue":"CONCUR","pages":"315-330","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Walker94","doi":"10.1007/978-3-540-48654-1_25","ee":"https://doi.org/10.1007/978-3-540-48654-1_25","url":"https://dblp.org/rec/conf/concur/Walker94"},
+"url":"URL#4479868"
+},
+{
+"@score":"1",
+"@id":"4479869",
+"info":{"authors":{"author":"Józef Winkowski"},"title":"Algebras of Processes of Timed Petri Nets.","venue":"CONCUR","pages":"194-209","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/Winkowski94","doi":"10.1007/978-3-540-48654-1_18","ee":"https://doi.org/10.1007/978-3-540-48654-1_18","url":"https://dblp.org/rec/conf/concur/Winkowski94"},
+"url":"URL#4479869"
+},
+{
+"@score":"1",
+"@id":"4479870",
+"info":{"authors":{"author":["Sue-Hwey Wu","Scott A. Smolka","Eugene W. Stark"]},"title":"Composition and Behaviors of Probabilistic I/O Automata.","venue":"CONCUR","pages":"513-528","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/WuSS94","doi":"10.1007/978-3-540-48654-1_37","ee":"https://doi.org/10.1007/978-3-540-48654-1_37","url":"https://dblp.org/rec/conf/concur/WuSS94"},
+"url":"URL#4479870"
+},
+{
+"@score":"1",
+"@id":"4479871",
+"info":{"authors":{"author":["Qiwen Xu","Antonio Cau","Pierre Collette"]},"title":"On Unifying Assumption-Commitment Style Proof Rules for Concurrency.","venue":"CONCUR","pages":"267-282","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/XuCC94","doi":"10.1007/978-3-540-48654-1_22","ee":"https://doi.org/10.1007/978-3-540-48654-1_22","url":"https://dblp.org/rec/conf/concur/XuCC94"},
+"url":"URL#4479871"
+},
+{
+"@score":"1",
+"@id":"4479872",
+"info":{"authors":{"author":["Shoji Yuen","Rance Cleaveland","Zeynep Dayar","Scott A. Smolka"]},"title":"Fully Abstract Characterizations of Testing Preorders for Probabilistic Processes.","venue":"CONCUR","pages":"497-512","year":"1994","type":"Conference and Workshop Papers","key":"conf/concur/YuenCDS94","doi":"10.1007/978-3-540-48654-1_36","ee":"https://doi.org/10.1007/978-3-540-48654-1_36","url":"https://dblp.org/rec/conf/concur/YuenCDS94"},
+"url":"URL#4479872"
+},
+{
+"@score":"1",
+"@id":"4498504",
+"info":{"authors":{"author":["Bengt Jonsson","Joachim Parrow"]},"title":"CONCUR &apos;94, Concurrency Theory, 5th International Conference, Uppsala, Sweden, August 22-25, 1994, Proceedings","venue":["CONCUR","Lecture Notes in Computer Science"],"volume":"836","publisher":"Springer","year":"1994","type":"Editorship","key":"conf/concur/1994","doi":"10.1007/978-3-540-48654-1","ee":"https://doi.org/10.1007/978-3-540-48654-1","url":"https://dblp.org/rec/conf/concur/1994"},
+"url":"URL#4498504"
 }
 ]
 }
